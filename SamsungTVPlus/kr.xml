@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1686353433">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="1686357201">
   <channel id="KRBD1400001ED">
     <display-name>연합뉴스TV</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png"/>
@@ -38,15 +38,15 @@
     <desc>뉴스 14</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/25/KR_VC_CTI_USQT620324A_KRBD1400001ED_5854_20230609075439903.jpg"/>
   </programme>
+  <programme channel="KRBD1400001ED" start="20230610060000 +0000" stop="20230610070000 +0000">
+    <title>뉴스 15</title>
+    <desc>뉴스 15</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/18/KR_VC_CTI_USQT620324A_KRBD1400001ED_5906_20230609075429254.jpg"/>
+  </programme>
   <channel id="KRBC46000173Y">
     <display-name>JTBC 뉴스</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20230510T011433SQUARE.png_20230510011434.png"/>
   </channel>
-  <programme channel="KRBC46000173Y" start="20230609230104 +0000" stop="20230610001430 +0000">
-    <title>사건반장 [주간 하이라이트]</title>
-    <desc>2015년 4월 5일, 자정이 넘은 시각. 한 젊은 아들이 아버지와 함께 시화호를 찾았습니다. 썰물이 빠지고 바닥이 드러난 호수 돌 틈에서 게를 잡기 위해서인데요. 얼마나 지났을까, 바위틈을 유심히 들여다보던 아들.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/57/KR_VC_CTI_USQT620324A_KRBC46000173Y_jtbc_episode_FP00042771_20230609183225223.jpg"/>
-  </programme>
   <programme channel="KRBC46000173Y" start="20230610001430 +0000" stop="20230610013421 +0000">
     <title>무슨 일이 일어나고 있나요? [뉴스룸 뒤 다시보기]</title>
     <desc>뉴스룸 뒤(D) - 6월 7일</desc>
@@ -77,20 +77,20 @@
     <desc>정치부 회의 - 6월 8일</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/06/KR_VC_CTI_USQT620324A_KRBC46000173Y_jtbc_episode_FP00042777_20230609183548770.jpg"/>
   </programme>
+  <programme channel="KRBC46000173Y" start="20230610055611 +0000" stop="20230610062623 +0000">
+    <title>강아지도 세금 내는 나라? 강아지 800만 거주국, 독일ㅣ백나라 이웃나라 정주행하기</title>
+    <desc>강아지가 800만 마리 살고 있는 나라, 독일🇩🇪 강아지랑 식당도 가고 카페도 가고 케이지 없이 대중교통도 이용할 수 있개🐕 근데 강아지가 ☐☐도 낸다고? 반려동물에게 천국 같은 나라를 백다혜 아나운서가 알려드립니다 🐶💬</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/34/KR_VC_CTI_USQT620324A_KRBC46000173Y_jtbc_episode_FP00042778_20230609183352780.jpg"/>
+  </programme>
+  <programme channel="KRBC46000173Y" start="20230610062623 +0000" stop="20230610072216 +0000">
+    <title>상암동 클라스 145회 (재)</title>
+    <desc>상암동 클라스- 6월 8일</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/47/KR_VC_CTI_USQT620324A_KRBC46000173Y_jtbc_episode_FP00042779_20230609183549098.jpg"/>
+  </programme>
   <channel id="KRBB500039Y5">
     <display-name>Bloomberg TV+ UHD</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png"/>
   </channel>
-  <programme channel="KRBB500039Y5" start="20230609230000 +0000" stop="20230610000000 +0000">
-    <title>Idea Generation: Rapsody</title>
-    <desc>Rapper Rapsody recalls her early days in a college hip-hop collective to rising through the underground rap scene, landing major collaborations with Mac Miller and Kendrick Lamar, and releasing her critically acclaimed debut album.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/77/KR_VC_CTI_USQT620324A_KRBB500039Y5_24917079_20230609183747228.jpg"/>
-  </programme>
-  <programme channel="KRBB500039Y5" start="20230610000000 +0000" stop="20230610003000 +0000">
-    <title>Best of the Qatar Economic Forum, Powered by Bloomberg</title>
-    <desc>Bringing together some of the world's most influential financial and economic thinkers, policy makers and business leaders to prepare a blueprint for the next stage of global growth.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/05/KR_VC_CTI_USQT620324A_KRBB500039Y5_20208161_20230609183746572.jpg"/>
-  </programme>
   <programme channel="KRBB500039Y5" start="20230610003000 +0000" stop="20230610010000 +0000">
     <title>Next in Sports: How Formula One Finally Hooked America</title>
     <desc>Not so long ago, it was the circuits of Monaco and Monza that epitomized Formula 1  its modern ambitions, however, came from Miami.</desc>
@@ -136,6 +136,11 @@
     <desc>Joe Weisenthal and Tracy Alloway explore the most interesting topics in finance, markets and economics.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/87/KR_VC_CTI_USQT620324A_KRBB500039Y5_24868202_20230609183429108.jpg"/>
   </programme>
+  <programme channel="KRBB500039Y5" start="20230610060000 +0000" stop="20230610063000 +0000">
+    <title>Best of the Qatar Economic Forum, Powered by Bloomberg</title>
+    <desc>Bringing together some of the world's most influential financial and economic thinkers, policy makers and business leaders to prepare a blueprint for the next stage of global growth.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/05/KR_VC_CTI_USQT620324A_KRBB500039Y5_20208161_20230609183746572.jpg"/>
+  </programme>
   <channel id="KRBB500044GP">
     <display-name>Bloomberg Originals</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20230524T004225SQUARE.png_20230524004225.png"/>
@@ -150,15 +155,15 @@
     <desc>Bloomberg Quicktake Channel</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/59/KR_VC_CTI_USQT620324A_KRBB500044GP_Bloomberg_Quicktake_KR_Prod_pid_20230609183747525.jpg"/>
   </programme>
+  <programme channel="KRBB500044GP" start="20230610060000 +0000" stop="20230610110000 +0000">
+    <title>Bloomberg Quicktake Program</title>
+    <desc>Bloomberg Quicktake Channel</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/59/KR_VC_CTI_USQT620324A_KRBB500044GP_Bloomberg_Quicktake_KR_Prod_pid_20230609183747525.jpg"/>
+  </programme>
   <channel id="KRBB42000061Z">
     <display-name>SBS 낭만닥터 김사부 시즌2</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000061Z_20230524T004349SQUARE.png_20230524004350.png"/>
   </channel>
-  <programme channel="KRBB42000061Z" start="20230609224413 +0000" stop="20230609235844 +0000">
-    <title>낭만닥터 김사부 2 11회</title>
-    <desc>최소한의 경계선 돌담병원 사람들은 김사부를 치료하기 위해 애쓰는 한편 도윤완에게 김사부가 쓰러졌다는 소식이 전해진다. 박민국은 돌담병원 해체를 위해 직원들을 뿔뿔이 흩어놓을 계획을 세우는데...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/89/KR_VC_CTI_USQT620324A_KRBB42000061Z_447044290_20230609184005765.jpg"/>
-  </programme>
   <programme channel="KRBB42000061Z" start="20230609235844 +0000" stop="20230610011442 +0000">
     <title>낭만닥터 김사부 2 12회</title>
     <desc>등가교환의 오류 우진은 환자의 과거 수술 중 일어난 실수가 은재의 오빠가 저지른 것이란걸 알고 갈등에 빠진다. 은재는 갑작스럽게 집도의로서 첫 수술에 들어간다. 한편, 박민국은 우진에게 파격적인 제안을 하는데...</desc>
@@ -188,11 +193,6 @@
     <display-name>tvN 슬기로운 의사생활</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500003W6_20230524T004359SQUARE.png_20230524004400.png"/>
   </channel>
-  <programme channel="KRBC4500003W6" start="20230609224827 +0000" stop="20230610000829 +0000">
-    <title>슬기로운 의사생활 5회</title>
-    <desc>겨울은 유난히 본인에게만 차가운 정원에게 칭찬 한마디를 기대해보지만, 쉽지 않다. 흉부외과에는 새로운 교수가 부임해오고, 준완보다 더한 까칠함을 장착한 교수 덕에 재학은 24시간이 모자라다.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/87/KR_VC_CTI_KRQT161013A_B120195543_D5_720762_20230509125823414.jpg"/>
-  </programme>
   <programme channel="KRBC4500003W6" start="20230610000829 +0000" stop="20230610013835 +0000">
     <title>슬기로운 의사생활 6회</title>
     <desc>큰 맘 먹고 한 대시에도 불구하고 어떤 대답도 없는 익순 때문에 하루 종일 휴대폰만 들여다보는 준완. 그럼에도 흉부외과 의사의 하루는 끊임없이 돌아간다. 한편, 정원이 오래 지켜봐온 환자의 상태가 점점 악화되고, 결국 보호자에게 어려운 소식을 전하는데..</desc>
@@ -213,20 +213,15 @@
     <desc>매사에 똑 부러지는 겨울인데... 평소와 달리 정원 앞에서 실수를 저지르고, 어깨가 축 처지고 만다. 응급콜에 다급하게 달려온 송화는 예상치 못 한 환자의 모습에 깜짝 놀라고. 한편, 익준은 보호자의 표정에서 뭔가 불안한 기운을 감지하는데...</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/17/KR_VC_CTI_KRQT161013A_B120195543_D9_720774_20230509125823727.jpg"/>
   </programme>
+  <programme channel="KRBC4500003W6" start="20230610061023 +0000" stop="20230610075055 +0000">
+    <title>슬기로운 의사생활 10회</title>
+    <desc>재학은 의사로서 찾아오는 고민의 순간들을 마주하게 되고, 준완에게 고민 상담을 청한다. 준완의 따끔한 충고에 본인의 의사생활을 다시 한번 돌아보게 되고... 한편, 익준은 그동안 은밀하게 숨겨온 비밀을 눈치채게 되는데...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/67/KR_VC_CTI_KRQT161013A_B120195543_D10_720777_20230509125535303.jpg"/>
+  </programme>
   <channel id="KRBC3200013UR">
     <display-name>tvN 응답하라 1997</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200013UR_20230426T013732SQUARE.png_20230426013732.png"/>
   </channel>
-  <programme channel="KRBC3200013UR" start="20230609224612 +0000" stop="20230609233629 +0000">
-    <title>응답하라 1997 10회, 당신이 좋은 이유</title>
-    <desc>'학찬'에게 핑클이 좋냐 내가 좋냐는 질문을 쏟아붓는 '유정'. '시원' 역시 생각지 못한 상황들에 고민에 빠진다.  한편, 수능이 끝난 이 화려한 시절을 만끽하고자 여섯친구들은 야심차게 콜라텍 방문을 하고, 그 곳에서 부산최고 오지라퍼 '성재'는 인생을 걸 아름다운 그녀를 만나는데...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/03/91/KR_VC_CTI_KRQT161013A_B120121083_D10_153702_20230604192516112.jpg"/>
-  </programme>
-  <programme channel="KRBC3200013UR" start="20230609233629 +0000" stop="20230610002352 +0000">
-    <title>응답하라 1997 11회, 관계의 정의</title>
-    <desc>98년 12월, 여성 대상 범죄가 급증하고 있다는 보도기사에 태웅은 밤늦도록 편의점 아르바이트를 하는 시원이 걱정된다. 하지만 이런 형을 보며, 진심을 숨긴채 시원에게 무관심하려 애쓰는 윤제.  한편, 학찬과 유정은 유정의 친구들을 만나는 자리에서 커플탄생 이래 최대의 위기를 맞는데...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/17/KR_VC_CTI_KRQT161013A_B120121083_D11_153705_20230604192956885.jpg"/>
-  </programme>
   <programme channel="KRBC3200013UR" start="20230610002352 +0000" stop="20230610011906 +0000">
     <title>응답하라 1997 12회, 손의 의미</title>
     <desc>시원은 늘 받기만 하는 미안함에 태웅에게 자그마한 선물을 준비하고, 윤제는 그 자리를 우연히 목격하게 된다.  그리고 맞이하게 된 시원의 생일. 태웅은 연인으로서 특별한 의미를 담은 선물을 정성껏 준비하고, 윤제는 드디어 시원에게 오랫동안 마음에 담아 두었던 말들을 쏟아내는데...</desc>
@@ -252,15 +247,20 @@
     <desc>서로를 바라볼 수 있게 된 시원(정은지)과 윤제(서인국). 그러나 행복도 잠시, 남들 다하는 평범한 연애도 쉽지만은 않는데...  드디어 2012년, 동창회에서 시원의 남편이 공개된다.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/90/KR_VC_CTI_KRQT161013A_B120121083_D16_153720_20230604192359959.jpg"/>
   </programme>
+  <programme channel="KRBC3200013UR" start="20230610053045 +0000" stop="20230610061733 +0000">
+    <title>응답하라 1997 1회, 열여덟</title>
+    <desc>홍대 한 호프집에서 ‘재경 부산 광안고 38회 동창회'가 시작된다. 오랜만에 만난 부산 출신 동갑내기 여섯 동창들은 서로 만나서 반갑다고 난리다. 90년대의 추억을 함께 울고 웃던 여섯 명의 학창 시절 친구들.  그리고 이 날, 한쌍의 커플이 결혼 발표를 한다.  과연 청첩장의 주인공은 누구일까? 다시 과거로 돌아가, 때는 1997년 4월 부산. H.O.T에 울고 웃던 1세대 빠순이 ‘시원'이의 이야기는 이렇게 시작되는데..</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/55/KR_VC_CTI_KRQT161013A_B120121083_D1_153675_20230604192519392.jpg"/>
+  </programme>
+  <programme channel="KRBC3200013UR" start="20230610061733 +0000" stop="20230610064705 +0000">
+    <title>응답하라 1997 2회, 점점 달라지다</title>
+    <desc>자나깨나 HOT토니빠 성시원의 48등이라는 경이적인 성적에 아빠의 원성은 높아가고, 급기야 시원이의 모든 것인 토니의 사진을 찢는 사건이 벌어진다.  이에, 가출을 결심한 시원. 하지만 믿었던 소꿉친구 윤제와 단짝 유정이 예전같지 않은데..</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/15/KR_VC_CTI_KRQT161013A_B120121083_D2_153678_20230604192325996.jpg"/>
+  </programme>
   <channel id="KRBC3200032ZM">
     <display-name>tvN 응답하라 1994</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200032ZM_20230426T013730SQUARE.png_20230426013730.png"/>
   </channel>
-  <programme channel="KRBC3200032ZM" start="20230609222951 +0000" stop="20230609234826 +0000">
-    <title>응답하라 1994 17회, 사랑, 두려움 2</title>
-    <desc>나정(고아라)은 멀리 떨어져 지내게 된 남자친구 쓰레기(정우) 생각에 안절부절못한다. 한편, 빙그레(바로)는 이제껏 확신하지 못했던 감정을 확인하게 되는데... 야구에 전력투구하는 칠봉(유연석), 연애가 항상 불안한 삼천포(김성균)와 윤진(민도희), 모두 각자의 방식대로 두려운 것에 맞설 준비를 한다.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/78/KR_VC_CTI_KRQT161013A_B120130408_D17_932514_20230605024900189.jpg"/>
-  </programme>
   <programme channel="KRBC3200032ZM" start="20230609234826 +0000" stop="20230610013849 +0000">
     <title>응답하라 1994 18회, 다시 사랑한다 말할까</title>
     <desc>시티폰 주식으로 대박을 노리는 동일, 전역해서 여자친구를 만들려는 해태. 동일은 주식을 통해 부자가 되고, 해태는 운명적인 사랑을 만날 수 있을까? 나정과 쓰레기, &lt;신촌하숙&gt;아이들은 시간이 지날수록..</desc>
@@ -285,11 +285,6 @@
     <display-name>tvN 응답하라 1988</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20230426T013728SQUARE.png_20230426013729.png"/>
   </channel>
-  <programme channel="KRBC3200014XZ" start="20230609224112 +0000" stop="20230610002848 +0000">
-    <title>응답하라 1988 14회, 걱정말아요 그대</title>
-    <desc>누구보다 엄마를 이해하는 아들 선우, 하지만 엄마 옆자리의 무성만큼은 받아들이고 싶지 않다.  미옥과의 꿈같은 첫 데이트를 앞둔 정봉은 떨리는 마음을 안고 데이트 장소로 향한다. 한편, 정환의 미지근한 반응에도 덕선은 굴하지 않는데...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/93/KR_VC_CTI_KRQT161013A_B120156699_D14_867457_20230605024907632.jpg"/>
-  </programme>
   <programme channel="KRBC3200014XZ" start="20230610002848 +0000" stop="20230610021711 +0000">
     <title>응답하라 1988 15회, 사랑과 우정 사이</title>
     <desc>덕선의 진학상담을 위해 일화는 덕선의 학교를 찾아가고, 보라는 사법고시 준비하라는 동일, 일화의 말에 고민에 빠진다.  바쁜 부모님 때문에 항상 외로운 동룡은 새로운 취미가 생기는데...  한편, 지친 하루를 마친 택이를 위로해주는 것은...?!</desc>
@@ -305,15 +300,15 @@
     <desc>별똥별 떨어지는 어느 날. 소중한 사람과 함께 소원을 비는 골목길 사람들. 그들이 이루고 싶은 소원은?  택의 고백 불발 이후 처음으로 마주하게 된 정환과 택. 둘 사이엔 어색한 기운이 감도는데...</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/93/KR_VC_CTI_KRQT161013A_B120156699_D17_867466_20230605024859781.jpg"/>
   </programme>
+  <programme channel="KRBC3200014XZ" start="20230610061020 +0000" stop="20230610080319 +0000">
+    <title>응답하라 1988 18회, 굿바이 첫사랑</title>
+    <desc>1994년. 택의 생일을 맞아 친구들은 오랜만에 한자리에 모여 생일을 축하한다.오랜만에 집에 온 아이들에, 부모들은 자는 모습만 봐도 반갑기만 한데...   안녕, 나의 첫사랑. 몇 년 동안 놓지 못 했던 그녀를 향한 내 마음을 이제 그만 놓아 줘야 할 것 같다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/17/KR_VC_CTI_KRQT161013A_B120156699_D18_867469_20230605024937443.jpg"/>
+  </programme>
   <channel id="KRBC4500002Q4">
     <display-name>tvN 나의 아저씨</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20230524T004315SQUARE.png_20230524004315.png"/>
   </channel>
-  <programme channel="KRBC4500002Q4" start="20230609224749 +0000" stop="20230610001416 +0000">
-    <title>나의 아저씨 14회</title>
-    <desc>상무 후보 인터뷰 이후, 지안(이지은)이 과거 살인을 저지른 적이 있다는 사실이 회사 내에 퍼지기 시작한다. 동훈(이선균)은 지안이 연락 두절인 상태라는 걸 파악하고여기저기 그녀가 갈 만 한 곳을 전부 수소문해보지만 지안의 흔적은 어디에서도 찾아 볼 수 없고...그러던 찰나 정희(오나라)는 동훈에게 그날 이른 아침에 자신이 지안을 목격했던 이야기를 들려준다.그리고 동훈에게 한 통의 전화가 걸려 오는데... 지안이다!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/55/KR_VC_CTI_KRQT161013A_B120188697_D14_1034665_20230521193227856.jpg"/>
-  </programme>
   <programme channel="KRBC4500002Q4" start="20230610001416 +0000" stop="20230610014105 +0000">
     <title>나의 아저씨 15회</title>
     <desc>동훈(이선균)은 핸드폰 너머로 자신의 말을 듣고 있을 지안(이지은)에게 바로 찾아와달라고 말하지만,지안에게선 어떠한 답도 들려오지 않는다. 동훈은 윤희(이지아)에게 지안을 알고 있는지 물어보고,윤희는 그동안 지안과 있었던 일들을 동훈에게 고백한다. 윤희는 동훈과 함께 지안을 돕기로 결심하고, 동훈은 지안을 찾기 위해서 부지런히 움직이고...그러나 동훈이 그럴수록 지안은 그에게서 더더욱 도망 치려하는데...</desc>
@@ -333,6 +328,11 @@
     <title>나의 아저씨 2회</title>
     <desc>지안(이지은)은 훔친 뇌물로 사채 빚을 갚으려고 했지만 광일(장기용)이 장물인 걸 눈치채자 다시 뇌물을 가지고 사채 사무실을 빠져나온다. 그리고 알고 지내던 사내 청소부 춘배(이영석)의 도움을 받아 회사 내 쓰레기통에 그 뇌물을 버린다. 한편 동훈(이선균)은 이런 사실을 모른 채 뇌물을 지안이 가져갔다고 확신하고,그녀에게서 뇌물을 되찾으려고 형제들과 함께 노력하지만, 결국 실패하고 좌절한다.  하지만 동훈이 받은 뇌물이 쓰레기통에서 발견되면서 동훈은 의도치 않게 뇌물 오 천만 원도 눈 하나 깜빡 안 하고 버리는 청렴하고 간 큰 사원으로 칭찬받는데... ‘이지안, 쟤는 도대체 뭐지?'</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/69/KR_VC_CTI_KRQT161013A_B120188697_D2_1034629_20230521193339808.jpg"/>
+  </programme>
+  <programme channel="KRBC4500002Q4" start="20230610061653 +0000" stop="20230610074024 +0000">
+    <title>나의 아저씨 3회</title>
+    <desc>박상무(정해균)가 동훈(이선균)에게 뇌물을 건넨 업체를 찾아 나서기 시작하자 준영(김영민)과 윤상무(정재성)는 위기감을 느낀다.은밀하게 준영과 거래를 하기로 한 지안(이지은)은 박상무를 잘라내기 위해 기범(안승균)과 함께 함정을 파고...  한편, 동훈은 아무것도 모른 채 지안이 자신을 도와줬다고 믿으며 고마움을 느낀다. 지안은 동훈을 잘라 내기 위해 의도적으로 접근을 시작하는데...!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/01/KR_VC_CTI_KRQT161013A_B120188697_D3_1034632_20230521193228330.jpg"/>
   </programme>
   <channel id="KRBC4600004BQ">
     <display-name>JTBC 부부의 세계</display-name>
@@ -363,16 +363,15 @@
     <desc>‘맹세, 존중, 사랑.. 우리 사이엔 이제 아무것도 없다.' 선우(김희애)가 어딘가 달라졌음을 느낀 태오(박해준)는 의심과 불안감에 휩싸여 간다. 한편, 선우는 계획과 달리 끈질기게 자신을 원하는 제혁(김영민)을 떨쳐내 보려 하지만 쉽지 않고 그녀를 둘러싼 남자들은 그녀를 더욱 곤욕스럽게 만들고 마는데… 선우와 제혁을 향한 불안한 느낌을 감지한 예림(박선영)은 제혁과의 관계 회복을 종용하고, 태오는 그 어느 때보다 싸늘하게 침잠한 선우의 모습이 초조하기만 한데…</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/19/KR_VC_CTI_USQT620324A_KRBC4600004BQ_jtbc_episode_FP00039687_20230609183341822.jpg"/>
   </programme>
+  <programme channel="KRBC4600004BQ" start="20230610062531 +0000" stop="20230610074919 +0000">
+    <title>부부의 세계(15세) 6회</title>
+    <desc>‘우리 모두를 망친 건 너야!' 선우(김희애)와 태오(박해준) 두 사람은 가정을 망가뜨린 원인이 상대에게 있음을 서로 탓한다. 그리고 달라진 부모님의 모습에 불안감을 느끼는 준영(전진서). 준영을 사이에 둔 선우와 태오의 전쟁이 본격적으로 시작된다. 다경(한소희)은 돈도 아들도 포기할 수 없다는 태오의 행동이 답답하기만 하고, 선우의 주변에 이상한 일이 벌어지기 시작하는데…</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/50/KR_VC_CTI_USQT620324A_KRBC4600004BQ_jtbc_episode_FP00039688_20230609183342197.jpg"/>
+  </programme>
   <channel id="KRBC3500014ZH">
     <display-name>고독한 미식가</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500014ZH_20230524T004401SQUARE.png_20230524004402.png"/>
   </channel>
-  <programme channel="KRBC3500014ZH" start="20230609232526 +0000" stop="20230610000300 +0000">
-    <title>고독한 미식가</title>
-    <sub-title>10화</sub-title>
-    <desc>아라카와 유원지 역에서 내려 아라카와 유원지로 향하는 고로. 동물원 코너에는 염소나 양 라쿤이 있었다. 변두리 마을 기차 자료관에서 관장 오키타 마사요시와 만난다. 내년이 3주년이기 때문에 세계의 노면 전철 축전을 기획하고 있고 그를 위해 세계의 노면 전철의 모형 수집을 도와달라고 하는 관장. 오키타의 열정적인 모습에 고로는 흔쾌히 승낙하지만...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/30/KR_VC_CTI_KRPBA3501QY_KRBC3500014ZH_009f347cb2bb6a0a401cdbf2776e6d97992c_20230609183704478.jpg"/>
-  </programme>
   <programme channel="KRBC3500014ZH" start="20230610000300 +0000" stop="20230610004029 +0000">
     <title>고독한 미식가</title>
     <sub-title>11화</sub-title>
@@ -427,22 +426,22 @@
     <desc>오카치마치역에 들른 고로는 왜인지 약속 장소를 바꾼 의뢰인을 찾아 토리고에 신사로 향한다. 아내 몰래 구입한 모델 건이 들키면 난감하다고 말하며 고로에게 모델 건은 받아든 의뢰인은 아이처럼 기뻐한다. 의뢰인과 헤어지고 골목을 걷던 고로는 내일 아침 먹을 반찬들을 구입하다가 문듣 눈에 들어온 가게 마메조 안으로 향한다. 다양한 메뉴에 망설이던 고로가 본격적으로 주문한 음식은 무엇일까?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/93/KR_VC_CTI_KRPBA3501QY_KRBC3500014ZH_009f347c123a8a34de3cf4b904a11f190798_20230609183818356.jpg"/>
   </programme>
+  <programme channel="KRBC3500014ZH" start="20230610054156 +0000" stop="20230610061924 +0000">
+    <title>고독한 미식가</title>
+    <sub-title>8화</sub-title>
+    <desc>오늘의 의뢰인이 있는 곳 아사가야에 도착한 고로는 번드르르한 상점가 이름에 압도된다. 길을 걷다가 발견한 미니 게임기에 정신이 팔린 고로는 몇 번의 좌절 끝에 성공하여 경품으로 군것질을 얻는다. 의뢰인이 있는 곳에 도착해 미팅을 하던 도중에 고로는 당구대에서 경쾌한 소리를 내며 굴러가는 공을 보다가 문득 허기를 느끼고 만다. 길을 걷던 도중에 발견한 가게에 들어서자 하와이 느낌이 물씬 풍겨오고 어쩐지 고로 주변에는 모두 여성 손님들밖에 없어 이질감을 느끼는데...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/25/KR_VC_CTI_KRPBA3501QY_KRBC3500014ZH_009f347c6fb50570c97dff0317976cedc12c_20230609183340050.jpg"/>
+  </programme>
+  <programme channel="KRBC3500014ZH" start="20230610061924 +0000" stop="20230610065651 +0000">
+    <title>고독한 미식가</title>
+    <sub-title>9화</sub-title>
+    <desc>이노가시라는 친구 타키야마와 만나 업무 이야기를 나눈다. 뒤늦게 도착한 타키야마는 여러 가지 일거리를 소개해 준다. 타키야마와 헤어진 뒤 조카의 야구 경기를 보러 갔던 때를 떠올린 고로. 그리고 더위와 함께 빠르게 찾아온 허기에 고로는 철판 중화요리 간판에 이끌려 가게 안으로 향한다. 압도적인 가게 분위기 속에서 고로가 선택한 철판 중화요리는 무엇일까?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/91/KR_VC_CTI_KRPBA3501QY_KRBC3500014ZH_009f347c05ae958baba4072c1bcd10823903_20230609183818026.jpg"/>
+  </programme>
   <channel id="KRBC3500015BN">
     <display-name>심야식당</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20230524T004405SQUARE.png_20230524004406.png"/>
   </channel>
-  <programme channel="KRBC3500015BN" start="20230609231210 +0000" stop="20230609233919 +0000">
-    <title>심야식당</title>
-    <sub-title>8화</sub-title>
-    <desc>남보다 추위를 많이 타는 히토미는 젊은 남자에게 돈만 갖다 바치고는 버림받고 만다. 그러던 어느 날, 히토미는 애완동물숍에서 더위를 많이 타는 남자 하시모토를 만나 사랑에 빠진다. 그리고 두 사람은 주말에 심야 식당을 찾아가 하시모토가 좋아하는 중화냉면을 먹는다. 그런 가운데, 가게에 형사 이누즈카가 나타나 20년 전에 쫓다가 놓친 범인에 관해 이야기를 하며, 범인이 중화냉면을 좋아했다고 말한다. 그 이야기를 들은 히토미는 하시모토의 과거를 의심하기 시작하는데...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/03/50/KR_VC_CTI_KRPBA3501QY_KRBC3500015BN_009f347c96bc114e814875801de3e5337e35_20230609183916507.jpg"/>
-  </programme>
-  <programme channel="KRBC3500015BN" start="20230609233919 +0000" stop="20230610000626 +0000">
-    <title>심야식당</title>
-    <sub-title>1화</sub-title>
-    <desc>어느 날, 8년 전에 남편을 떠나보낸 가수, 미사오가 오랜만에 심야 식당을 찾아온다. 그리고는 남편이 무척 좋아했던 마스터의 멘치카츠를 먹은 미사오는 쓰러져 울기 시작한다. 남편이 죽은 후, 미사오는 사람들 앞에서 노래를 부를 수 없게 되고, 집에 틀어박혀 지내온 것이다. 그런 가운데, 요리평론가 토야마의 아내가 입원하게 되고, 미사오의 노래를 듣는 것이 소원이라는 아내의 말에 토야마는 미사오에게 노래를 불러 달라고 부탁하는데...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/86/KR_VC_CTI_KRPBA3501QY_KRBC3500015BN_009f347cff60198ac28d264ff84f49df41d8_20230609183706750.jpg"/>
-  </programme>
   <programme channel="KRBC3500015BN" start="20230610000626 +0000" stop="20230610003318 +0000">
     <title>심야식당</title>
     <sub-title>2화</sub-title>
@@ -515,16 +514,28 @@
     <desc>식당에서 모인 서른살 언저리의 세 사람, 미키, 루미, 카나는 항상 각각 매실, 명란젓, 연어 오차즈케를 시킨다. 그 모습을 본 마스터는 몰래 그녀들을 '오차즈케 시스터즈'라고 부른다. 오차즈케 시스터즈는 순애(純愛)를 추구하며 결혼하고 싶다고 항상 이야기한다. 그러던 어느 날, 루미가 맞선을 보러 큐슈의 본가로 돌아가버리고, 그 와중에 미키의 전 남자친구와 카나가 사귀기 시작하면서 여자들의 우정에 금이 가게 되는데...</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/34/KR_VC_CTI_KRPBA3501QY_KRBC3500015BN_009f347caa023e74fe6fa445467a3cc8ebdf_20230609183121054.jpg"/>
   </programme>
+  <programme channel="KRBC3500015BN" start="20230610053200 +0000" stop="20230610060007 +0000">
+    <title>심야식당</title>
+    <sub-title>4화</sub-title>
+    <desc>최근 가게에 오기 시작한 남자가 항상 주문하는 건 감자 샐러드. 가게에서 식사를 하고 있던 타나카는 이 남자가 전설의 카리스마 AV 배우 이렉트 오오키라는 걸 알고 그 자리에서 제자로 받아달라며 부탁한다. 오오키는 곤란해했지만 젊은이의 한결같은 마음을 받아들이기로 한다. 타나카가 데뷔를 앞둔 어느 날 밤, 어머니가 쓰러졌다는 전화가 걸려온다. 그러나 별일 아니라고 말하는 타나카에게 오오키는 격노하는데...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/39/KR_VC_CTI_KRPBA3501QY_KRBC3500015BN_009f347c095d5bc9eff04605609b6cd8c072_20230609183705667.jpg"/>
+  </programme>
+  <programme channel="KRBC3500015BN" start="20230610060007 +0000" stop="20230610062815 +0000">
+    <title>심야식당</title>
+    <sub-title>5화</sub-title>
+    <desc>어느 날 단골인 코미치가 요리평론가 토야마를 심야 식당에 데려온다. 그러나 음식에 대한 지식을 뽐내는 토야마 때문에 가게 분위기는 싸해지고 만다. 그런데 그때 떠돌이 가수 고로가 가게 안으로 들어온다. 늘 먹던 버터 라이스를 주문하고 보답으로 노래를 열창한다. 그 후로 토야마는 매주 심야 식당에 다니기 시작하며 버터 라이스를 주문하지만 어찌된 일인지 그날 이후 고로는 찾아오지 않게 되었는데...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/03/KR_VC_CTI_KRPBA3501QY_KRBC3500015BN_009f347c6d33626d29ab7890f42d222c400f_20230609183206999.jpg"/>
+  </programme>
+  <programme channel="KRBC3500015BN" start="20230610062815 +0000" stop="20230610065620 +0000">
+    <title>심야식당</title>
+    <sub-title>6화</sub-title>
+    <desc>부은 얼굴로 심야 식당을 찾아온 복서 캇짱. 그는 시합에 이긴 날에는 항상 돈까스 덮밥을 먹는다. 그러던 어느 날 캇짱은 단골 중 한 명인 아케미를 만나면서 사랑에 빠지게 된다. 그런 캇짱에게 이기면 타이틀 매치에 출전할 큰 기회가 찾아오지만 주위에서는 절대로 이기지 못할 거라고 이야기한다. 이에 캇짱은 일을 그만두고 복싱에 전념해서 그 시합에서 이기면 아케미에게 프러포즈하기로 결심하는데...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/28/KR_VC_CTI_KRPBA3501QY_KRBC3500015BN_009f347c1c96112b398352d468ab9f357a6d_20230609183205940.jpg"/>
+  </programme>
   <channel id="KRBB5000073UD">
     <display-name>MBC 그녀는 예뻤다</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20230524T004334SQUARE.png_20230524004335.png"/>
   </channel>
-  <programme channel="KRBB5000073UD" start="20230609231533 +0000" stop="20230610001935 +0000">
-    <title>그녀는 예뻤다, 12회</title>
-    <sub-title>이제 도망 안 갈 거다</sub-title>
-    <desc>&lt;12회 내용&gt; 신혁(최시원)은 다시 모스트편집팀으로 돌아와 20주년 특집호에 힘을 실어주고, 혜진(황정음)에게도 아무일 없었다는 듯 행동한다. 다시 혜진과 만난 하리(고준희)는 진심으로 사과하며 성준(박서준)과 혜진을 응원한다. 한편 성준은 판매부수 1위 탈환을 위해 고군분투한다.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/71/KR_VC_CTI_USQT620324A_KRBB5000073UD_SAMSUNG_20230610_03_D568DA98_20230609183732684.jpg"/>
-  </programme>
   <programme channel="KRBB5000073UD" start="20230610001935 +0000" stop="20230610012341 +0000">
     <title>그녀는 예뻤다, 13회</title>
     <sub-title>나 이제 너 혼자 안 둬</sub-title>
@@ -555,15 +566,16 @@
     <desc>&lt;9회 내용&gt; 혜진(황정음)은 아버지 인쇄소의 기계를 바꿔 주기 위해 다시 모스트 편집팀으로 돌아오고 팀원들은 변신한 혜진을 환영하며 반겨준다. 성준(박서준)과 신혁(최시원)은 서로 경쟁이라도 하듯 컴백한 혜진에게 웰컴 인사를 하는 가운데, 모스트 편집팀은 창간 20주년 기념 파티 준비로 분주해 진다.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/17/KR_VC_CTI_USQT620324A_KRBB5000073UD_SAMSUNG_20230610_08_4600A83B_20230609183742906.jpg"/>
   </programme>
+  <programme channel="KRBB5000073UD" start="20230610054017 +0000" stop="20230610064506 +0000">
+    <title>그녀는 예뻤다, 10회</title>
+    <sub-title>나, 성준이가 좋아요!</sub-title>
+    <desc>&lt;10회 내용&gt; 혜진(황정음)을 사이에 두고 성준(박서준)과 신혁(최시원) 사이의 신경전은 깊어만 가고, 성준과 신혁 둘 다 혜진에게 적극적으로 자신의 감정을 어필하기 시작한다. 하리는 "내일이면 다 돌아올거야"라며 무언가를 다짐하고, 혜진은 성준이 좋아졌음을 고백한다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/26/KR_VC_CTI_USQT620324A_KRBB5000073UD_SAMSUNG_20230610_09_6AFE62AC_20230609183949267.jpg"/>
+  </programme>
   <channel id="KRBC50000228B">
     <display-name>JTBC 멜로가 체질</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000228B_20230524T004327SQUARE.png_20230524004328.png"/>
   </channel>
-  <programme channel="KRBC50000228B" start="20230609223713 +0000" stop="20230609234442 +0000">
-    <title>멜로가 체질 4회</title>
-    <desc>지난 밤에 있었던 사태에 대해 논의를 하는 진주(천우희)와 범수(안재홍), 그 결론은... 오늘부터 1일? 방송 후, 은정과 소민에 대한 반응은 뜨거웠고,아랑(류아벨)은 은정(전여빈)에게 소민(이주빈)의 다큐를 만들어 보자고 제안하는데.. 한편, 하윤(미람)은 재훈(공명)을 찾아와 흥미유발엔터를 아수라장으로 만들어 버리는데, 그 모습을 마주하게 된 한주(한지은)의 반응은?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/36/KR_VC_CTI_USQT620324A_KRBC50000228B_jtbc_episode_FP00040005_20230609183447345.jpg"/>
-  </programme>
   <programme channel="KRBC50000228B" start="20230609234442 +0000" stop="20230610005505 +0000">
     <title>멜로가 체질 5회</title>
     <desc>자신들의 외적인 아름다움을 보여주기 위해 향한 클럽에서 한주(한지은)는 다른 남자와 있는 하윤(미람)을 발견한다. 다큐를 제안하기 위해 소민(이주빈)을 찾아가고, 소민과 얘기를 나누면 나눌수록 자신이 알지 못했던 다양한 모습의 소민을 발견하게 되는 은정(전여빈). 한편, 편성을 받기위해 pt자리에 서는 범수(안재홍)와 진주(천우희), 그 자리에서 진주는 범수에게 넥슬라이스를 날리고 마는데... 무슨 일이 있었던 걸까?</desc>
@@ -594,6 +606,11 @@
     <desc>하윤(미람)과 헤어진 재훈(공명), 하지만 이 사실을 모르는 한주(한지은)은 재훈에게 하윤이 좋아하는 뮤지컬 티켓을 건내고.. 울적해 하는 소민(이주빈)에게 진심어린 조언을 해주는 은정(전여빈). 은정의 말을 듣고 소민은 민준(김명준)에게 달려간다. 한편, 혜정(백지원)의 대본을 보던 인종(정승길)은 진주(천우희)대본과 비슷한 부분들을 발견하게 되고, 진주와 환동(이유진)의 과거, 거기에 혜정과 범수(안재홍)까지... 그들의 꼬인 인연이 방송가에 퍼지는데…</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/94/KR_VC_CTI_USQT620324A_KRBC50000228B_jtbc_episode_FP00040011_20230609183219739.jpg"/>
   </programme>
+  <programme channel="KRBC50000228B" start="20230610062913 +0000" stop="20230610073627 +0000">
+    <title>멜로가 체질 11회</title>
+    <desc>방송가에 퍼진 소문이 신경쓰여 진주(천우희)는 범수(안재홍)를 피하게 되고, 그런 진주의 모습에 범수는 애가 탄다. 뮤지컬 당일, 재훈(공명)은 한주(한지은)에게 하윤(미람)과 헤어진 사실을 말하고, 같이 보러가자고 말하는데... 한편, 심리상담사를 찾아간 은정(전여빈)은 그동안 아무에게도 말하지 못했던 이야기들을 담담히 털어놓다, 홍대(한준우)를 떠나 보내고 처음으로 울음을 터트리는데...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/45/KR_VC_CTI_USQT620324A_KRBC50000228B_jtbc_episode_FP00040012_20230609183941000.jpg"/>
+  </programme>
   <channel id="KRBC3200030BO">
     <display-name>tvN 김비서가 왜 그럴까</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200030BO_20230524T004354SQUARE.png_20230524004355.png"/>
@@ -623,15 +640,15 @@
     <desc>과거 기억을 되찾은 미소(박민영)가 걱정스러운 영준(박서준)!미소가 자신처럼 악몽에 시달리지 않을까 염려되는 마음에‘김미소 숙면 프로젝트'를 가동하며 ‘세미동거‘를 선언한다.좁디좁은 원룸에서 영준과 아슬아슬한 동거를 시작한 미소!자신의 공간에 들어온 영준을 보며 묘한 긴장감을 느끼고.. 숙면을 도와주러 온 영준 때문에 숙면을 취할 수 없을 것만 같은데..한편, 납치사건의 당사자가 자신이 아닌 영준인 것을 알게 된 성연(이태환)! 영준이 지금껏 기억을 잃은 척, 연기하며 살아 온 이유를 알게 된다?!대체... 이영준이 왜 그럴까?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/43/KR_VC_CTI_KRQT161013A_B120189410_D12_1251880_20230521193340111.jpg"/>
   </programme>
+  <programme channel="KRBC3200030BO" start="20230610055530 +0000" stop="20230610071512 +0000">
+    <title>김비서가 왜 그럴까 13회</title>
+    <desc>서툴지만 최선을 다해 연애에 임하는 영준(박서준)과 미소(박민영)!눈에서 꿀이 떨어져도 모자를 판에.. 출장으로 떨어져 지내게 된다?!‘눈에서 멀어지면 마음에서도 멀어진다'고 그 누가 말했던가..떨어진 시간만큼 더욱 애틋해진 두 사람!일상생활 불가! 속도조절 불가! 그 어느 때보다 뜨거운 시간을 보내는데...영준과 미소의 불타는 연애가.. 누군가의 레이더망에 포착된다?!대체...이 커플이 왜 그럴까?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/03/60/KR_VC_CTI_KRQT161013A_B120189410_D13_1251886_20230521192854053.jpg"/>
+  </programme>
   <channel id="KRBB4200005CK">
     <display-name>SBS 순옥명작관</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20230111T005228SQUARE.png_20230111005228.png"/>
   </channel>
-  <programme channel="KRBB4200005CK" start="20230609231500 +0000" stop="20230610002213 +0000">
-    <title>웃어요 엄마 20회</title>
-    <desc>자신의 눈치를 보지말라며 웃는 모습이 보기 좋다고 말한 뒤 슬쩍 달래의 손을 잡으며 걷고 있는 연우... 그런 연우에게 달래는 자신을 여자로 생각 한 적이 한번도 없다면서 왜 갑자기 맘이 변한거냐고 묻는다. 연우는 진지하게 달래를 보며 자신이 이런 사랑을 받을 자격이 있는지는 모르지만, 최소한 널 상처 주지 않을 거라고 한 뒤 가만히 따뜻하게 달래를 안아준다. 달래는 행복한 기분에 눈물이 흐르고,, 연우에게 사랑한다고 하는데...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/01/KR_VC_CTI_USQT620324A_KRBB4200005CK_402177692_20230609183901717.jpg"/>
-  </programme>
   <programme channel="KRBB4200005CK" start="20230610002213 +0000" stop="20230610012932 +0000">
     <title>웃어요 엄마 21회</title>
     <desc>얼굴이며 옷이 검댕이 범벅이 되어버린 신영을 본 정운은 이꼴이 뭐냐며 고작 이렇게 살려고 떠난 거였냐며 화를 낸다. 신영은 봉사 갔다가 사고가 좀 있었다며 얼굴을 피하며 말하는데... 정운은 결심한 듯 강한 어투로 아직도 널 좋아한다며 자신이 책임질테니 이혼을 하고 같이 미국으로 가자고 하며 신영을 와락 끌어안는다. 그때 신영을 쫓아온 머루는 신영과 정운의 모습을 보고 기함해 멈춰 서는데...</desc>
@@ -657,15 +674,20 @@
     <desc>안나와 민주가 어떤 사이인지 알게된 강소는 서둘러 레스토랑 쪽으로 뛰어가 민주를 만난다. 강소는 민주의 손을 잡아 끌며 오늘 약속이 취소 되었으니 집으로 가자고 하는데, 민주는 멈칫 하며 누나가 자신을 보기 싫어 하느냐고 묻는다.  강소는 별일 아니라며 다른 날을 잡아 만나자고 하는데..그때 화장실을 가려 레스토랑 밖을 나왔다가 민주의 얼굴을 보게 된 안나는 강소와 함께 있는 것을 보고는 무섭게 눈을 부릅뜨며 민주에게 다가가 강소에게서 당장 떨어지라고 소리치는데...</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/60/KR_VC_CTI_USQT620324A_KRBB4200005CK_402184210_20230609183539695.jpg"/>
   </programme>
+  <programme channel="KRBB4200005CK" start="20230610055811 +0000" stop="20230610055851 +0000">
+    <title>다음 방송 '웃어요 엄마'</title>
+    <desc>다음 방송 '웃어요 엄마'</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/23/KR_VC_CTI_USQT620324A_KRBB4200005CK_465520530_20230609183557425.jpg"/>
+  </programme>
+  <programme channel="KRBB4200005CK" start="20230610055851 +0000" stop="20230610071423 +0000">
+    <title>웃어요 엄마 1회</title>
+    <desc>땀을 흘리며 러닝머신을 하고있는 달래는 기진맥진해서 쓰러질 듯 하지만, 복희는 그런 달래에게 러닝머신이 끝나고 요가를 하자고 한다. 달래는 복희의 요가 자세를 힘겹게 따라하지만....머루는 이집에서 난 몇 번째냐며 볼멘소리를 하며 원고는 다썼냐고 물어보는데, 신영은 아직 하지 못했으니 밤새 서라도 연설문을 다 써놓는다고 한다, 머루는 시킨지가 언젠데 아직까지 안해놨냐며 인상쓰며 짜증을 낸다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/26/KR_VC_CTI_USQT620324A_KRBB4200005CK_402380054_20230609183626071.jpg"/>
+  </programme>
   <channel id="KRBC3200031KO">
     <display-name>tvN 비밀의 숲</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200031KO_20230524T004356SQUARE.png_20230524004356.png"/>
   </channel>
-  <programme channel="KRBC3200031KO" start="20230609223620 +0000" stop="20230610000017 +0000">
-    <title>비밀의 숲 3회</title>
-    <desc>용의자의 재판을 맡았던 은수는 살인검사라는 오명에 괴로워하고, 시목은 내사를 받게 될 처지에 놓인다. 수사에서 배제되는 것을 막기 위해 시목은 생방송 프로에서 두 달 안에 반드시 진범을 잡을 것을 피력한다. 재수사를 시작한 시목은, 박무성이 죽기 전 마지막으로 만난 인물이 서부지검 사람임을 알아내는데….</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/05/21/KR_VC_CTI_KRQT161013A_B120174372_D3_165910_20230428005219973.jpg"/>
-  </programme>
   <programme channel="KRBC3200031KO" start="20230610000017 +0000" stop="20230610011440 +0000">
     <title>비밀의 숲 4회</title>
     <desc>박무성이 죽기 전 마지막으로 만난 인물은 영은수 검사로 드러난다. 시목은 3년 전 뇌물수수 혐의로 고발당한 영은수의 부친이자 전 법무부 장관 영일재에게까지 의심을 확대한다. 한편, 시목은 창준이 오른팔인 서동재를 시켜 어떤 여자를 찾고 있다는 것을 간파하는데...</desc>
@@ -690,6 +712,11 @@
     <title>비밀의 숲 8회</title>
     <desc>경완을 범인으로 몰아가려던 동재의 계획은 시목과 여진에 의해 좌절되고 동재가 가장 강력한 용의자로 떠오른다. 그러나 이때 터지는 스폰서 제보! 익명의 제보자가 신문사에 편지를 보내 박무성이 서부지검 스폰서였다는 실체가 폭로되고 서부지검은 또 한 번 발칵 뒤집힌다.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/62/KR_VC_CTI_KRQT161013A_B120174372_D8_165925_20230428005227713.jpg"/>
+  </programme>
+  <programme channel="KRBC3200031KO" start="20230610061120 +0000" stop="20230610072543 +0000">
+    <title>비밀의 숲 9회</title>
+    <desc>부정부패를 저지른 검사에 대한 특임이 시작되고 시목이 특임검사에 임명되는데…이와 동시에 돌연 검사장 사퇴를 선언한 창준. 창준은 특임팀을 자기 집에 초대하고, 창준의 아내 연재는 묘한 분위기로 특임팀을 맞이하는데…</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/33/KR_VC_CTI_KRQT161013A_B120174372_D9_165928_20230428005228290.jpg"/>
   </programme>
   <channel id="KRBB5000070U4">
     <display-name>MBC 검법남녀2</display-name>
@@ -731,15 +758,16 @@
     <desc>유괴범의 행적을 추적하기 위해 부검을 시작하는 백범(정재영). 서현이(옥예린)의 생존 가능 잔여 시간은 점점 줄어드는데 유괴범의 신원 파악은 쉽지 않다. 한편, 동부지검과 강동서는 유력용의자의 행적을 포착한다.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/24/KR_VC_CTI_USQT620324A_KRBB5000070U4_SAMSUNG_20230610_08_6C882E2F_20230609183748902.jpg"/>
   </programme>
+  <programme channel="KRBB5000070U4" start="20230610062252 +0000" stop="20230610073132 +0000">
+    <title>검법남녀 시즌2 19-20회</title>
+    <sub-title>10 Putrefaction, 부패현상: 유기물이 부패균에 의하여 분해되는 것</sub-title>
+    <desc>장철(노민우)이 서현이(옥예린)를 데리고 갔다고 확신하는 백범(정재영)의 말에 모두가 충격 받는다. 한편, 서현이는 평소와 다른 장철의 모습에 겁에 질려 울음을 터트리고, 수사본부는 서현이를 구출하기 위해 장철의 집으로 출동한다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/60/KR_VC_CTI_USQT620324A_KRBB5000070U4_SAMSUNG_20230610_09_E6C96CD9_20230609183730364.jpg"/>
+  </programme>
   <channel id="KRBB420000180">
     <display-name>SBS 그해 우리는</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20230419T005746SQUARE.png_20230419005747.png"/>
   </channel>
-  <programme channel="KRBB420000180" start="20230609230650 +0000" stop="20230610001030 +0000">
-    <title>그 해 우리는 15회</title>
-    <desc>'세 얼간이' 개인 전시회를 연 웅. 그곳에 나타난 누아 작가는 처음으로 웅의 마음을 뒤흔든다.연수의 일상 또한 흔들리기 시작하는데...두 사람은 각자의 행복을 지킬 수 있을까?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/18/KR_VC_CTI_USQT620324A_KRBB420000180_458875379_20230609183743189.jpg"/>
-  </programme>
   <programme channel="KRBB420000180" start="20230610001030 +0000" stop="20230610011834 +0000">
     <title>그 해 우리는 16회</title>
     <desc>'그 해 우리는' 함께 유학 가고 싶다는 웅의 제안을 진지하게 고민하는 연수. 자신이 '진짜' 원하는 삶이 무엇인지, 처음으로 고민해 본다.마침내 고민을 끝낸 연수는 웅에게 답을 전하는데...</desc>
@@ -769,6 +797,11 @@
     <title>그 해 우리는 4회</title>
     <desc>'그 시절, 우리가 좋아했던 소녀? 소년?' 다큐멘터리 촬영을 시작한 웅과 연수. 하지만 예상대로 그 과정이 녹록지 않고, 과거를 회상하는 두 사람의 기억은 서로 왜곡되어 있다.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/32/KR_VC_CTI_USQT620324A_KRBB420000180_458213715_20230609183735464.jpg"/>
+  </programme>
+  <programme channel="KRBB420000180" start="20230610054020 +0000" stop="20230610064714 +0000">
+    <title>그 해 우리는 5회</title>
+    <desc>'말할 수 없는 비밀' 어디서부터 잘못된 걸까. 연수에 대한 웅의 오해는 좀처럼 쉽게 풀어지지 않는다. 그러다 둘은 뜻밖의 장소에서 아주 서먹하게 마주하게 된다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/68/KR_VC_CTI_USQT620324A_KRBB420000180_458304059_20230609183738549.jpg"/>
   </programme>
   <channel id="KRBC4400002AO">
     <display-name>KBS 왕가네 식구들</display-name>
@@ -804,15 +837,15 @@
     <desc>상남, 광박 양가 상견례에서 대세와 앙금은 다투고 세달은 거지차림으로 공사장에서 일한다. 만정은 상남 찾아와 엄마 노릇하고 싶다고 말하는데....</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/26/KR_VC_CTI_USQT620324A_KRBC4400002AO_33268_20230609183057837.jpg"/>
   </programme>
+  <programme channel="KRBC4400002AO" start="20230610062535 +0000" stop="20230610073517 +0000">
+    <title>왕가네 식구들 32회</title>
+    <desc>혼수 문제로 화난 앙금은 가족에게 광박 결혼 무효 선언하고 대세도 상남에게 결혼 안된다고 말한다. 호박은 세달에게 법원으로 나오라고 통보한다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/27/KR_VC_CTI_USQT620324A_KRBC4400002AO_33269_20230609183840055.jpg"/>
+  </programme>
   <channel id="KRBC4400003SD">
     <display-name>KBS 황금빛 내인생</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20230308T013157SQUARE.png_20230308013158.png"/>
   </channel>
-  <programme channel="KRBC4400003SD" start="20230609225210 +0000" stop="20230610000629 +0000">
-    <title>황금빛 내 인생 35회</title>
-    <desc>혁이 좋아했던 여자가 지안임을 알고 충격받은 지수, 지안은 도경이 안쓰러워 자꾸 신경이 쓰인다. 태수는 막내 지호를 만나 자신만의 마지막 인사를 하고, 지수는 지안에게 만나자고 하는데...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/79/KR_VC_CTI_USQT620324A_KRBC4400003SD_4591_20230609183328314.jpg"/>
-  </programme>
   <programme channel="KRBC4400003SD" start="20230610000629 +0000" stop="20230610011958 +0000">
     <title>황금빛 내 인생 36회</title>
     <desc>명희는 지수가 일하는 빵집을 찾아가다 우연히 지안을 만난다. 지안은 명희에게서 미정이 아직도 가게를 한다는 사실을 알게되고, 미정을 찾아간다. 한편, 지수는 혁에게 전과는 다른 차가운 태도를 보이고, 혁은 당황스럽기만 한데...</desc>
@@ -838,20 +871,15 @@
     <desc>도경은 지안이 자신에게 오지 못하는 이유를 깨닫고 이해한다. 지태와 미정은 시골집에 있는 태수를 찾아가 아무렇지 않게 이것저것 챙겨주고 온다. 한편, 혁은 지호가 지안에게 누나라고 하는 모습을 보고 놀라는데...</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/56/KR_VC_CTI_USQT620324A_KRBC4400003SD_41541_20230609183158278.jpg"/>
   </programme>
+  <programme channel="KRBC4400003SD" start="20230610061559 +0000" stop="20230610072951 +0000">
+    <title>황금빛 내 인생 41회</title>
+    <desc>지안과 도경이 함께있는 모습을 본 노회장은 분노한다. 지수는 재성에게 유학을 가겠다고 말하고, 대방동 집에서 하루만 자고 오겠다고 한다. 태수는 갑자기 유학을 가겠다고 집을 찾아온 지수가 불안하기만 한데...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/46/KR_VC_CTI_USQT620324A_KRBC4400003SD_41739_20230609183100307.jpg"/>
+  </programme>
   <channel id="KRBC20000347">
     <display-name>MBC 오자룡이 간다</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20230125T022802SQUARE.png_20230125022803.png"/>
   </channel>
-  <programme channel="KRBC20000347" start="20230609225018 +0000" stop="20230609233313 +0000">
-    <title>오자룡이 간다, 42회</title>
-    <desc>마리(유호린)가 아직 떠나지 않은 기자네 집에 찾아온 진주(서현진)와 용석(진태현). 기영(조미령)은 후배가 찾아왔다고 하지만 용석은 아이가 솔이라는 것을 직감한다. 한편, 민우(김민수)를 만나는 공주(오연서)의 정신를 개조하겠다는 자룡(이장우). 공주에게 계속해서 아르바이트를 하라고 한다.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/21/KR_VC_CTI_USQT620324A_KRBC20000347_SAMSUNG_20230610_04_AE88B678_20230609183822598.jpg"/>
-  </programme>
-  <programme channel="KRBC20000347" start="20230609233313 +0000" stop="20230610001521 +0000">
-    <title>오자룡이 간다, 43회</title>
-    <desc>마리(유호린)는 용석(진태현)에게 아무것도 바라는 것이 없다며 기자(이휘향)네 집에서 당분간 생활하게 해달라고 부탁한다. 한편, 민우(김민수)를 따라 호텔 클럽에 놀러간 공주(오연서). 이 사실을 안 자룡(이장우)은 두 사람을 정신없이 쫓아간다.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/42/KR_VC_CTI_USQT620324A_KRBC20000347_SAMSUNG_20230610_05_EC82A131_20230609183752743.jpg"/>
-  </programme>
   <programme channel="KRBC20000347" start="20230610001521 +0000" stop="20230610005710 +0000">
     <title>오자룡이 간다, 44회</title>
     <desc>자신을 여동생으로 대하는 자룡(이장우)에게 화가 난 공주(오연서). 자룡에게 더 이상 자신의 일에 상관하지 말라고 경고한다. 한편, 자룡은 마리(유호린)를 만나면서도 공주를 떠올린다.</desc>
@@ -892,16 +920,15 @@
     <desc>마리(유호린)는 미행원을 붙여 진주(서현진)의 움직임을 보고 받고 진주와 우연히 만난 것 처럼 마주친다. 한편, 자룡(이장우)이네 가족 모두가 만수(한진희)가 택시 운전을 하고 있다는 사실을 알게 된다. 자룡이네가 큰 돈이 필요하다는 사실을 안 공주(오연서)는 AT그룹 딸이라는 것을 밝히고 돈을 빌려주려고 한다.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/45/KR_VC_CTI_USQT620324A_KRBC20000347_SAMSUNG_20230610_13_4F1E5634_20230609183301387.jpg"/>
   </programme>
+  <programme channel="KRBC20000347" start="20230610060106 +0000" stop="20230610064513 +0000">
+    <title>오자룡이 간다, 52회</title>
+    <desc>백로(장미희)에게 돈을 빌린 성실(김혜옥). 만수(한진희)는 성실이 빌려온 돈으로 피해자와 합의를 보고 경찰서에서 풀려난다. 한편, 만수의 일로 속이 상한 자룡(이장우). 공주(오연서)는 자룡의 기분을 풀어주려고 한다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/57/KR_VC_CTI_USQT620324A_KRBC20000347_SAMSUNG_20230610_14_BE52DE82_20230609183955489.jpg"/>
+  </programme>
   <channel id="KRBC4000003J2">
     <display-name>고봉실 아줌마 구하기</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20221026T003517SQUARE.png_20221026003518.png"/>
   </channel>
-  <programme channel="KRBC4000003J2" start="20230609222831 +0000" stop="20230609233839 +0000">
-    <title>고봉실 아줌마 구하기</title>
-    <sub-title>27회</sub-title>
-    <desc>진철은 사라진 반닫이를 찾는다는 전단을 이태원 곳곳에 붙여놓는다. 봉실은 동식에게 전화를 걸어 반닫이에 대해 상담을 한다. 이 소식이 진철의 귀에까지 전달되어 야쿠자들이 들꽃 밥상에 들이닥치고, 동식과 한바탕 싸움을 벌인다. 결국 그림을 얻어내지 못한 야쿠자들은 늦은 밤 귀가하는 봉실과 데이비드를 급습하는데!...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/20/KR_VC_CTI_KRPBA3501QY_KRBC4000003J2_4085de1c69aa5d210cc2d1c65ba735edd503_20230609183714275.jpg"/>
-  </programme>
   <programme channel="KRBC4000003J2" start="20230609233839 +0000" stop="20230610004937 +0000">
     <title>고봉실 아줌마 구하기</title>
     <sub-title>28회</sub-title>
@@ -931,6 +958,12 @@
     <sub-title>32회</sub-title>
     <desc>황박사는 봉실에게 약초 성분을 배합한 한방약을 세계로 수출하자고 제안한다. 데이비드는 계약은 함부로 체결해선 안 된다며 봉실의 계약에 적극적으로 나선다. 한편, 동식의 연락을 받고 들꽃 밥상으로 가던 수애는 우연히 중학교 동창과 마주치고, 동식에게 남자였다는 사실을 들킬 위기에 놓이는데...</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/05/KR_VC_CTI_KRPBA3501QY_KRBC4000003J2_4085de1c752db47add3eb8c3940bf01ca801_20230609183922284.jpg"/>
+  </programme>
+  <programme channel="KRBC4000003J2" start="20230610054444 +0000" stop="20230610065944 +0000">
+    <title>고봉실 아줌마 구하기</title>
+    <sub-title>33회</sub-title>
+    <desc>데이비드와 함께 남이섬으로 드라이브를 간 봉실. 마지막 배가 끊기는 바람에 어쩔 수 없이 데이비드와 남이섬에서 하룻밤 묵게 된다. 이 때를 기회 삼아 데이비드는 봉실에게 자신의 마음을 고백한다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/51/KR_VC_CTI_KRPBA3501QY_KRBC4000003J2_4085de1ce8f8e44fedeb4abc08db3806ca57_20230609183923198.jpg"/>
   </programme>
   <channel id="KRBC4400001TZ">
     <display-name>KBS 넝쿨째 굴러온 당신</display-name>
@@ -966,15 +999,15 @@
     <desc>자신을 엄마라 부르는 지환이 당황스럽고 부담스러운 윤희.   태영의 도움으로 이숙의 병문안을 받은 재용은   자신을 걱정해주며 챙겨주는 이숙의 모습에 좋아하는 마음이 더욱 더 커지는데...   윤빈은 일숙이 다른 남자 매니저들과 함께 있는 모습을 보며 자신도 모르게 질투를 하고.   청애는 보애, 순애에게서 일숙이가 이혼한 사실을 듣게 되는데...</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/96/KR_VC_CTI_USQT620324A_KRBC4400001TZ_31261_20230609184016401.jpg"/>
   </programme>
+  <programme channel="KRBC4400001TZ" start="20230610062737 +0000" stop="20230610073824 +0000">
+    <title>넝쿨째 굴러온 당신 42회</title>
+    <desc>일숙의 이혼사실을 알게 된 장수빌라 사람들은 한바탕 난리가 나고.   말숙은 세광을 잊기 위해 소개팅을 하러다니고 그런 말숙이 계속 신경 쓰이는 세광.   규현은 이숙에게 다시 가구디자이너로 일해 보는 게   어떠냐며 이력서를 건네고, 이숙도 고민하는데..   일숙의 이혼사실을 알고 있었으면서도 아무 말도 안한 윤희가   괘씸한 청애는 윤희에게 서운한 감정을 드러내고 그 모습을 본 귀남이 참지 못하고 나서는데...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/66/KR_VC_CTI_USQT620324A_KRBC4400001TZ_31262_20230609184014136.jpg"/>
+  </programme>
   <channel id="KRBB420001572">
     <display-name>SBS 빽드</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420001572_20230322T010936SQUARE.png_20230322010937.png"/>
   </channel>
-  <programme channel="KRBB420001572" start="20230609223915 +0000" stop="20230609234807 +0000">
-    <title>시크릿 가든 11회</title>
-    <desc>그 여자한테 안넘어갈 자신있었다고... 주원(현빈)은 분홍(박준금)에게 나중에 이 여자 아님 죽을 것 같다고 해도반대해 달라며 이 여자한테서 꼭 떼어 놔 달라고 한다.분홍은 허락이 아니라 반대를 해달라는 주원의 말에 이게지금 뭔 상황인지... 띵 한 기분인데...주원과 분홍을 보고 있던 라임(하지원)은 기막혀 하며 아드님께 사람을붙여 일거수일투족 잘 감시하여 제 근처엔 얼씬도 못하게해주셨으면 감사하겠다는 말을 남기고 일어나는데...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/98/KR_VC_CTI_USQT620324A_KRBB420001572_402389534_20230609183713763.jpg"/>
-  </programme>
   <programme channel="KRBB420001572" start="20230609234807 +0000" stop="20230610005649 +0000">
     <title>시크릿 가든 12회</title>
     <desc>“내 꿈에 당신이 있거든” 주원(현빈)은 라임(하지원)대신 자신이 옆에 없는 듯이 있다가 거품처럼사라져주겠다고 하지만, 대답없던 라임은 말이 되는 소릴 하라고 하며 들어가려 하는데...이때 라임을 막아선 주원은아이처럼 라임의 머리를 쓰다듬어 주며 진지하게 생각해 보고내린 결론이니까 생각하고 대답해 달라고 한다</desc>
@@ -999,6 +1032,11 @@
     <title>시크릿 가든 16회</title>
     <desc>신이시여, 나는 여전히 두렵고 비가 오기를 기도합니다 주원(현빈)은 자신때문에 오디션을 보지 못한 라임(하지원)에게미안해 하고, 라임은 기대했던 오디션을 못 본 상실감이 크다.그런 라임을 지켜보던 주원은 라임을 당겨 안아주며자신이 다시 오디션을 볼수 있게 해줄테니 속상해하지 말라고 한다. 라임은 힘들게 웃어보지만 눈에 눈물이고이고... 주원은 라임에게  자신을 믿으라며 기적이 일어나게 해주겠다고 한다. 라임은 주원에게 안겨참았던 눈물을 쏟는데....</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/88/KR_VC_CTI_USQT620324A_KRBB420001572_402178486_20230609183143251.jpg"/>
+  </programme>
+  <programme channel="KRBB420001572" start="20230610053208 +0000" stop="20230610064208 +0000">
+    <title>시크릿 가든 17회</title>
+    <desc>인어공주는 물거품이 되어 사라졌습니다 라임(하지원)이의 집으로 찾아온 주원(현빈)은 라임에게과일을 사오라고 하곤 아영에게 라임이 촬영이생겼다면서 급하게 갔는데 액션스쿨에 가보니 촬영이없었다며 무슨일이 있었는지 묻는데, 아영(유인나)은그저 아버지 기일이라 기분이 안좋은것 같다는 대답뿐이다주원은 과일 가게 앞으로 라임이를 찾으러 나가고,과일 가게 앞에서 쪼그려 앉아 울며 과일을 고르고있는 라임이를 발견하곤 추운데 길에서 왜 울고 있냐며화를 내는데...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/25/KR_VC_CTI_USQT620324A_KRBB420001572_402182384_20230609184023027.jpg"/>
   </programme>
   <channel id="KRBC3200001VC">
     <display-name>꽃보다 남자</display-name>
@@ -1044,11 +1082,6 @@
     <display-name>MBC every1 별순검</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20220914T013026SQUARE.png_20220914013027.png"/>
   </channel>
-  <programme channel="KRBB500037T3" start="20230609232116 +0000" stop="20230610002156 +0000">
-    <title>별순검 시즌1 13회 [백여령 살인사건 上]</title>
-    <desc>13회 [백여령 살인사건 上] 백여령이라는 청초한 미모의 여염집 규수가 시퍼런 주검으로 발견된다. 단순한 지병사로 처리될 뻔한 이 처녀는 다름 아닌 총순 승조를 과거 친구의 밀고자로 만들었던 백성진의 동생으로, 별순검들은 타살의 정황을 감지한다.  하지만 외상이 전혀 없는 미스테리한 주검은 승조로 하여금 그의 악연과 직위를 함께 건 싸움을 하게 하는데...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/42/KR_VC_CTI_KRPBA3501QY_KRBB500037T3_3e5676acd611992f4eb181056c1b03472cf58_20230609183306187.jpg"/>
-  </programme>
   <programme channel="KRBB500037T3" start="20230610002156 +0000" stop="20230610013127 +0000">
     <title>별순검 시즌1 14회 [백여령 살인사건 下]</title>
     <desc>14회 [백여령 살인사건 下] 백여령이라는 청초한 미모의 여염집 규수가 시퍼런 주검으로 발견된다. 단순한 지병사로 처리될 뻔한 이 처녀는 다름 아닌 총순 승조를 과거 친구의 밀고자로 만들었던 백성진의 동생으로, 별순검들은 타살의 정황을 감지한다. 하지만 외상이 전혀 없는 미스테리한 주검은 승조로 하여금 그의 악연과 직위를 함께 건 싸움을 하게 하는데...</desc>
@@ -1074,15 +1107,15 @@
     <desc>18회 [불탄 시체] 도자기 가마 안에서 새까맣게 탄 시체 한 구. 불에 탄 시신은 얼굴도 알아볼 수 없고, 신원을 확인할 만한 단서도 발견되지 않아 수사에 어려움을 겪는다. 한편, 지난 밤 김순검이 괴한들에게 칼을 맞았다는 연락을 받은 별순검은 수사에 착수한다. 과연 불탄 시체는 누구이고 그에 감춰진 비밀은 무엇인가. 그리고 김순검이 칼을 맞은 이유는 무엇일까?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/21/KR_VC_CTI_KRPBA3501QY_KRBB500037T3_3e5676ace0e9eb6084c6465ba384fa42758fb_20230609183141087.jpg"/>
   </programme>
+  <programme channel="KRBB500037T3" start="20230610055621 +0000" stop="20230610064724 +0000">
+    <title>별순검 시즌1 19회 [사미완 上]</title>
+    <desc>19회 [사미완 上] 팔이 잘린 신원미상의 시체의 목구멍 속에서 전당국의 전표가 발견된다. 김순검과 시체의 신원을 알아보려 전당국으로 달려가는데... 다리가 잘린 채 죽어있는 전당국 주인. 동일한 방법으로 시체를 처리한 것부터 이상한 글귀를 남겨 둔 것까지... 별순검은 연쇄살인의 의심을 갖고 수사를 시작한다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/29/KR_VC_CTI_KRPBA3501QY_KRBB500037T3_3e5676ac9600f7091fe804dea12fdc05a2172_20230609183747290.jpg"/>
+  </programme>
   <channel id="KRBC5000015F5">
     <display-name>JTBC 힘쎈여자 도봉순</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000015F5_20230426T013703SQUARE.png_20230426013704.png"/>
   </channel>
-  <programme channel="KRBC5000015F5" start="20230609222544 +0000" stop="20230609233832 +0000">
-    <title>힘쎈여자 도봉순 1회</title>
-    <desc>어마무시한 괴력을 타고난 도봉순(박보영)이 똘끼충만 CEO 안민혁(박형식)과 정의형사 인국두(지수) 사이에서 성장하며 사회악을 쳐부수는 본격 걸크러쉬 드라마! &lt;힘쎈여자 도봉순&gt; 괴력소녀 봉순은 어느날 힘 약한 노인이 용역깡패들에게 괴롭힘 당하는 모습을 목격, 정의감에 끓어오르는 힘을 주체하지 못한다. 그러던 중, 마침 그 곳을 지나던 안민혁이 두 눈으로 보고도 믿을 수 없는 봉순의 괴력을 목격하는데…</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/30/KR_VC_CTI_USQT620324A_KRBC5000015F5_jtbc_episode_FP00039860_20230609183128366.jpg"/>
-  </programme>
   <programme channel="KRBC5000015F5" start="20230609233832 +0000" stop="20230610004920 +0000">
     <title>힘쎈여자 도봉순 2회</title>
     <desc>안민혁(박형식)의 경호원으로 취직한 도봉순(박보영)은 24시간 민혁을 밀착마크하고, 이 와중에 정체모를 누군가로부터 습격을 당할 뻔 한다. 한편, 민혁과 함께 밤을 지샌다는 봉순이 걱정되고 못마땅한 국두(지수)는 급기야 민혁의 집에 찾아오게 되는데...</desc>
@@ -1108,15 +1141,15 @@
     <desc>한 집에 모이게 된 세 남녀. 그들 각자의 의심과 불안 때문에 잠을 자는 대신 밤새 놀기로 한다. 한편, 민혁은 본격적으로 봉순의 힘 조절 훈련에 들어가게 되는데..</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/73/KR_VC_CTI_USQT620324A_KRBC5000015F5_jtbc_episode_FP00039865_20230609183857177.jpg"/>
   </programme>
+  <programme channel="KRBC5000015F5" start="20230610053001 +0000" stop="20230610064503 +0000">
+    <title>힘쎈여자 도봉순 7회</title>
+    <desc>민혁을 괴롭히던 협박범의 정체가 밝혀지고, 봉순은 우울한 민혁을 달래주기 위해 갖은 애를 쓴다. 어쩌다 보니 서로의 비밀을 공유하게 된 봉순과 민혁. 알게 모르게 마음이 가까워지기 시작하는데..</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/38/KR_VC_CTI_USQT620324A_KRBC5000015F5_jtbc_episode_FP00039866_20230609183925383.jpg"/>
+  </programme>
   <channel id="KRBC8000128W">
     <display-name>tvN 뿅뿅 지구오락실</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000128W_20230524T004357SQUARE.png_20230524004358.png"/>
   </channel>
-  <programme channel="KRBC8000128W" start="20230609215657 +0000" stop="20230609234144 +0000">
-    <title>뿅뿅 지구오락실 7회</title>
-    <desc>&lt;돌아온 '랜덤 플레이 댄스'&gt; HEY~ 내가 원했던 게 이거잖아 지락실 '댄스 사랑'에, 판 깔아준 제작진! 용사즈 최애 메뉴 ‘한식'까지 걸렸겠다, 여태 갈고닦은 갓.벽.호.흡 뽐내는데~ &lt;네 마음이 곧 내 마음&gt; 난 재료를 살 테니... 넌 요리를 해라! 재료를 샀으나 말할 수 없는 ‘장보기 팀'과 코난급 추리로 요리를 시작한 ‘요리 팀', 조식을 향한 4명의 합동 미션 스타트! &lt;‘용사 식겁' 토롱이의 화려한 컴백!&gt; 평화로운 꼬 사무이 해변가! 모래사장에서 뛰노는 용사들 사이, 익숙한 토끼(?) 하나가 끼어들었다?! 토롱이 will be back ···!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/52/KR_VC_CTI_KRQT161013A_B120225459_D7_1230167_20230521193509575.jpg"/>
-  </programme>
   <programme channel="KRBC8000128W" start="20230609234144 +0000" stop="20230610012837 +0000">
     <title>뿅뿅 지구오락실 8회</title>
     <desc>&lt; We Are The World♬ &gt; K-pop으로 하나 되는 ‘위 아 더 월드' 출제자(a.k.a 태국 현지 스태프)가 부르는 노래를 알아맞혀라!  고난도 미션 속 환상의 케미를 선보일 짝꿍은?  &lt; 돌아온 나나매점 in 바다 한복판 &gt; 정들었던 ‘꼬 사무이'를 뒤로하고, 파이널 스테이지 '카오 속'으로 출발! 용돈 뺏겨 빈털터리 된 용사즈를 위해 겜성비 갑(?) '선상 나나매점' 깜짝 오픈  &lt; 청개구리가 울면(?) 점심이 온다 &gt; 본격 야생 ‘정글'로 들어서기 전, 마.지.막 문명의 만찬이 준비됐다! ‘나라 불문' 믿고 먹는 휴게소 맛집에서 격하게 들리는 "개굴" 소리의 정체는?</desc>
@@ -1194,11 +1227,6 @@
     <display-name>채널A 요즘 육아 금쪽같은 내새끼</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC41000021C_20230524T004410SQUARE.png_20230524004411.png"/>
   </channel>
-  <programme channel="KRBC41000021C" start="20230609221843 +0000" stop="20230609234433 +0000">
-    <title>요즘 육아 금쪽같은 내 새끼 시즌1-29회</title>
-    <desc>도무지 이해할 수가 없어요. 자꾸만 귀를 막고 알아들을 수 없는 언어로 소리를 지르는 아들. 지켜보던 오은영 박사조차 쉽지 않은 아이라고 말하는데... 결국 눈물을 흘리며 도움을 청하는 금쪽이 대체 무엇이 아이를 공포에 떨게 만드는 걸까?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/06/KR_VC_CTI_KRPBA3501QY_KRBC41000021C_6925eb51d6d509fb19e701a4995282e29a08_20230609183216218.jpg"/>
-  </programme>
   <programme channel="KRBC41000021C" start="20230609234433 +0000" stop="20230610010416 +0000">
     <title>요즘 육아 금쪽같은 내 새끼 시즌1-30회</title>
     <desc>대체 어디서부터 잘못된 걸까. 이혼 후 마음의 문을 닫은 남매. 밥 먹다 젓가락을 던지고 분노에 가득 차서 엄마를 향해 욕설까지 퍼붓는데... 하루도 조용할 날이 없이 계속되는 남매 갈등에 참다 참다 폭발한 엄마. 과연 오은영은 상처로 가득한 가족의 지친 마음을 치료할 수 있을까?</desc>
@@ -1223,6 +1251,11 @@
     <title>요즘 육아 금쪽같은 내 새끼 시즌1-34회</title>
     <desc>하루 종일 책상에만 앉아있는 딸. 엄마와 공포의 숙제검사를 할 때마다 금쪽이는 아무 말도 못한 채 잔뜩 긴장을 한다. 공부만큼은 단호한 엄마와 하염없이 눈물만 흘리는 금쪽이와의 대립 속에서 오은영 박사의 얼굴은 점점 어두워져만 간다. 과연 오은영 박사는 이 대립을 해결할 수 있을까?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/55/KR_VC_CTI_KRPBA3501QY_KRBC41000021C_6925eb51beca18f710b94377a819cec98f78_20230609183215572.jpg"/>
+  </programme>
+  <programme channel="KRBC41000021C" start="20230610061830 +0000" stop="20230610073916 +0000">
+    <title>요즘 육아 금쪽같은 내 새끼 시즌1-35회</title>
+    <desc>아이와 대화를 할 수가 없어요. 사춘기에 접어든 아들 때문에 답답한 엄마. 대화를 시도해보지만 금쪽이는 자꾸만 자리를 피해버린다. 아들 걱정은 부부 다툼으로 이어지고...급기야 녹화 중단 사태까지?! 대화의 문을 닫은 사춘기 갈등, 과연 오은영의 처방은?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/22/KR_VC_CTI_KRPBA3501QY_KRBC41000021C_6925eb51d2f6cd115ba1e89480f89f005c3a_20230609183134761.jpg"/>
   </programme>
   <channel id="KRBC5000016BM">
     <display-name>JTBC 아는형님</display-name>
@@ -1311,6 +1344,11 @@
     <desc>新별주부전의 최종 목적지, 제주도 도착! 짜장&amp;짬뽕에 서비스 군만두까지 아는 맛 총출동! &lt;이어 말하기&gt;로 단합되면 ALL-IN! 나PD의 “스톱”에 맞서 방구석 게임 겟-셋-고☆   용신을 만날 수 있는 마지막 기회, 스피드로 중력을 거스르려는 자, ‘민호 VS 휴지' 예능용 얼굴천재의 홀로서기, ‘피오 VS 고무줄' ‘한림예고인' YB의 맞춤형 &lt;용볼 미션&gt; 개시! 그리고 강밴드의 즉흥 공연까지~ 어깨춤 들썩♬  빛 차단 100% 수경 장착한 제주 좀비가 나타났다! YB좀비 얕보다가 격하게 지옥 체험하는 호동부터 인간계 에이스 등극한 쏘옥-민호까지! 인간들의 좀비 거리두기 &lt;좀비게임&gt;의 생존자는?  방구석의 마지막 종착지, 제주도로 혼저옵서예</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/05/58/KR_VC_CTI_KRQT161013A_B120208983_D10_750031_20230428014802663.jpg"/>
   </programme>
+  <programme channel="KRBC32000248R" start="20230610060456 +0000" stop="20230610074105 +0000">
+    <title>신서유기8 11회 (최종회)</title>
+    <desc>지리산, 영월, 추자도 그리고 제주도를 지나  &lt;2020 송년의 밤&gt;을 위해 상암에 모인 요괴들! 소소한 근황과 방송 비하인드, 차마 말 못 했던 ‘갬성 자극 속마음'까지~ 한파도 물리칠 훈훈함으로 분위기 UP  최종회에서만 볼 수 있는 ‘미방분' 대방출! 때는 열두 살 호동이 짱 먹던 &lt;新흥부전&gt; 시절, ‘OST 퀴즈'와 업그레이드 ‘고깔게임'으로 숨겨왔던 판도라의 게임 상자 오픈~!  ㈜신서유기의 특별 간담회 &lt;음악 장학퀴즈&gt; 너무 많아 본방에 담지 못했던 오답 #전체_공개 추자6경을 (재)소개합니다 &lt;나나투어&gt; 리포팅 ON AIR! 참굴비에 언제나 진심인 규현의 ‘굴비백과'와 호동이 발견한 신비한 돌(?)의 집중탐구...! 심도 깊은(?) 리포팅 현장, 함께 하시죠!☞☞  마지막까지 볼거리&amp;웃음거리 한가득!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/86/KR_VC_CTI_KRQT161013A_B120208983_D11_750028_20230428014804604.jpg"/>
+  </programme>
   <channel id="KRBC32000156C">
     <display-name>tvN 대탈출</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000156C_20230426T013713SQUARE.png_20230426013713.png"/>
@@ -1340,6 +1378,11 @@
     <desc>‘한 번 갇히면 나올 수 없다?!' 극한의 밀실 어드벤처, &lt;대탈출&gt; 시즌1 마지막 이야기! “콩~그레츄레이션~♬♪” 시즌1 ‘무사탈출' 기념, 스페셜 편! 기다리고 기다리던 비하인드 스토리 대방출! 남다른 스케일을 자랑했던 탈출 장소들! 보는 순간 입이 떡 벌어지는 초대형 밀실 탄생과정 Before &amp; After! “의미 없는 단서는 없다” 발견하지 못한 단서만 있을 뿐! 탈출러들이 깜빡 놓친 힌트 전격공개! 여기서 끝이 아니다?!! 공포의 좀비병원 재탈출이 걸린 마지막 탈출 미션! 비운의 꼴찌 탈출러는 누구?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/33/KR_VC_CTI_KRQT161013A_B120189685_D13_154486_20230428005213132.jpg"/>
   </programme>
+  <programme channel="KRBC32000156C" start="20230610062820 +0000" stop="20230610075230 +0000">
+    <title>[사설 도박장편] 대탈출 1회</title>
+    <desc>‘한 번 갇히면 나올 수 없다?!' 극한의 탈출 버라이어티, &lt;대탈출&gt; 첫 번째 이야기! ‘든든한 맏형' 강호동을 필두로 모인 ‘모자란 반전남' 김종민, ‘14년차 만렙돌' 신동, ‘독창적인 브레인' 유병재, ‘동물적 감각' 김동현, ‘귀여운 막둥이' 피오까지 총 6인의 멤버들이 초대형 밀실 탈출에 도전장을 내밀었다! “이게 뭐 하는 프로그램이고?” 첫 밀실 탈출을 앞두고 불안감에 휩싸인 맏형 강호동! 반면, ‘방 탈출 마니아' 신동부터 ‘석사 출신' 김동현까지! 의욕 충만한 동생들은 자신감 뿜뿜! 불안반기대반으로 도착한 첫 번째 탈출 장소! 꽉 막힌 좁은 공간, 나갈 곳은 오롯이 굳게 닫힌 철문뿐? 철문을 열기 위한 각양각색의 추리열전! 하지만 첫판부터 호락호락하지 않은 탈출기! 급기야! 답답증을 호소하던 강호동! 기물파손까지 감행하다?! 탄성을 자아내는 밀실의 숨은 비밀부터 예상치 못한 멤버들의 대활약까지! 허점투성이 6인의 숨 막히는 초대형 밀실 탈출기!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/62/KR_VC_CTI_KRQT161013A_B120189685_D1_154414_20230428005222912.jpg"/>
+  </programme>
   <channel id="KRBC3200016H1">
     <display-name>tvN 삼시세끼 어촌편5</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200016H1_20230426T013718SQUARE.png_20230426013719.png"/>
@@ -1364,16 +1407,15 @@
     <desc>하루 만에 섬 생활 마스터!타고난 일머리와 설거지 스킬까지~‘본투비 막내' 광수에게 형들이 건넨 은밀~한(?) 제안은?한편, 호준에게 주어진 돌발 과제! “양념장을 만들거라~”6년의 짬바... 호준은 '양념장인' 승원을 만족시킬 수 있을지?! 뜨거운 태양이 내리쬐는 섬을 다시 찾은 ‘손이차유'※미션※ 이른 무더위에 도망간 입맛을 잡아라!아삭함이 장기인 ‘차家네' 밥도둑 형제부터 준비 완료!애지중지 익힌 손맛 가득 김치의 변신은 무죄♡여름에 맞게 옷 갈아입은 시원~한 김치 요리는 무엇? #갯바위_낚시 #통발 &lt;겟잇피싱 2020&gt;이제는 어엿한 참돔(6자) 기록 보유자 유프로부터‘초심자의 행운' 노리는 ‘차승호준' 듀오까지 총출동!그동안 보지 못했던 NEW 생선 속출!귀여움★★★★ 식재료☆ 바다친구의 정체는?!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/03/68/KR_VC_CTI_KRQT161013A_B120206566_D7_146777_20230428005218783.jpg"/>
   </programme>
+  <programme channel="KRBC3200016H1" start="20230610061002 +0000" stop="20230610075523 +0000">
+    <title>삼시세끼 어촌편5 8회</title>
+    <desc>‘죽굴도 오대장' 게 섰거라!갯바위&amp;선상 낚시와 ‘FISH BANK' 통발로다리부터 머리까지 아낌없이 주는 ‘문어'와6년짜리 숙원 사업 청산한 ‘참돔'까지 CLEAR!손꼽아 기다리던 세 번째 오대‘長' 주인공은? (두) 참바다표 NEW 발명품 출시 임박 (둥)제작했다하면 쏟아지는 호평 일색!내친김에 가구 라인까지 사업을 확장하는데~이번에는 스케일이 다르다. 역대 최다 인원 투입!죽굴도 청년회(?)와 함께한 발명왕 해진의 뉴템은? 차셰프 요리 SHOW에 최적화된 식재료 재등장!손질도 쉽고~ 버릴 것도 없는~ 최애 재료 덕에승원의 광대는 내려올 줄 모르는데~오늘 밥상은 짠내 ZERO↓ 바다 내음 FULL↑폭식 유발하는 역대급 어촌의 맛이 찾아옵니다♥</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/66/KR_VC_CTI_KRQT161013A_B120206566_D8_257012_20230428005227572.jpg"/>
+  </programme>
   <channel id="KRBB4200009C3">
     <display-name>SBS 오 마이 베이비</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20230510T011442SQUARE.png_20230510011443.png"/>
   </channel>
-  <programme channel="KRBB4200009C3" start="20230609221429 +0000" stop="20230609233515 +0000">
-    <title>오! 마이 베이비 41회</title>
-    <sub-title>서로 다른 매력의 베이비들</sub-title>
-    <desc>인형을 만난 투율이의 반응은? 겁많은 소율이는 도망&amp;눈물바다 반면에 지율이는 함박웃음&amp;뽀뽀까지! 달라도 너무 다른 두 자매 스릴을 사랑하는 지율! 언제나 우아하게 천상여자 소율! 서로 다른 매력의 투율이 오마베와 함께해요!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/05/86/KR_VC_CTI_USQT620324A_KRBB4200009C3_402396806_20230609183302122.jpg"/>
-  </programme>
   <programme channel="KRBB4200009C3" start="20230609233515 +0000" stop="20230610005622 +0000">
     <title>오! 마이 베이비 42회</title>
     <sub-title>담율이도 남자랍니다</sub-title>
@@ -1404,6 +1446,12 @@
     <desc>곰태우네 본격 제주도 이야기! 곰이 말을 한다? 데니안에 이어 곰태우네를 찾은 또 다른 삼촌이 있었으니....율자매를 찾아온 삼촌은 과연 누구? 그리고! 사상 초유의 사태! 지율이의 고기 거부 사건! 지율이가 고기를 거부한 놀라운 사연은?!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/08/KR_VC_CTI_USQT620324A_KRBB4200009C3_402176051_20230609183914292.jpg"/>
   </programme>
+  <programme channel="KRBB4200009C3" start="20230610062159 +0000" stop="20230610074345 +0000">
+    <title>오! 마이 베이비 47회</title>
+    <sub-title>주안이의 소방서 접수기</sub-title>
+    <desc>우연히 소방차의 출동을 본 주안이네! 주안이의 눈 앞에서 펼쳐진 긴급상황출동 상황을 직접 본 주안이! 결국 소방관 직업체험 하러 꼬꼬~~ 과연 주안이에게 어떤 일이 펼쳐질까요~? 다음주는 소방서 접수하러 갑니다!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/53/KR_VC_CTI_USQT620324A_KRBB4200009C3_402179349_20230609183915053.jpg"/>
+  </programme>
   <channel id="KRBC4100001LY">
     <display-name>채널A 나만 믿고 따라와 도시어부</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20230510T011450SQUARE.png_20230510011451.png"/>
@@ -1432,61 +1480,6 @@
     <display-name>🎶 뿅뿅 지구오락실 댄스 모음.Zip</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230524T004412SQUARE.png_20230524004413.png"/>
   </channel>
-  <programme channel="KRBC3200017JQ" start="20230609232506 +0000" stop="20230609234300 +0000">
-    <title>안유진이 추는 르세라핌 춤ㄷㄷ</title>
-    <desc>안유진이 추는 르세라핌 춤ㄷㄷ</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/10/KR_VC_CTI_KRQT161013A_B120211479_D3234_1402840_20230517145414552.jpg"/>
-  </programme>
-  <programme channel="KRBC3200017JQ" start="20230609234300 +0000" stop="20230609234805 +0000">
-    <title>첫 만남에 냅다 LOVE DIVE 추는 이은지&amp;미미!! 밈피디X안광 좋은 안유진 (feat. 괄괄이)</title>
-    <desc>티빙에서 스트리밍 : #뿅뿅 지구오락실 #Earth Arcade지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4 명의 용사들!시공간을 넘나들며 펼쳐지는 신개념 하이브리드 멀티버스 액션 어드벤처 버라이어티가 시작된다!'뿅뿅 지구오락실'[금] 저녁 8:50 tvN 방송#티빙에서스트리밍</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/01/KR_VC_CTI_KRQT161013A_B120225459_D1_1182881_20230517145510488.jpg"/>
-  </programme>
-  <programme channel="KRBC3200017JQ" start="20230609234805 +0000" stop="20230609235150 +0000">
-    <title>~랜덤플레이댄스~ 매직아이 수법 등장!! 댄스 DNA 탑재한 이은지X미미X이영지X안유진</title>
-    <desc>티빙에서 스트리밍 : #뿅뿅 지구오락실 #Earth Arcade지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4 명의 용사들!시공간을 넘나들며 펼쳐지는 신개념 하이브리드 멀티버스 액션 어드벤처 버라이어티가 시작된다!'뿅뿅 지구오락실'[금] 저녁 8:50 tvN 방송#티빙에서스트리밍</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/18/KR_VC_CTI_KRQT161013A_B120225459_D1_1182887_20230517145431785.jpg"/>
-  </programme>
-  <programme channel="KRBC3200017JQ" start="20230609235150 +0000" stop="20230609235457 +0000">
-    <title>★첫 미션★ 잇단 안무에 탈진 직전인 이영지ㅋㅋ 용사들 칼군무에 제작진 급당황!!</title>
-    <desc>티빙에서 스트리밍 : #뿅뿅 지구오락실 #Earth Arcade지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4 명의 용사들!시공간을 넘나들며 펼쳐지는 신개념 하이브리드 멀티버스 액션 어드벤처 버라이어티가 시작된다!'뿅뿅 지구오락실'[금] 저녁 8:50 tvN 방송#티빙에서스트리밍</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/84/KR_VC_CTI_KRQT161013A_B120225459_D1_1182890_20230517145458271.jpg"/>
-  </programme>
-  <programme channel="KRBC3200017JQ" start="20230609235457 +0000" stop="20230609235937 +0000">
-    <title>뚝딱거리는 이영지의 Love shot (a.k.a. 괄괄쓰) 독무!! 과연 태국에 입고 갈 패션은?</title>
-    <desc>티빙에서 스트리밍 : #뿅뿅 지구오락실 #Earth Arcade지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4 명의 용사들!시공간을 넘나들며 펼쳐지는 신개념 하이브리드 멀티버스 액션 어드벤처 버라이어티가 시작된다!'뿅뿅 지구오락실'[금] 저녁 8:50 tvN 방송#티빙에서스트리밍</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/03/45/KR_VC_CTI_KRQT161013A_B120225459_D1_1182893_20230517145409411.jpg"/>
-  </programme>
-  <programme channel="KRBC3200017JQ" start="20230609235937 +0000" stop="20230610000428 +0000">
-    <title>&lt;레트로 음악퀴즈&gt; 22 맞대결! 익숙한 노래에 용사들 텐션 도라방스ㅋㅋ</title>
-    <desc>티빙에서 스트리밍 : #뿅뿅지구오락실 #EarthArcade지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4명의 용사들!시공간을 넘나들며 펼쳐지는 신개념 하이브리드 멀티버스 액션 어드벤처 버라이어티가 시작된다!'뿅뿅 지구오락실'[금] 저녁 8:50 tvN 방송#티빙에서스트리밍</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/13/KR_VC_CTI_KRQT161013A_B120225459_D2_1190648_20230517145424585.jpg"/>
-  </programme>
-  <programme channel="KRBC3200017JQ" start="20230610000428 +0000" stop="20230610000949 +0000">
-    <title>이은지X미미X이영지X안유진, 마룻바닥 장악★ 이쯤되면 공연하려고 정답 맞힌다는 게 정설</title>
-    <desc>티빙에서 스트리밍 : #뿅뿅지구오락실 #EarthArcade지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4명의 용사들!시공간을 넘나들며 펼쳐지는 신개념 하이브리드 멀티버스 액션 어드벤처 버라이어티가 시작된다!'뿅뿅 지구오락실'[금] 저녁 8:50 tvN 방송#티빙에서스트리밍</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/02/KR_VC_CTI_KRQT161013A_B120225459_D2_1190651_20230517145432287.jpg"/>
-  </programme>
-  <programme channel="KRBC3200017JQ" start="20230610000949 +0000" stop="20230610001457 +0000">
-    <title>쥬얼리 &lt;Super Star&gt; 가슴 떨리는 전주 듣고 폭주하는 이은지&amp;안무에 엄격한 미미!</title>
-    <desc>티빙에서 스트리밍 : #뿅뿅지구오락실 #EarthArcade지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4명의 용사들!시공간을 넘나들며 펼쳐지는 신개념 하이브리드 멀티버스 액션 어드벤처 버라이어티가 시작된다!'뿅뿅 지구오락실'[금] 저녁 8:50 tvN 방송#티빙에서스트리밍</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/28/KR_VC_CTI_KRQT161013A_B120225459_D2_1190663_20230517145410627.jpg"/>
-  </programme>
-  <programme channel="KRBC3200017JQ" start="20230610001457 +0000" stop="20230610001913 +0000">
-    <title>본업 모먼트 폭발하는 미미! 김밥 포인트 안무부터 미로틱 칼군무까지 완전 정복★</title>
-    <desc>티빙에서 스트리밍 : #뿅뿅지구오락실 #EarthArcade지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4명의 용사들!시공간을 넘나들며 펼쳐지는 신개념 하이브리드 멀티버스 액션 어드벤처 버라이어티가 시작된다!'뿅뿅 지구오락실'[금] 저녁 8:50 tvN 방송#티빙에서스트리밍</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/28/KR_VC_CTI_KRQT161013A_B120225459_D2_1190666_20230517145433680.jpg"/>
-  </programme>
-  <programme channel="KRBC3200017JQ" start="20230610001913 +0000" stop="20230610002418 +0000">
-    <title>방콕에서도 놓칠 수 없는 엔딩요정...★ 요즘 아이돌 안유진의 Perfect man♬</title>
-    <desc>티빙에서 스트리밍 : #뿅뿅지구오락실 #EarthArcade지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4명의 용사들!시공간을 넘나들며 펼쳐지는 신개념 하이브리드 멀티버스 액션 어드벤처 버라이어티가 시작된다!'뿅뿅 지구오락실'[금] 저녁 8:50 tvN 방송#티빙에서스트리밍</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/22/KR_VC_CTI_KRQT161013A_B120225459_D2_1190675_20230517145453233.jpg"/>
-  </programme>
-  <programme channel="KRBC3200017JQ" start="20230610002418 +0000" stop="20230610002838 +0000">
-    <title>술 안 마셔도 엔딩 장악 ssap가능 안유진! 다비치의 '8282' 전주는 못 참지..☆ (ft. 김미현 콜 베이베♬ )</title>
-    <desc>티빙에서 스트리밍 : #뿅뿅 지구오락실 #Earth Arcade지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4 명의 용사들!시공간을 넘나들며 펼쳐지는 신개념 하이브리드 멀티버스 액션 어드벤처 버라이어티가 시작된다!'뿅뿅 지구오락실'[금] 저녁 8:50 tvN 방송#티빙에서스트리밍</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/77/KR_VC_CTI_KRQT161013A_B120225459_D3_1197671_20230517145437889.jpg"/>
-  </programme>
   <programme channel="KRBC3200017JQ" start="20230610002838 +0000" stop="20230610003201 +0000">
     <title>ㄱ( '-' )ㄴ 허공 꽤나 밀어 재낀 이은지&amp;미미의 찐광기, 아이비의 '유혹의 소나타'</title>
     <desc>티빙에서 스트리밍 : #뿅뿅 지구오락실 #Earth Arcade지구로 도망간 달나라 토끼를 잡기 위해 뭉친 4 명의 용사들!시공간을 넘나들며 펼쳐지는 신개념 하이브리드 멀티버스 액션 어드벤처 버라이어티가 시작된다!'뿅뿅 지구오락실'[금] 저녁 8:50 tvN 방송#티빙에서스트리밍</desc>
@@ -1657,80 +1650,25 @@
     <desc>안유진 재롱잔치 1열 직관한 영석이 형</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/19/KR_VC_CTI_KRQT161013A_B120238746_D889_1561078_20230517145412806.jpg"/>
   </programme>
+  <programme channel="KRBC3200017JQ" start="20230610053513 +0000" stop="20230610055546 +0000">
+    <title>현타 온 미미와 그걸 지켜보는 우리</title>
+    <desc>현타 온 미미와 그걸 지켜보는 우리</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/75/KR_VC_CTI_KRQT161013A_B120239146_D324_1547896_20230517145437342.jpg"/>
+  </programme>
+  <programme channel="KRBC3200017JQ" start="20230610055546 +0000" stop="20230610061746 +0000">
+    <title>아이돌 짬바 느껴지는 랜덤 플레이 댄스 모음ㄷㄷ</title>
+    <desc>아이돌 짬바 느껴지는 랜덤 플레이 댄스 모음ㄷㄷ</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/58/KR_VC_CTI_KRQT161013A_B120211479_D2727_1302444_20230517145436292.jpg"/>
+  </programme>
+  <programme channel="KRBC3200017JQ" start="20230610061746 +0000" stop="20230610063843 +0000">
+    <title>퍼포먼스 거부하는 나PD 모음ㅋㅋ</title>
+    <desc>퍼포먼스 거부하는 나PD 모음ㅋㅋ</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/16/KR_VC_CTI_KRQT161013A_B120211479_D2874_1318537_20230517145419591.jpg"/>
+  </programme>
   <channel id="KRBC3200018FU">
     <display-name>📁 뿅뿅 지구오락실 게임 모음.Zip</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230524T004414SQUARE.png_20230524004415.png"/>
   </channel>
-  <programme channel="KRBC3200018FU" start="20230609232648 +0000" stop="20230609233003 +0000">
-    <title>방망이 숨겨! 안유진 미션 도구 숨기는 장꾸 언니들 &amp; 없어져서 당황한 안유진 ㅋㅋ</title>
-    <desc>방망이 숨겨! 안유진 미션 도구 숨기는 장꾸 언니들 &amp; 없어져서 당황한 안유진 ㅋㅋ</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/97/KR_VC_CTI_KRQT161013A_B120225459_D6_1222623_20230517145434629.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230609233003 +0000" stop="20230609233452 +0000">
-    <title>이영지의 발연기 직관 ㅋㅋ 눈치 빠른 이은지&amp;미미 때문에 미션 발각 위기!!</title>
-    <desc>이영지의 발연기 직관 ㅋㅋ 눈치 빠른 이은지&amp;미미 때문에 미션 발각 위기!!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/11/KR_VC_CTI_KRQT161013A_B120225459_D6_1222629_20230517145433397.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230609233452 +0000" stop="20230609233925 +0000">
-    <title>안유진이 안쓰러운 이은지^_ㅠ 언니 찬스로 유진포갈릭의 마늘 빻기 성공!?</title>
-    <desc>안유진이 안쓰러운 이은지^_ㅠ 언니 찬스로 유진포갈릭의 마늘 빻기 성공!?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/07/KR_VC_CTI_KRQT161013A_B120225459_D6_1222632_20230517145503074.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230609233925 +0000" stop="20230609234506 +0000">
-    <title>(숨멎) 발길질하는 손님들 상대로 페디큐어 미션 하는 이영지ㅋㅋ</title>
-    <desc>(숨멎) 발길질하는 손님들 상대로 페디큐어 미션 하는 이영지ㅋㅋ</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/04/KR_VC_CTI_KRQT161013A_B120225459_D6_1222635_20230517145435150.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230609234506 +0000" stop="20230609235031 +0000">
-    <title>※반전 주의※ 기상미션 결과 공개! 풍선 들고 나타난 이은지?!</title>
-    <desc>※반전 주의※ 기상미션 결과 공개! 풍선 들고 나타난 이은지?!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/57/KR_VC_CTI_KRQT161013A_B120225459_D6_1222638_20230517145441239.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230609235031 +0000" stop="20230609235426 +0000">
-    <title>영석이 형도 함께 벌칙 받는^^ 나나 아이스크림 OPEN★</title>
-    <desc>영석이 형도 함께 벌칙 받는^^ 나나 아이스크림 OPEN★</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/44/KR_VC_CTI_KRQT161013A_B120225459_D6_1222647_20230517145434119.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230609235426 +0000" stop="20230609235654 +0000">
-    <title>상식 퀴즈 리액션 맛집 이은지 &amp; 어딘가 이상한 안유진의 미각</title>
-    <desc>상식 퀴즈 리액션 맛집 이은지 &amp; 어딘가 이상한 안유진의 미각</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/55/KR_VC_CTI_KRQT161013A_B120225459_D6_1222650_20230517145458506.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230609235654 +0000" stop="20230610000040 +0000">
-    <title>게임할 때마다 삐지는 PD와 달래는 출연자?! 늘 새로운 지락실^^</title>
-    <desc>게임할 때마다 삐지는 PD와 달래는 출연자?! 늘 새로운 지락실^^</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/05/94/KR_VC_CTI_KRQT161013A_B120225459_D6_1222662_20230517145441520.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230610000040 +0000" stop="20230610000643 +0000">
-    <title>22년차 피디의 구구단 난이도 조절법 (ft.메기 퍼포먼스 이은지)</title>
-    <desc>22년차 피디의 구구단 난이도 조절법 (ft.메기 퍼포먼스 이은지)</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/31/KR_VC_CTI_KRQT161013A_B120225459_D6_1222665_20230517145436606.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230610000643 +0000" stop="20230610001202 +0000">
-    <title>같은 값이면.. 배송 빠른 걸 사죠? 이영지&amp;안유진 어록 탄생! (ft. 맏언니의 급발진)</title>
-    <desc>같은 값이면.. 배송 빠른 걸 사죠? 이영지&amp;안유진 어록 탄생! (ft. 맏언니의 급발진)</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/53/KR_VC_CTI_KRQT161013A_B120225459_D6_1222671_20230517145435650.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230610001202 +0000" stop="20230610001756 +0000">
-    <title>안 되는 놈은? 안 된다ㅋㅋ 약점 파악 완료한 제작진의 야심찬 '이어말하기속담'</title>
-    <desc>안 되는 놈은? 안 된다ㅋㅋ 약점 파악 완료한 제작진의 야심찬 '이어말하기속담'</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/76/KR_VC_CTI_KRQT161013A_B120225459_D6_1222674_20230517145417538.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230610001756 +0000" stop="20230610002111 +0000">
-    <title>쉰 목소리로 애원하는 이영지에 사자성어 10개 도전 기회?! (a.k.a.이영지 Show)</title>
-    <desc>쉰 목소리로 애원하는 이영지에 사자성어 10개 도전 기회?! (a.k.a.이영지 Show)</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/42/KR_VC_CTI_KRQT161013A_B120225459_D6_1222680_20230517145410156.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230610002111 +0000" stop="20230610002407 +0000">
-    <title>다급하게 불러 보는 얘들아 ㅋㅋ 마레 파스타 획득을 위한 '이어 말하기영화 제목'</title>
-    <desc>다급하게 불러 보는 얘들아 ㅋㅋ 마레 파스타 획득을 위한 '이어 말하기영화 제목'</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/23/KR_VC_CTI_KRQT161013A_B120225459_D6_1222683_20230517145433460.jpg"/>
-  </programme>
-  <programme channel="KRBC3200018FU" start="20230610002407 +0000" stop="20230610002926 +0000">
-    <title>선배님이 늙어서.. 팀킬에 어질한 영석이형ㅋㅋ &amp; 언니들 한정 저격수 안유진</title>
-    <desc>선배님이 늙어서.. 팀킬에 어질한 영석이형ㅋㅋ &amp; 언니들 한정 저격수 안유진</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/50/KR_VC_CTI_KRQT161013A_B120225459_D6_1222686_20230517145421242.jpg"/>
-  </programme>
   <programme channel="KRBC3200018FU" start="20230610002926 +0000" stop="20230610003537 +0000">
     <title>'고깔 고깔 대작전의자 뺏기' 이영지의 카페트(?) 옷에 불나방처럼 달려드는 이은지&amp;미미</title>
     <desc>'고깔 고깔 대작전의자 뺏기' 이영지의 카페트(?) 옷에 불나방처럼 달려드는 이은지&amp;미미</desc>
@@ -1951,16 +1889,30 @@
     <desc>물놀이 후 아이스크림&amp;음료수는 국룰! 나나 아이스크림에서 퀴즈 맞추기 (ft. 틀려서 레몬 먹는 영석이 형)</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/93/KR_VC_CTI_KRQT161013A_B120225459_D6_1222750_20230517145445338.jpg"/>
   </programme>
+  <programme channel="KRBC3200018FU" start="20230610053020 +0000" stop="20230610054430 +0000">
+    <title>땡볕에서 홀린 듯이 따라가는 지락이들의 '고깔 고깔 대작전'</title>
+    <desc>땡볕에서 홀린 듯이 따라가는 지락이들의 '고깔 고깔 대작전'</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/91/KR_VC_CTI_KRQT161013A_B120225459_D7_1230143_20230517145418792.jpg"/>
+  </programme>
+  <programme channel="KRBC3200018FU" start="20230610054430 +0000" stop="20230610060121 +0000">
+    <title>몸 개그를 더한 '청개구리 가위바위보' 트라우마 극복기</title>
+    <desc>몸 개그를 더한 '청개구리 가위바위보' 트라우마 극복기</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/70/KR_VC_CTI_KRQT161013A_B120225459_D8_1235831_20230517145422983.jpg"/>
+  </programme>
+  <programme channel="KRBC3200018FU" start="20230610060121 +0000" stop="20230610062204 +0000">
+    <title>까까계 명예 잃을 뻔한 '과자 퀴즈'(ft. 아이스크림)</title>
+    <desc>까까계 명예 잃을 뻔한 '과자 퀴즈'(ft. 아이스크림)</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/23/KR_VC_CTI_KRQT161013A_B120225459_D10_1251561_20230517145415658.jpg"/>
+  </programme>
+  <programme channel="KRBC3200018FU" start="20230610062204 +0000" stop="20230610064200 +0000">
+    <title>저항없이 박박 웃긴 '레트로 이어 말하기'</title>
+    <desc>저항없이 박박 웃긴 '레트로 이어 말하기'</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/49/KR_VC_CTI_KRQT161013A_B120225459_D10_1251564_20230517145432429.jpg"/>
+  </programme>
   <channel id="KRBB50000711L">
     <display-name>MBC 심야괴담회</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230524T004339SQUARE.png_20230524004340.png"/>
   </channel>
-  <programme channel="KRBB50000711L" start="20230609224828 +0000" stop="20230610001152 +0000">
-    <title>심야괴담회, 23회</title>
-    <sub-title>심야 괴담회</sub-title>
-    <desc>1. 특별임무 2. 외딴 집 3. 금강산 호텔</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/15/KR_VC_CTI_USQT620324A_KRBB50000711L_SAMSUNG_20230610_02_181572A9_20230609183941769.jpg"/>
-  </programme>
   <programme channel="KRBB50000711L" start="20230610001152 +0000" stop="20230610013008 +0000">
     <title>심야괴담회, 24회</title>
     <sub-title>심야 괴담회</sub-title>
@@ -1985,16 +1937,16 @@
     <desc>1. 특별임무 2. 외딴 집 3. 금강산 호텔</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/66/KR_VC_CTI_USQT620324A_KRBB50000711L_SAMSUNG_20230610_06_88BF07C8_20230609183942223.jpg"/>
   </programme>
+  <programme channel="KRBB50000711L" start="20230610054200 +0000" stop="20230610070016 +0000">
+    <title>심야괴담회, 24회</title>
+    <sub-title>심야 괴담회</sub-title>
+    <desc>심야 괴담회</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/50/KR_VC_CTI_USQT620324A_KRBB50000711L_SAMSUNG_20230610_07_2C7C7DEA_20230609183942066.jpg"/>
+  </programme>
   <channel id="KRBB5000069BS">
     <display-name>MBC 무한도전</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20220824T102029SQUARE.png_20220824102030.png"/>
   </channel>
-  <programme channel="KRBB5000069BS" start="20230609224542 +0000" stop="20230610001735 +0000">
-    <title>무한도전, 230회</title>
-    <sub-title>&lt;연말정산 뒤끝공제&gt; 특집</sub-title>
-    <desc>★&lt;연말정산 뒤끝공제&gt; 특집★ 묵은 감정 정산하고 밝은 새해 맞이하자!! 전문가와 시청자가 함께 정리한 2010 무한도전~ 신년특집 &lt;연말정산 뒤끝공제&gt; # 쿨 하지 못한 일곱 남자들의 연말정산! - 알래스카 vs 번지점프 극과 극 방송분량,, 그 이유는? - 하하의 합류, 득이었나 실이었나?등등 멤버들이 직접 말하는 2010 무한도전 5대 안건!! 오고가는 치열한 공방 속 드러나는 진실과 오해, 그리고 흥미진진 비하인드 스토리까지!! 올 한해 무한도전을 뜨겁게 달궜던 그 이야기들~ 놀랍도록 논리 정연한(?) 그들의 변명 혹은 해명은? 쌓아왔던 1년 치 묵은 감정 대방출!! 멤버별 1대 1 청문회! 사소하고 유치하고 치졸해서 삼켜왔던 서로를 향한 불만들~ 그들은 과연 남는 거 하나 없이 말끔한 뒤끝공제에 성공할 수 있을까? 쿨 하지 못해서 미안한 일곱 남자들의 연말정산 시간!! 그 결과는? # 전문가, 무한도전을 말하다!! 상귀요미 아이유와 슈쥬 희철이 꼽는 무도 최고*최악의 특집은? 베테랑 PD와 작가가 폭로하는 멤버들의 과거*현재*미래는? 예능 좀 한다는 그분들이 무한도전 스튜디오에 나타났다! “우리 할머니도 스타킹만 봐요~” 아이유의 충격발언부터 “국민MC 유재석, 언제까지 갈까?” 예능국PD의 도발 질문까지~ 더 이상 솔직할 수 없는 그들의 ‘무한도전 말하기'!! 그 밖에~ 명수가 재석보다 잘나가던 시절 이야기, 아이돌 희철과 불혹명수의 뜨거운 러브라인 현장, 그리고 아이유가 밝혀낸 길 오줌공방의 진실은 보너스!! 가려운 곳 긁어주는 방청객의 날카로운 질문타임과 발로 뛰어 알아본 무한도전 시청현황!! 그리고 시청자가 직접 뽑은 ‘올해의 멤버' 발표까지~! 무한도전 버라이어티 청문회!! &lt;연말정산 뒤끝공제&gt; # 시상식 패션계의 미친종결! 무한도전, 2010 MBC 연예대상을 빛내다!! 누구보다 하얀 얼굴과 홍대패션으로?? 수많은 스타 속에서도 돋보일 수 밖에 없는 미친 패션의 노하우가 궁금했던 사람들은 집중!! 시상식 패션의 종결자로 변신하는 멤버들의 모습이 낱낱이 공개된다~!! 이어지는 生生 시상식 현장까지~ 2010년을 되돌아보고 2011년을 기대하는 신년특집 &lt;연말정산 뒤끝공제&gt;!! 토요일 저녁 6시 30분!! 2011년도 모두 다같이 무한~도전!!!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/74/KR_VC_CTI_USQT620324A_KRBB5000069BS_SAMSUNG_20230610_02_6EC378CD_20230609183726283.jpg"/>
-  </programme>
   <programme channel="KRBB5000069BS" start="20230610001735 +0000" stop="20230610014102 +0000">
     <title>무한도전, 231회</title>
     <sub-title>★&lt;정총무가 쏜다&gt;★</sub-title>
@@ -2019,15 +1971,16 @@
     <desc>★&lt;연말정산 뒤끝공제&gt; 특집★ 묵은 감정 정산하고 밝은 새해 맞이하자!! 전문가와 시청자가 함께 정리한 2010 무한도전~ 신년특집 &lt;연말정산 뒤끝공제&gt; # 쿨 하지 못한 일곱 남자들의 연말정산! - 알래스카 vs 번지점프 극과 극 방송분량,, 그 이유는? - 하하의 합류, 득이었나 실이었나?등등 멤버들이 직접 말하는 2010 무한도전 5대 안건!! 오고가는 치열한 공방 속 드러나는 진실과 오해, 그리고 흥미진진 비하인드 스토리까지!! 올 한해 무한도전을 뜨겁게 달궜던 그 이야기들~ 놀랍도록 논리 정연한(?) 그들의 변명 혹은 해명은? 쌓아왔던 1년 치 묵은 감정 대방출!! 멤버별 1대 1 청문회! 사소하고 유치하고 치졸해서 삼켜왔던 서로를 향한 불만들~ 그들은 과연 남는 거 하나 없이 말끔한 뒤끝공제에 성공할 수 있을까? 쿨 하지 못해서 미안한 일곱 남자들의 연말정산 시간!! 그 결과는? # 전문가, 무한도전을 말하다!! 상귀요미 아이유와 슈쥬 희철이 꼽는 무도 최고*최악의 특집은? 베테랑 PD와 작가가 폭로하는 멤버들의 과거*현재*미래는? 예능 좀 한다는 그분들이 무한도전 스튜디오에 나타났다! “우리 할머니도 스타킹만 봐요~” 아이유의 충격발언부터 “국민MC 유재석, 언제까지 갈까?” 예능국PD의 도발 질문까지~ 더 이상 솔직할 수 없는 그들의 ‘무한도전 말하기'!! 그 밖에~ 명수가 재석보다 잘나가던 시절 이야기, 아이돌 희철과 불혹명수의 뜨거운 러브라인 현장, 그리고 아이유가 밝혀낸 길 오줌공방의 진실은 보너스!! 가려운 곳 긁어주는 방청객의 날카로운 질문타임과 발로 뛰어 알아본 무한도전 시청현황!! 그리고 시청자가 직접 뽑은 ‘올해의 멤버' 발표까지~! 무한도전 버라이어티 청문회!! &lt;연말정산 뒤끝공제&gt; # 시상식 패션계의 미친종결! 무한도전, 2010 MBC 연예대상을 빛내다!! 누구보다 하얀 얼굴과 홍대패션으로?? 수많은 스타 속에서도 돋보일 수 밖에 없는 미친 패션의 노하우가 궁금했던 사람들은 집중!! 시상식 패션의 종결자로 변신하는 멤버들의 모습이 낱낱이 공개된다~!! 이어지는 生生 시상식 현장까지~ 2010년을 되돌아보고 2011년을 기대하는 신년특집 &lt;연말정산 뒤끝공제&gt;!! 토요일 저녁 6시 30분!! 2011년도 모두 다같이 무한~도전!!!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/02/KR_VC_CTI_USQT620324A_KRBB5000069BS_SAMSUNG_20230610_06_1C5B9514_20230609183151267.jpg"/>
   </programme>
+  <programme channel="KRBB5000069BS" start="20230610055837 +0000" stop="20230610072204 +0000">
+    <title>무한도전, 231회</title>
+    <sub-title>★&lt;정총무가 쏜다&gt;★</sub-title>
+    <desc>★&lt;정총무가 쏜다&gt;★ 갑작스러운 길의 부상으로 전면 취소된 촬영계획~! 당장 다음 주 방송분을 만들기 위해 &lt;연예대상&gt; 직후, 멤버들 모두모여 긴급회의를 시작하는데... 촉박한 시간, 불안한 마음, 열악한 조건... 위기일발 무한도전이 선택한 플랜B 특집! &lt;정총무가 쏜다 쏜다 쏜다~!&gt; # 정총무, 어디까지 쏴 봤니?? 평소 '구두쇠' 캐릭터로 오해받는 정총무 준하, 새해를 맞아, 그에게 마음껏 베풀 수 있는 기회를 주자~! 무한도전 멤버들의 만장일치 플랜B 아이템!! 이름하야~ &lt;정총무가 쏜다&gt; “STOP!!” 정총무의 다급한 구령이 들리기 전까지 뭐든지 먹고, 마시고, 골라라!! 단, 준하가 총금액을 맞히면 '베품'의 영광(?)은 다른 멤버에게 고스란히 돌아가게 되는데... 5% 오차 사이를 넘나드는 새해 첫 긴장감!! 순발력과 암산력, 그리고 쿨가이의 진짜 배포를 알아볼 수 있는 기회!! "정총무가 쏜다 쏜다 쏜다~!" # 천하무적 정총무, 골든벨을 울려라~! MBC 구내매점과 서점에서 시작된 연습게임!! 정초부터 터져버린 재물복에 신이 난 멤버들, 눈치코치 볼 것 없이 마음껏 골라대는데... 하지만 이건 시작에 불과하다!! MBC 개그맨들의 무차별 회전초밥 습격과 무한도전 스태프가 초토화 시킨 전집까지~ 한손에는 주판, 한 손엔 계산기를 든 정총무가 매의 눈빛으로 체크한 예상 금액을 발표하는데!! 그 결과에 따라 웃을 자와 울게 될 자는? 박장군 명수옹이 그려보는 믿거나 말거나 2011년 무한도전 예측부터 신묘년을 강타할 유행어 만들기 대결까지! 무슨 수를 써서라도 한 회분을 만들어내라!! 맨땅에 헤딩하는 심정으로 급조된, 그래서 더 재미있는 예측불허 플랜B 특집!! 무한도전 &lt;정총무가 쏜다 쏜다 쏜다!!&gt; 토요일 저녁 6시 30분!! 보기만 해도 두둑하게 배부른 90분, 공복으로 기대해 주세요~</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/82/KR_VC_CTI_USQT620324A_KRBB5000069BS_SAMSUNG_20230610_07_9BCD3BBC_20230609183151535.jpg"/>
+  </programme>
   <channel id="KRBB500034DY">
     <display-name>MBC every1 어서와 한국은 처음이지?</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20230222T043325SQUARE.png_20230222043326.png"/>
   </channel>
-  <programme channel="KRBB500034DY" start="20230609222801 +0000" stop="20230610001721 +0000">
-    <title>어서와 한국은 처음이지? 57회 [터키 4]</title>
-    <desc>대망의 알파고 투어 디데이! 실제 가이드 못지않은 알파고의 알찬 한국 역사 투어 시작!알파고의 한국 역사 명강의! 터키 친구들을 위해 고조선부터 일제 강점기까지 완벽 설명!  석조전부터 수문장 교대식까지! 격동의 역사를 품은 덕수궁에 방문한 터키 3인방! 독립 운동가들의 한이 서린 서대문형무소, 가슴 아픈 한국 역사에 깊이 공감하는 터키 친구들대한민국 민주주의의 요람! 민주주의 역사와 의미를 되새길 수 있는 청와대 사랑채 방문! 기념품 구매 욕구 뿜뿜! 한국 덕후 메르트의 취향을 저격한 인사동 방문!   터키 3인방이 '엄지척'한 장어와 복분자주의 참맛! 장어 꼬리 사수를 위한 치열한 쟁탈전! 마침내 찾아온 이별의 시간... 여행 내내 웃음과 감동을 준 터키 친구들과의 마지막 인사</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/02/KR_VC_CTI_KRPBA3501QY_KRBB500034DY_3e5676acef201ea37688e2fa309547372e280_20230609183744503.jpg"/>
-  </programme>
   <programme channel="KRBB500034DY" start="20230610001721 +0000" stop="20230610020507 +0000">
     <title>어서와 한국은 처음이지? 58회 [호주 1]</title>
     <desc>여유만만 슬로우 라이프 지향! 사랑스러움이 매력적인 호주 가족의 한국 여행 START!철두철미 아빠 마크와 '여긴 꼭 가야 해!' SNS 성지를 찾는 멕과 케이틀린의 극과 극 여행계획 난관도 미소로 극복! 숙소로 향하는 험난한 여정에도 여유 가득한 초긍정 호주 가족!첫 한식은 채식주의자 케이틀린의 취향 저격 비빔밥! 해산물 애호가 마크는 멸치볶음에 홀릭?  시청과 덕수궁 돌담길에서 펼쳐진 명강의! 제작진도 놀라게 한 마크의 '건축학 개론'!언젠간 꼭 가고 싶던 곳, 아들 블레어의 선물에서 시작된 숭례문 방문기   블레어가 준비한 깜짝 이벤트! 가로수길 한가운데에서 펼쳐진 서프라이즈 가족 상봉의 결과는?</desc>
@@ -2052,12 +2005,6 @@
     <display-name>SBS 런닝맨</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20221116T013643SQUARE.png_20221116013644.png"/>
   </channel>
-  <programme channel="KRBB4200002MM" start="20230609223639 +0000" stop="20230610001601 +0000">
-    <title>런닝맨 405회</title>
-    <sub-title>그들을 믿지 마세요</sub-title>
-    <desc>▶ ‘그들을 믿지 마세요 : 도적들 레이스' ◀‘댄싱 퀸'에서 ‘예능 퀸'으로 돌아온 배우 손담비! 안방극장을 사로잡은 ‘대세 여배우' 서은수!청순 섹시의 아이콘! ‘나인뮤지스' 경리! 다시 돌아온 ‘김종국의 유일한 대항마' 개그우먼 이국주! 한 여름 태양만큼 뜨거운 HOT 스타들과 함께한 (도적들 레이스)6팀의 커플 안에는 5명의 도적과 7명의 백성이 존재한다는데~이 안에는 도적 팀의 리더인 ‘두목'과 백성 팀의 리더 ‘임금'이 숨어있다?!각 라운드에 우승한 커플은 두 커플을 지목해 판정대에 올릴 수 있는 권한이 지급되고~판정 결과를 토대로 ‘백성 팀'은 ‘두목'을!‘도적 팀'은 ‘임금'을! 추리해 최종 판정대에 올려야한다!  ‘임금'과 ‘두목'을 찾기 위한 치열한 눈치싸움! 그 결과는?  ▶ 역대 급 꿀잼 게스트들의 치열한 매력 배틀! ◀8년 만에 런닝맨을 찾아온 손담비의 ‘미쳤어', ‘토요일 밤에' 댄스부터섹시 댄스의 아이콘 경리의 ‘경악' 섹시 댄스,이국주의 ‘무릎으로 과자 터트리기' 기인 열전까지!그리고! “오빠 나이가 뭐가 중요해요♥”‘제 2의 소녀 장사' 서은수와 김종국의두근두근! 러브라인의 전말은?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/85/KR_VC_CTI_USQT620324A_KRBB4200002MM_427564461_20230609183829821.jpg"/>
-  </programme>
   <programme channel="KRBB4200002MM" start="20230610001601 +0000" stop="20230610015332 +0000">
     <title>런닝맨 99회</title>
     <sub-title>런닝맨에 왕이 나타났다! 임금 레이스 스타트!</sub-title>
@@ -2144,15 +2091,16 @@
     <desc>뚱's 키친에 오신것을 환영합니다~ 역대급 퀄리티에 진짜 셰프들이 와야하지만~ 셰프 급 절친 총 출동!! 절친들이 24시간 요리 할 주방을 소개합니다~ 뚱4를 위해 요리하는 모습 멋지다~ 절치니 셰프들의 위대한 요리들! 군침도는 요리들이 한~가득 밖에 나와 먹어서 감동 절친이 해줘서더 감동!! 뚱's 키친으로 놀러 오세요~</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/53/KR_VC_CTI_KRPBA3501QY_KRBC3200007D1_b0cc74bba0e51296021b9fda6bed42d43925_20230609183322349.jpg"/>
   </programme>
+  <programme channel="KRBC3200007D1" start="20230610062657 +0000" stop="20230610075031 +0000">
+    <title>맛있는 녀석들</title>
+    <sub-title>뚱's 키친 2탄</sub-title>
+    <desc>뚱's 키친 제 2탄!! 더욱 더 화려한 음식 라인업~ 맛집과 비교해서 손색없는 맛! 끊음없이 이어지는 릴레이 요리 '꽃게 튀김' 소리부터가 맛있음!!!! 빠르게 늘어가는 sold out~ 맛녀석들의 저녁식사는 지금부터!! 여배우의 '낙지 탕탕이'부터 정태호 헤드셰프의 요리 퍼레이드~ 저녁은 먹었으니 야식 time~야식조차 넘사벽 클래스. 아침이라고 조금 먹는 일은 없다~ 등갈비김치찜 &amp; 마늘 볶음밥 아침에도 무지막지 먹는 녀석들. 뚱's 키친은 계속 된다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/12/KR_VC_CTI_KRPBA3501QY_KRBC3200007D1_b0cc74bb49c3885995dfd98da1cd8156a96e_20230609183321443.jpg"/>
+  </programme>
   <channel id="KRBB500035VF">
     <display-name>TV CHOSUN 사랑은 아무나 하나</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20230524T004319SQUARE.png_20230524004319.png"/>
   </channel>
-  <programme channel="KRBB500035VF" start="20230609221100 +0000" stop="20230609234029 +0000">
-    <title>사랑은 아무나 하나 22회</title>
-    <desc>TV조선 사랑은 아무나 하나 22회에서는 배우 신주아의 럭셔리 태국 라이프가 공개된다.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/47/KR_VC_CTI_KRPBA3501QY_KRBB500035VF_2fcf4438393561bff153179eea6d076304fda_20230609183525246.jpg"/>
-  </programme>
   <programme channel="KRBB500035VF" start="20230609234029 +0000" stop="20230610010950 +0000">
     <title>사랑은 아무나 하나 23회</title>
     <desc>TV조선 사랑은 아무나 하나 23회에서는 헐리웃 뺨치는 태국 댁 클래스가 공개된다.</desc>
@@ -2173,16 +2121,15 @@
     <desc>TV조선 사랑은 아무나 하나 26회에서는 인기스타 가족의 뉴질랜드 정착기가 공개된다.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/23/KR_VC_CTI_KRPBA3501QY_KRBB500035VF_2fcf443867eff8382769b3dfb6b0213a8ee90_20230609183525699.jpg"/>
   </programme>
+  <programme channel="KRBB500035VF" start="20230610053806 +0000" stop="20230610070758 +0000">
+    <title>사랑은 아무나 하나 27회</title>
+    <desc>TV조선 사랑은 아무나 하나 27회에서는 스페인 테네리페섬의 꽃중년 부부의 이야기가 공개된다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/70/KR_VC_CTI_KRPBA3501QY_KRBB500035VF_2fcf4438295af1b52e16d0582ca6e960a0a0b_20230609183134228.jpg"/>
+  </programme>
   <channel id="KRBB50000721W">
     <display-name>MBC 신비한 TV 서프라이즈</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20230524T004336SQUARE.png_20230524004337.png"/>
   </channel>
-  <programme channel="KRBB50000721W" start="20230609231525 +0000" stop="20230610002037 +0000">
-    <title>신비한 TV 서프라이즈, 1013회</title>
-    <sub-title>Ⅰ. 아그네사의 선택  Ⅱ. 사기의 神 나트와랄</sub-title>
-    <desc>&lt;&lt; Extreme Surprise &gt;&gt; Ⅰ. 아그네사의 선택 1970년대 전 세계를 강타한 아바 열풍! 그런데 아바의 메인 보컬, 아그네사가 돌연 충격 선언을 하는데··· 멤버들과 팬들을 충격에 빠뜨린 아그네사의 선택은?! Ⅱ. 사기의 神 나트와랄 절도죄로 체포된 허름한 행색의 노인. 놀랍게도 그의 정체는 전설적인 사기꾼 나트와랄이었는데··· 인도를 발칵 뒤집어 놓은 기막힌 사기극이 펼쳐진다! &lt;&lt; 서프라이즈 알고리즘 : 서프리즘 &gt;&gt; # 공룡 CG의 혁신을 연 레전드 공룡 영화 ‘쥬라기 공원'! 아서 코난 도일과 해리 후디니의 공룡 대결! OO팀의 마스코트 ‘거너사우르스', 공룡이 마스코트가 된 사연! &lt;&lt; 사진으로 보는 서프라이즈 PICK &gt;&gt; #1. 절벽에서 다림질을 한다?! 익스트림 다림질!#2. 강심장만 탈 수 있다, 유리 미끄럼틀!#3. 또 다른 세계, 신비의 손둥 동굴!#4. 철없는 남자의 목숨을 건 프러포즈! &lt;&lt; 언빌리버블 스토리 &gt;&gt; Ⅰ. 26년 후 26년 전 납치당한 아들 강민을 찾기 위해 매일 집을 나서는 정희. 어느 날 26년 전 부모님을 잃어버린 한 남성이 찾아오는데··· 모자의 기막힌 사연이 공개된다!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/89/KR_VC_CTI_USQT620324A_KRBB50000721W_SAMSUNG_20230610_03_18F55AEB_20230609183943980.jpg"/>
-  </programme>
   <programme channel="KRBB50000721W" start="20230610002037 +0000" stop="20230610012555 +0000">
     <title>신비한 TV 서프라이즈, 1014회</title>
     <sub-title>Ⅰ. 스타의 탄생 Ⅱ. 공주의 스캔들</sub-title>
@@ -2213,16 +2160,16 @@
     <desc>&lt;&lt; Extreme Surprise &gt;&gt; Ⅰ. 아그네사의 선택 1970년대 전 세계를 강타한 아바 열풍! 그런데 아바의 메인 보컬, 아그네사가 돌연 충격 선언을 하는데··· 멤버들과 팬들을 충격에 빠뜨린 아그네사의 선택은?! Ⅱ. 사기의 神 나트와랄 절도죄로 체포된 허름한 행색의 노인. 놀랍게도 그의 정체는 전설적인 사기꾼 나트와랄이었는데··· 인도를 발칵 뒤집어 놓은 기막힌 사기극이 펼쳐진다! &lt;&lt; 서프라이즈 알고리즘 : 서프리즘 &gt;&gt; # 공룡 CG의 혁신을 연 레전드 공룡 영화 ‘쥬라기 공원'! 아서 코난 도일과 해리 후디니의 공룡 대결! OO팀의 마스코트 ‘거너사우르스', 공룡이 마스코트가 된 사연! &lt;&lt; 사진으로 보는 서프라이즈 PICK &gt;&gt; #1. 절벽에서 다림질을 한다?! 익스트림 다림질!#2. 강심장만 탈 수 있다, 유리 미끄럼틀!#3. 또 다른 세계, 신비의 손둥 동굴!#4. 철없는 남자의 목숨을 건 프러포즈! &lt;&lt; 언빌리버블 스토리 &gt;&gt; Ⅰ. 26년 후 26년 전 납치당한 아들 강민을 찾기 위해 매일 집을 나서는 정희. 어느 날 26년 전 부모님을 잃어버린 한 남성이 찾아오는데··· 모자의 기막힌 사연이 공개된다!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/03/93/KR_VC_CTI_USQT620324A_KRBB50000721W_SAMSUNG_20230610_08_CBF088F4_20230609183739613.jpg"/>
   </programme>
+  <programme channel="KRBB50000721W" start="20230610054632 +0000" stop="20230610065150 +0000">
+    <title>신비한 TV 서프라이즈, 1014회</title>
+    <sub-title>Ⅰ. 스타의 탄생 Ⅱ. 공주의 스캔들</sub-title>
+    <desc>&lt;&lt; Extreme Surprise &gt;&gt; Ⅰ. 스타의 탄생 완벽한 비주얼, 소울 넘치는 음색까지! 혜성처럼 등장한 신인 아이돌 그룹, 밀리 바닐리. 그런데 그들이 수상했던 그래미 어워드 신인상이 돌연 취소되는데··· 슈퍼스타의 충격적인 정체가 공개된다! Ⅱ. 공주의 스캔들 영국 여왕 엘리자베스 2세의 동생, 마거릿 로즈 공주. 영국의 장미로 불리던 그녀가 수많은 스캔들의 주인공이 되며 왕실의 사고뭉치로 전락한 사연은? 공주와 경호원의 로맨스가 펼쳐진다! &lt;&lt; 서프라이즈 알고리즘 : 서프리즘 &gt;&gt; # 우연히 탄생한 명곡 전 세계에 춤바람을 몰고 온 ‘마카레나' 열풍! 달에 울려 퍼진 노래 ‘플라이 미 투 더 문'! 전 남자친구가 보낸 가슴 절절한 러브레터 ‘오! 캐럴'! &lt;&lt; 사진으로 보는 서프라이즈 PICK &gt;&gt; #1. 개엄마의 멧돼지 육아! #2. 1분에 352번 펀치를 날리는 인도 태권도 유단자!#3.정원의 신 ‘더글라스 스미스'#4. 시골 청년들의 골판지 슈퍼카! &lt;&lt; 언빌리버블 스토리 &gt;&gt; Ⅰ. 김선생, 오늘도 무사히 매일 책상에 엎어져 잠만 자는 학생 승호. 그가 주 3일 조퇴해야 했던 사연은? 담임 선생님 선영의 불량 학생(?) 지도가 시작된다!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/68/KR_VC_CTI_USQT620324A_KRBB50000721W_SAMSUNG_20230610_09_C38D535C_20230609183942394.jpg"/>
+  </programme>
   <channel id="KRBC3200008M6">
     <display-name>식객 허영만의 백반기행</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20220824T112724SQUARE.png_20220824112725.png"/>
   </channel>
-  <programme channel="KRBC3200008M6" start="20230609231725 +0000" stop="20230610001055 +0000">
-    <title>식객 허영만의 백반기행</title>
-    <sub-title>그 맛'이 알고 싶다! 상암 방송家 밥상</sub-title>
-    <desc>생기발랄! 매력 만점 배우 홍수아방송국 골목 곳곳 숨은 진미를 찾아서~늦여름 원기 충전 보양 밥상!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/62/KR_VC_CTI_KRPBA3501QY_KRBC3200008M6_2fcf443884edc8f5784a5f7a9fe2bf751b24_20230609183323377.jpg"/>
-  </programme>
   <programme channel="KRBC3200008M6" start="20230610001055 +0000" stop="20230610010401 +0000">
     <title>식객 허영만의 백반기행</title>
     <sub-title>향기롭고 은혜롭다?! 강릉 겨울 밥상</sub-title>
@@ -2259,16 +2206,22 @@
     <desc>겨울 정취 태백산과 함께할 오늘의 게스트는!?부드러운 카리스마! 배우 꽃중년 김승수태백산의 정기 신묘한 태백의 맛 대공개오직 태백에만 허락된 맛!식객이 보장하는 태백의 맛과 재미!먹방 한 풀러 온 싱글남 체면 불사 집으로 가져가고 싶은 맛</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/05/KR_VC_CTI_KRPBA3501QY_KRBC3200008M6_2fcf44382ff8c122d90b2789d845b898692d_20230609183651246.jpg"/>
   </programme>
+  <programme channel="KRBC3200008M6" start="20230610053029 +0000" stop="20230610062344 +0000">
+    <title>식객 허영만의 백반기행</title>
+    <sub-title>기가 차오른다~! 대구 동구 팔공산 밥상</sub-title>
+    <desc>기세 등등 팔공산을 찾은 식객뼛속까지 예술가 배우＆영화감독 추상미지금까지 이런 음식은 없었다…!특급명품이것이 대구 스타일!이것은 신세계다!몸서리치게 맛있다~강력한 풍미 강타!구수한 맛이 한꺼번에 꽉!맛이 꽉~ 찬 팔공산 밥상팔공산 등반 후 먹기 딱!하산을 재촉하는 맛~</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/17/KR_VC_CTI_KRPBA3501QY_KRBC3200008M6_2fcf4438c7ac80c991c025f46a59ee498f9b_20230609183546282.jpg"/>
+  </programme>
+  <programme channel="KRBC3200008M6" start="20230610062344 +0000" stop="20230610071654 +0000">
+    <title>식객 허영만의 백반기행</title>
+    <sub-title>맛의 영광! 전남 영광 밥상</sub-title>
+    <desc>찬란한 바다를 품은 도시 전남 영광영광스러운 오늘의 게스트?!격한 환영영광이 낳은 스타우아한 카리스마 배우 정애리놀랍고 또 놀랍다남도의 인심을 보여주마하나하나 정성 들여 나오는 밥상영광의 상징 굴비까지사랑에 빠질 수밖에 없는 영광의 맛</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/24/KR_VC_CTI_KRPBA3501QY_KRBC3200008M6_2fcf44381ff31617e2363fe5ba48e41707a2_20230609183857583.jpg"/>
+  </programme>
   <channel id="KRBB4200008PR">
     <display-name>SBS 동상이몽2 - 너는 내 운명</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200008PR_20230111T005223SQUARE.png_20230111005224.png"/>
   </channel>
-  <programme channel="KRBB4200008PR" start="20230609223352 +0000" stop="20230609235600 +0000">
-    <title>동상이몽2_너는 내 운명 36회</title>
-    <sub-title>스튜디오까지 폭풍감동! 최수종표 이벤트의 정체는?!</sub-title>
-    <desc>▶ 스튜디오까지 폭풍감동! 최수종표 이벤트의 정체는?!라오스의 마지막 여정, 꽝 시 폭포!에메랄드 빛 폭포가 아름다운 이곳에서수종, 은혼여행의 피날레를 장식하다!?이벤트의 끝판왕, 진짜가 나타났다!!숨은 조력자(?)까지 동원해 25주년 기념 서프라이즈 이벤트를 준비하는데...희라♥수종, 눈물 펑~펑~ 쏟은 이벤트 대 공개!▶ 북경에 이어 심천에서도, 추우 사랑 네버엔딩~♥바늘 가는데 실이 안 갈 쏘냐~!효광의 드라마 촬영지 숙소에서 함께 지내게 된 자현!두 사람의 새로운 심천 신혼생활은 과연~?효광, 자현의 아바타 되다?자현의 지시 하에 착착 정리되는 짐 꾸러미!지친 효광에게 자현, ‘나랑 같이 온 거 후회해?!'기습 질문에 효광의 대답은...?▶ 더 이상 ‘묻지마 여행'은 없다! 우리 대세가 달라졌어요!전지훈련을 앞두고, 가족여행을 떠난 대세네!과거의 정대세는 더 이상 없다!비행기 티켓팅부터 숙소와 식사까지! 백전 만점에 백점?! 풀코스 대세투어♬대세의 만반의 준비로 도착한 에히메현!기뻐하는 가족들을 보며 기분 흐뭇한 찰나...정작 자신에게 제일 중요한 ‘이것(?)'을 놓고 온 대세!!이 여행... 정말 괜찮을까?...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/32/KR_VC_CTI_USQT620324A_KRBB4200008PR_424166866_20230609183135043.jpg"/>
-  </programme>
   <programme channel="KRBB4200008PR" start="20230609235600 +0000" stop="20230610011926 +0000">
     <title>동상이몽2_너는 내 운명 37회</title>
     <sub-title>실종된 복근 찾아 삼만리! 교진, 발레학원 가다!</sub-title>
@@ -2292,6 +2245,12 @@
     <sub-title>사상최초! 교진의 ‘묶음 이벤트</sub-title>
     <desc>▶ 사상최초! 교진의 ‘묶음 이벤트(feat. 컴퓨터)' 大 공개!결국 ‘컴퓨터X이벤트'를 준비한 교진과유독 수상한 해파리를 지켜보는 이현!과연 최수종의 이벤트를 벤치마킹한 교진은컴퓨터 무사 입성에 성공할 수 있을까? 그리고! 시트콤 부부 오열하다?!이벤트 도중에 쌍으로 터진 두 사람의 눈물!모두가 놀란 눈물의 의미는? ▶ ‘초심 찾아 삼만리(?)' 25년차 무사부부의 은혼 여행기!큰 탈(?)없이 보라카이 입성한 무송♥사연!인 줄 알았으나...무송이 손수 준비한 숙소 앞에사연, 칩거선언 한 까닭은?!사연의 취향을 저격할 식당을 찾은 무송부부!음식을 왕창(?) 주문하고 기다리는데...갑자기 식당의 모든 불이 꺼졌다!? 이건, 무송이 보낸 이벤트 시그널♥?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/32/KR_VC_CTI_USQT620324A_KRBB4200008PR_425099653_20230609183600863.jpg"/>
+  </programme>
+  <programme channel="KRBB4200008PR" start="20230610053615 +0000" stop="20230610070141 +0000">
+    <title>동상이몽2_너는 내 운명 31회</title>
+    <sub-title>여행 앞에 동상이몽 폭발! 최수종♥하희라에게 짐싸기란...?</sub-title>
+    <desc>▶ 여행 앞에 동상이몽 폭발! 최수종♥하희라에게 짐싸기란...?첫방 이후 실검을 장악한 최수종♥하희라 부부!화제의 잉꼬부부도 피해갈 수 없는 동상이몽이 있다?!짐싸기계 맥시멈 라이프 하희라와옷 개기의 장인 최수종이 만났다!‘대충 넣어!' 희라 VS ‘예쁘게 넣어야 해요~' 수종달라도 너무 다른 서로의 짐 싸기 스타일!‘우리.. 은혼 여행 갈 수 있겠지..?'▶ 추우택배 왔습니다! 세쌍둥이 사로잡은 우블리의 비법은?추우택배의 첫 번째 목적지, 캐나다 세쌍둥이네!눈에 넣어도 안 아플 세쌍둥이에효광, ‘우리도 셋 낳자!' 부러움 폭발!추우부부가 직접 준비한 선물은 물론, 외국인 남편들 입맛 사로잡은 자현표 감자탕!그런데, 효광! 먹어도 너~무 잘 먹어!남녀노소 무장해제 시키는 효광의 매력 대 방출!▶ NEW 운명 커플 소이현♥인교진 첫 공개! 인교진의 반전 매력은?태초에 딸바보 아빠 이전에, ‘남편' 인교진이 존재했다?!그간 보여준 적 없는 이 남자의 해파리(?) 같은 매력!동상이몽에서 전격 봉인해제!!스튜핏 부르는 ‘충동구매요정'이 등장했다!한참 갖고 싶은 것 많은 나이, 서른아홉(?)대체, 이 남자의 소비욕구는 어디까지?!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/73/KR_VC_CTI_USQT620324A_KRBB4200008PR_422747514_20230609183634185.jpg"/>
   </programme>
   <channel id="KRBC200002I0">
     <display-name>MBC 나혼자산다</display-name>
@@ -2361,6 +2320,12 @@
     <desc>대청소 이후 몰라보게 깨끗해진 &lt;치킨바비큐&amp;불막창집&gt;!B.U.T 여전히 몸에 밴 잘못된 조리 위생 습관들?!이에 시작된 백대표의 ONE POINT 위생교육! 과연 그 결과는?♨연습만이 살길이다♨ 新메뉴 ‘짜장떡볶이' 2주간 폭풍 연습한 &lt;떡맥집&gt; 사장님!그/러/나 노력에도 불구, 백대표 반응은 냉담...?!과연 무슨 일이?&lt;시장족발집&gt;, 역대급 NEW 메뉴 탄생!‘돼지 귀부터 오소리감투, 애기보까지!?'내장 6종 총집합에 ♡내장요정♡ MC 인선 심.쿵!비주얼 최강! ‘모둠내장' 과연 그 맛은?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/71/KR_VC_CTI_USQT620324A_KRBB4200011RB_448176263_20230609183627540.jpg"/>
   </programme>
+  <programme channel="KRBB4200011RB" start="20230610062316 +0000" stop="20230610075132 +0000">
+    <title>백종원의 골목식당 114회</title>
+    <sub-title>'군포 역전시장 편' 네 번째 이야기</sub-title>
+    <desc>메뉴 정리를 위해 깊은 고민에 빠진 &lt;치킨바비큐&amp;불막창집&gt;무한 고민 중, 뜻밖에(?) 아이디어 제시?!“아들이 닭꼬치 좋아하는데..”  新메뉴 번뜩 떠올린 여사장님과연, 이 소식을 들은 백대표의 반응은?!&lt;떡맥집&gt; 일손 부족에 일일 알바생을 자처한 MC 인선!♡B.U.T 끝없는 튀김의 늪(?)에 빠졌다는데... 무슨 일이?그/리/고 짜장 떡볶이와 케미 200%, &lt;떡맥집&gt;만의 '매운맛 소스‘ 탄생!'야옹‘ 아닌 '어흥‘ 소스를 맛본 손님들의 반응은~?'클라쓰‘가 다른 대세 배우 '안보현‘이 시장족발집에 떴다!알고 보니, MC 인선 뛰어넘는 족발&amp;내장 LOVER?!발톱 제거 스킬 100점! 족발 발가락 먹방부터~ 안보현표 ★특제 소스★ 레시피까지 개/봉/박/두</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/40/KR_VC_CTI_USQT620324A_KRBB4200011RB_448475753_20230609183655869.jpg"/>
+  </programme>
   <channel id="KRBB5000364M">
     <display-name>MBC every1 대한외국인</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20220914T013029SQUARE.png_20220914013030.png"/>
@@ -2385,16 +2350,15 @@
     <desc>&lt;인피니트&gt; 김성규 X &lt;러블리즈&gt; 이미주 X &lt;골든차일드&gt; 장준 X &lt;로켓펀치&gt; 소희까지! 인피니트 성규 '중학생 때 전교 2등, 고등학생 때 전교 16등 해봤다' 한국인 팀의 에이스로 등극! 러블리즈 미주 '회사에서 직설적인 대답 금지령 받았다' 솔직+털털한 미주의 매력  골든차일드 장준 '회사에서 운동 금지령 내려... 운동해서 의상이 터졌었다' 반전 매력 발산</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/49/KR_VC_CTI_KRPBA3501QY_KRBB5000364M_3e5676ac06bb9232a7484a26a5e022c3bf204_20230609183513391.jpg"/>
   </programme>
+  <programme channel="KRBB5000364M" start="20230610054423 +0000" stop="20230610073124 +0000">
+    <title>대한외국인 82회 [텐션 부자 삼인방 특집 ]</title>
+    <desc>함께하면 즐거운 &lt;텐션 부자 삼인방&gt; 특집  모델 아이린, 타임지가 선정한 차세대 리더! 과연 차세대 리더의 퀴즈 실력은? 완판남 김호영 '상대 쇼 호스트 진땀 흘리게 하는 스타일이다' 완판 비결(?) 공개  모모랜드 주이 '넘치는 흥 때문에 민망했던 적 있다' 계속 달려야만했던 주이의 웃픈 사연</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/65/KR_VC_CTI_KRPBA3501QY_KRBB5000364M_3e5676acb96f3b3e19585d7d1278d88e50379_20230609183137034.jpg"/>
+  </programme>
   <channel id="KRBB4200012PV">
     <display-name>SBS 정글의 법칙</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20221214T020641SQUARE.png_20221214020642.png"/>
   </channel>
-  <programme channel="KRBB4200012PV" start="20230609225356 +0000" stop="20230609235708 +0000">
-    <title>김병만의 정글의 법칙 446회</title>
-    <sub-title>봄 1부</sub-title>
-    <desc>▶겨우내 움츠렸던 만물이 소생하는 계절, 봄  인생의 봄날을 맞은 병만족이 생명의 섬 제주도에 떴다!제주도의 봄(Spring)부터 봄(See)까지병만족장과 함께 생존에 나설 봄.생.봄.사 병만족은?  화려한 입담으로 마음까지 낚는 진정한 낚시꾼! 지상렬세계를 재패한 월.클 ‘프로 정글러' 마린 보이 박태환특급 생존력 겸비!! 제주를 지키던 ‘트롯 특전사' 박군제주의 아들! 고향에서도 야생美 뿜뿜 ‘정글돌' 뉴이스트 백호설렘유발 로코퀸! 정글에선 해녀로 변신~ ‘정글 엔돌핀' 김혜윤정글에서 ‘장녀 바이브'를 보여줄 상큼발랄 ‘과즙돌' 이달의 소녀 츄▶대한민국에서 봄을 가장 먼저 만날 수 있는 제주도!  봄을 맞이한 제주도 병만족이 샅샅이 보여줄게요~♪태고의 자연을 품은 제주도!끈질기게 생명을 싹틔운 곶자왈부터유네스코 3관왕 제주도의 자연유산까지병만족! 제주도 지상과 바다를 넘나드는 봄 탐사 GO~병만족에서 도착한 첫 번째 봄 미션!정.법의 소울푸드 ‘크레이피시'가 제주에 산다?!제주 바닷속 ‘닭새우'를 찾아 나선 병만족~ 정글 특급 에이스가 뭉친 ‘닭새우 특공대'병만족장X‘바다의 왕자'태환X‘트롯특전사'박군 출격!과연... 국내 편 최초! 크레이피시를 만날 수 있을까?!&lt;정글의 법칙 봄&gt; 첫 번째 이야기!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/00/KR_VC_CTI_USQT620324A_KRBB4200012PV_454575213_20230609184014121.jpg"/>
-  </programme>
   <programme channel="KRBB4200012PV" start="20230609235708 +0000" stop="20230610010010 +0000">
     <title>김병만의 정글의 법칙 447회</title>
     <sub-title>봄 2부</sub-title>
@@ -2431,16 +2395,16 @@
     <desc>▶ 인아공주 울린 족장의 밤바다 사냥과   5성급 정글 하우스 ‘절벽 가옥'에서의 첫날밤 大공개배를 채우기엔 조금 아쉬운 식사가 끝나고 멤버들을 위해 밤바다 사냥에 나서는 병만족장!거센 파도와 칠흑같은 어둠에 걱정하는 멤버들과 끝내 눈물을 보이는 인아.  한치앞도 보이지 않는 최악의 수중 상황에도 1인 1전복을 약속한 병만 족장은 귀하디 귀한 ○○까지 사냥해 모두를 놀라게 했다는데..! 과연 이 귀한 몸의 주인공은?!그리고 멤버들의 입을 떡벌어지게 만든 병만족장의 역대급 정글하우스 ‘절벽 가옥'에서의 하룻밤! 세명도 거뜬히 누울 수 있는 크기와 파도소리를 천연 ASMR 삼아 잠을 청하는 인아 오성 성민의 절벽가옥 체험 커.밍.쑨!!▶ “병만족의 상상은 현실이 된다!” 블록버스터급(?) 인아공주의 상상!    대야 뗏목을 이용한 수상 요가 도전기성민의 무동력 우물호스부터 오성의 페트병 낚시, 전진의 정글하우스, 도권표 생선구이까지!각양각색 상상실현에 도전한 멤버들!그리고 인아의 수상요가만 남겨두고 있는 상태!직접 대나무틀을 연결하고 스티로폼 부표까지 부착!어디서도 본 적 없는 인아표 ‘고무대야뗏목' 완성드디어 바다에 띄워진 고무대야 뗏목! 그리고 자세를 잡으며 아슬아슬 중심잡기에 나선 인아..  다양한 스트레칭 자세부터 고난도 ‘프리즈'까지 도전!과연 그 결과는?국내편 그랜드 파이널~!상상 생존 피날레, 꿈은☆이루어진다! 욕망의 정글러들이 상상은 현실로 실현될 수 있을까?! &lt;정글의 법칙 - 펜트아일랜드&gt; 마지막 이야기</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/57/KR_VC_CTI_USQT620324A_KRBB4200012PV_455221385_20230609183928962.jpg"/>
   </programme>
+  <programme channel="KRBB4200012PV" start="20230610061742 +0000" stop="20230610072047 +0000">
+    <title>김병만의 정글의 법칙 443회</title>
+    <sub-title>생존의 달인 1부</sub-title>
+    <desc>▶ 자연의 법칙에 따라 때가 되면 숨어 있던    거대한 갯벌이 펼쳐지는 무인도 맨손 생존기!원조달인 병만족장을 필두로 노력과 열정으로 살아남은각 분야 생존의 달인들이 뭉쳤다!그.런.데 도착하자마자 짐은 압수?!생존을 위해 그 어느때보다 철저하게 챙겼다고요!!!아시겠어요?? 생명줄과도 같았던 짐을 뺏기자 단.체.멘.붕에 빠진 병만족... 과연 그들의 앞날은?물이 빠지면 거대한 갯벌이 열리는 무인도에서 모든 짐과 도구를 빼앗긴 채 ‘맨손 생존'을 시작한다.▶ 혹한의 날씨와 최악의 환경에서도   최고의 생존기를 펼치는 병만족 라인업 大공개!힙합부터 K-Pop까지 음악으로 생존하는 라이머K-리그의 생존 달인, 라이언킹 이동국공개 코미디계의 달인, 족장 오른팔 최성민생존력 만렙!! 진국 트롯 특전사 박군힙합 씬에서 영원한 생존을 꿈꾸는 달인 꿈나무 칸토그.리.고 정글의 법칙 최초 비(非) 연예인 합류!SBS &lt;생활의 달인&gt; ‘2020년, 올해의 달인 대상'에 빛나는검증된 생존의 달인! 특전사 강은미 등판!&lt;정글의 법칙 생존의 달인&gt; 그 첫 번째 이야기!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/03/44/KR_VC_CTI_USQT620324A_KRBB4200012PV_454256443_20230609184011971.jpg"/>
+  </programme>
   <channel id="KRBB42000100V">
     <display-name>SBS 불타는 청춘</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20221214T020637SQUARE.png_20221214020638.png"/>
   </channel>
-  <programme channel="KRBB42000100V" start="20230609221020 +0000" stop="20230609235820 +0000">
-    <title>불타는 청춘 301회</title>
-    <sub-title>펜트하우스급 전개?! '판도라의 정수' 개봉 임박!</sub-title>
-    <desc>▶펜트하우스급 전개?! '판도라의 정수' 개봉 임박!한정수, ‘절대권력자'로 급부상하다?! 성국부터 본승까지 청춘들을 안절부절하게 만든 핵폭탄급 폭로전! 꼬리에 꼬리를 무는 이야기의 결말은?▶결혼 11년 차 진영, '유부남 짬바'는 이런 것?!불청 어디에서도 들을 수 없었던 ‘유부남으로 살아남기' 특별 강의! 동정유발, 감성팔이까지 디테일함이 살아있는 현진영만의 꿀팁 대공개!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/61/KR_VC_CTI_USQT620324A_KRBB42000100V_454938097_20230609183647016.jpg"/>
-  </programme>
   <programme channel="KRBB42000100V" start="20230609235820 +0000" stop="20230610014615 +0000">
     <title>불타는 청춘 302회</title>
     <sub-title>불청은 사랑을 타고~♪ '치와와 부부'의 은밀한 비밀 연애 SSUL 대방출!</sub-title>
@@ -2494,15 +2458,15 @@
     <desc>한 밤 중의 이별 파티... 패밀리와 함께하는 밤이 마지막이 될 두 사람. 이천희와 박예진그들이 이별하는 날 ‘패밀리가 떴다!' ▶ 금쟁반이냐 은쟁반이냐 ◀밤일을 나갈 멤버를 결정하기 위한 승부!모래섬 속에 숨겨진 금쟁반을 찾아라!은쟁반을 찾을 경우는 물론 꽝!!너도 나도 할 것 없이 삽질에 열중하는 패밀리.하지만 파도 파도 쟁반은 보이질 않는데......인간 굴삭기가 된 패밀리의 고된 하룻밤!▶ 너희들에게 주는 우리의 선물 ◀오늘의 아침식사는 특별하다!천희, 예진이 원하는 것이라면 무조건 구해온다!천희, 예진의 ‘미션 임파서블!'실력에 비해 자신감만 충만한 대성의 운전 도전!산오징어를 구하기 위한 장년층의 눈물겨운 고생길!철도 아닌 딸기를 찾아다니는 국민남매!그리고.... 천희, 예진의 깜짝 선물까지!평생 잊을 수 없는 패밀리의 아침밥상이 차려진다.▶ 그리고 그 후...... ◀무사히 촬영을 마친 패밀리.하지만 끝난 후에도 쉽사리 발걸음이 떼어지질 않는데......오늘 가장 하기 힘든 말 ‘안녕'</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/41/KR_VC_CTI_USQT620324A_KRBB4200014MY_402232592_20230609183930449.jpg"/>
   </programme>
+  <programme channel="KRBB4200014MY" start="20230610062401 +0000" stop="20230610074846 +0000">
+    <title>패밀리가 떴다 54회</title>
+    <desc>이별 뒤에는 새로운 만남이 기다리고 있는 법!‘패밀리가 떴다!'와 함께 할 뉴 패밀리!!우리의 기대를 저버리지 않는 돌발매력의 그들은 과연 누구?! ▶ 새가족이 왔어요!! ◀오늘은 새로운 패밀리가 오는 날!잔뜩 기대에 부푼 멤버들이 기다리는 가운데도착한 건 바로 박시연과 박해진!그들을 맞아주는 건 다름 아닌 타조?!겁 많고 수줍음 많기로 유명한 타조들에게 밥을 주어야 한다!패밀리 역사상 가장 힘든 미션이 될지도....?▶ 이건 어디서도 본 적 없는 캐릭터 ◀오늘도 각자 팀을 나눠 식재료 구하기에 나선 패밀리.특별히 뉴패밀리와 함께라 그 기대가 더욱 큰데......동네 나들이에 나선 재석과 해진은 뜻하지 않은 빅 대결을 펼치게 되고한편, 집에 남은 사람들은 시연의 캐릭터에 깜짝 놀라고 만다!!모두가 깜짝 놀랄 시연과 해진의 첫 저녁 식사!▶ 충격과 공포의 퀴즈쇼! ◀새 멤버가 들어오면 반드시 거쳐야 하는 바로 그 순서!“뉴패밀리 몰카 신고식!!”패밀리들은 나름대로 머리를 맞대고 뉴패밀리들을 위한 작전을 짜는데......이제껏 이런 몰카는 없었다!!우리가 진짜 패밀리가 되는 시간.패밀리가 떴다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/26/KR_VC_CTI_USQT620324A_KRBB4200014MY_402234906_20230609183653097.jpg"/>
+  </programme>
   <channel id="KRBC46000014A">
     <display-name>JTBC 리뷰</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20230510T011435SQUARE.png_20230510011436.png"/>
   </channel>
-  <programme channel="KRBC46000014A" start="20230609225441 +0000" stop="20230610000329 +0000">
-    <title>🎬 한국형 재난 영화 &lt;엑시트&gt;부터 &lt;해운대&gt;까지, 재해와 재난을 소재로 한 영화 이야기</title>
-    <desc>기존 재난 영화 공식을 탈피한 한국형 재난 영화 &lt;엑시트&gt; 기생충 감염의 공포 &lt;연가시&gt; 자연재해의 공포, 부산을 덮친 쓰나미 &lt;해운대&gt; 등</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/24/KR_VC_CTI_USQT620324A_KRBC46000014A_jtbc_episode_FP00041438_20230609183532672.jpg"/>
-  </programme>
   <programme channel="KRBC46000014A" start="20230610000329 +0000" stop="20230610003003 +0000">
     <title>동시간대 1위 달성하고 매 회 시청률 갱신 중인 JTBC드라마 《닥터 차정숙》 3, 4화 몰아보기</title>
     <desc>#jtbc #드라마 #닥터차정숙 #jtbc #드라마 #닥터차정숙 #3~4화 #몰아보기 #엄정화</desc>
@@ -2543,15 +2507,15 @@
     <desc>#양세종 #김설현 #우도환 #드라마 #몰아보기 #리뷰 #양세종 #우도환 #김설현 &gt; 드라마 이어보기 https://bit.ly/3m9a0en &gt; 해당 콘텐트는 모든 권리가 해결되었습니다</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/37/KR_VC_CTI_USQT620324A_KRBC46000014A_jtbc_episode_FP00041446_20230609183830962.jpg"/>
   </programme>
+  <programme channel="KRBC46000014A" start="20230610060535 +0000" stop="20230610064914 +0000">
+    <title>사는 게 무의미하게 느껴진다면 지금 당장 봐야할 인생 힐링 드라마</title>
+    <desc>#한지민 #남주혁 #몰아보기 #리뷰 #눈이부시게 &gt; 드라마 이어보기 https://bit.ly/3K5qOuR &gt; 해당 콘텐트는 모든 권리가 해결되었습니다</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/88/KR_VC_CTI_USQT620324A_KRBC46000014A_jtbc_episode_FP00041447_20230609183903308.jpg"/>
+  </programme>
   <channel id="KRBC32000261J">
     <display-name>tvN 놀라운 토요일</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000261J_20230426T013710SQUARE.png_20230426013711.png"/>
   </channel>
-  <programme channel="KRBC32000261J" start="20230609222430 +0000" stop="20230610000036 +0000">
-    <title>놀라운 토요일 235회</title>
-    <desc>시련을 마주할수록 더 단단해지는 걸그룹 ‘르세라핌'  여유로움에서 나오는 카리스마! 리더 김채원  X 도전을 즐기는 성장형 캐릭터! 인간 벚꽃 사쿠라  X 고급스러운 아우라로 올킬! 무대 천재 허윤진   고래가 꿈꾸는 곳, 울산의 최대 규모 전통 시장! 맛집 옆에 또 맛집이~?  새콤달콤한 육수에 신선한 회를 아낌없이! 쫄깃한 이 식감 말해 물회..♡ ‘감동이 사쿠라들지 않는 물회'  짭조름한 크림치즈에 향긋한 파 향까지! 오늘 Kiss~ 할 일 없으면 먹방 필수! ‘채원이 다른 쪽파크림크루아상'  탱구 행복지수 100%!! 잃어버린 1%를 채워줄 그 맛! 매콤 양념게장&amp;달큰 간장게장 ‘게장 먹으러 후진 말고 윤진'   듣기만 해도 놀토 회식 자리가 그려지는 강냉이 산타클로스의 맛깔나는 랩은 과연?  록 스피릿 깨워주는 체리 필터의 노래! 먹선생 세윤의 날카로운 지적에 도레미가 감탄한 사연은?!   키의 커버 영상을 10번이나 돌려봤다는 채원! 그런 그녀를 눈물 훔치게(?) 만든 키 sbn부터,  사쿠라 인증! 태연은 일본의 국민가수? 태연키즈 쿠라와 사이좋게 오답 지옥에 빠진 탱구 (feat.크러쉬),  넉살과 환상의 호흡! 개인기 大방출은 물론, 윤진을 서운하게 했던 붐이즈 마케팅의 전말까지!!  그리고, 명예 르세라핌 키와 함께하는 피어리스(키세라핌 ver) 대공개!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/48/KR_VC_CTI_KRQT161013A_B120188696_D235_1307293_20230521193121486.jpg"/>
-  </programme>
   <programme channel="KRBC32000261J" start="20230610000036 +0000" stop="20230610013728 +0000">
     <title>놀라운 토요일 236회</title>
     <desc>놀토에 강림한 음악 천재들!  하고 싶은 거 다 해~ 자타공인 천재 프로듀서! ★장르가 이찬혁★ 찬혁  X 세계적인 아티스트들이 인정하는 ★신이 내린 리듬감★ 김용명   서울의 심장부! 맛있는 음식과 볼거리가 가득한 명물 핫플 시장  고기+버섯+채소가 만들어내는 환상의 오케스트라! 쌀쌀해진 날씨에 제격 ‘버섯전골이 맛있찬혁~'  입 안 꽉 차는 통통~한 어묵 속 개성 있는 재료들! 새우,소시지,치즈 골라 먹는 ‘수제어묵 3종'  고오급 향수 부럽지 않은 추억의 향기! 달달한 떡볶이X갓 튀긴 튀김X쫀득한 순대까지! ‘떡튀순 못 먹으면 용명 죽겠지'   자타공인 싸이 박사 동엽신에게 정면 승부?! 찬혁도 N번이나 감상한 싸이의 대히트곡은?  용명에게도 재해석을 당해본(?) 가수의 애절한 사랑 노래는? (feat. 나래와 팝콘남)   돌아온 CH상사 회장님! 친애하는 깔깔존 넉&amp;한 사원과의 달콤한 재회를 꿈꾼 찬혁과  정신 차릴 틈 없는 노래 공격에 연예계 은퇴 선언까지..?! 걷잡을 수 없는 음악 천재의 변덕! 용명  그리고! ‘그에게서 내가 보인다...' 생활밀착형 짤 부자 용명과 하고 싶은 거 다~ 하는 신흥 짤 맛집 찬혁을 위한 맞춤 간식게임까지!</desc>
@@ -2572,15 +2536,15 @@
     <desc>예능 유목민들의 토요예능 신대륙 &lt;놀라운 토요일&gt;쌀쌀한 가을, 귓가에 따뜻한 바람을 불어넣어 줄 발라드 계 3대 천왕! 발라드 계의 오다기리 죠! 정재형 X 발라드 계의 공유! 적재 X 발라드 계의 박보검! 정승환철~썩 철~썩 살아 숨 쉬는 제철 해산물을 만날 수 있는 수도권 최고 어시장 ‘인천 소래포구종합어시장'인천 앞바다 그대로 대령이오! 속이 꽉~찬 대게찜부터 각종 해산물까지! 종합선물 세트 ‘재형 받쓰 어떻게든 대게찜~'중독되는 꼬소함! 입 안에 들어가면 사르르 녹는 겉바속꾸덕 K-쿠키 ‘적 재가 만든 쿠키'진하고 맵칼한 짬뽕에 부들부들한 순두부가 듬뿍! 속이 확 풀리는 ‘내게 너무 소승환 짬뽕순두부'“그만...그만..!!!” 승환의 흥얼거림에 붐청이 大비상! 재형 피셜 ‘운도 지지리도 없는' 가수의 노래는?레전드 쏘-울 등판! 대한민국 가요계 기강 잡는 최강 보컬리스트들의 팽팽한 가창력 대결곡은? 눈물 나게 웃다가 녹화장 탈주까지?! 근심걱정 MAX였던 재형의 우당탕 놀토 적응기부터,기타와 목소리만 있다면 어디든 갈 수 있어~♪ 신곡부터 탱구와의 듀엣까지! 소장각 라이브 선보인 적재, 놀토에서 급부상한 예능감?! 희열과 고통을 동시에 맛본 승환의 잊을 수 없는 순간까지!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/36/KR_VC_CTI_KRQT161013A_B120188696_D239_1346110_20230521193507693.jpg"/>
   </programme>
+  <programme channel="KRBC32000261J" start="20230610062754 +0000" stop="20230610080451 +0000">
+    <title>놀라운 토요일 220회</title>
+    <desc>톡 쏘는 신곡으로 올여름을 시원~하게 날려줄 페스티벌 퀸 of 퀸! 비 오는 날 머릿속에서 자동 플레이되는 목소리! 음색 장인 헤이즈 X 12시 멈춰! 밤새 함께하고 싶은 퍼포먼스 계 신데렐라 청하  탁 트인 바다! 청량한 하늘! 여름이면 생각나는 부산 속 맛집 천국 &lt;부산 구포시장&gt; 혀를 사로잡는 매콤+새콤+달콤 쓰리콤 파티! 입에 넣으면 아싸가오리~ 흥이 절로 나는 ‘가오리회비빔국수 청하노라!' 헤이즈의 최애 간식! 포슬포슬한 술떡에 버터 구워 찹찹! 호랑이도 반할 마성의 디저트 ‘술떡버터구이' 쫀득한 소 힘줄과 부산 어묵의 환상 콜라보! 진리의 이열치열! 뼛속까지 뜨끈~한 ‘헤이즈~응말 쫀득한 어묵전골'  딸꾹질을 받아 쓰라구요?! 파도 파도 받쓰곡이 계속 나오는 놀토의 화수분 악뮤의 노래는? 헤이즈&amp;청하 맞춤 선곡으로 동엽신의 회식을 위한 빠퇴 기원은 이루어질지?  탱 is 뭔들.. 자나 깨나 여전히 탱구 생각뿐인 영원한 탱덕 헤이즈부터, 무대를 뒤집어 놓으셔따..! 몸짓 하나하나 감탄을 부르는 청하의 스웩~까지!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/89/KR_VC_CTI_KRQT161013A_B120188696_D220_1197976_20230521193336695.jpg"/>
+  </programme>
   <channel id="KRBC3200027ED">
     <display-name>tvN 유퀴즈온더블럭</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200027ED_20230426T013723SQUARE.png_20230426013724.png"/>
   </channel>
-  <programme channel="KRBC3200027ED" start="20230609220613 +0000" stop="20230609235748 +0000">
-    <title>🏆 HERO 특집</title>
-    <desc>견주들의 히어로! 반려견 문화를 바꾼 개통령 강형욱 훈련사 ‘개소드(?)' 연기로 반려견들의 마음을 꿰뚫는 강아지 ‘강'씨! 무엇이든 물어보시개! 반려견 에티켓부터 MC들 닮은꼴 찾기! 전국의 댕댕이들을 난리 나게 만드는 ‘마성의 한 마디'는?  대한민국 격투기계 히어로! 코리안 좀비 정찬성 선수 한국인 최초 UFC 타이틀 매치 후 9년 만에 재도전! 투혼을 보여준 ‘볼카노프스키' 와의 경기 비하인드 최초 공개! 그리고, 큰 자기와 아기자기를 실성하게(?) 만든 ‘로우킥' 까지!?  가요계 새 역사를 쓴 국민히어로! 전 세대를 사로잡은 목소리, 가수 임영웅 건  첫 정규 앨범으로 돌아온 I'M HERO(｡•̀ᴗ-)✧  행ㄱ 첫 단독 예능 출연으로 잔뜩 긴장한 영웅 자기님을 위한 예능 히어로 두 자기의 ‘예능 치트키' 강의! 청년 임영웅과 가수 임영웅이 털어놓은 솔직한 이야기까지!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/37/KR_VC_CTI_KRQT161013A_B120180515_D152_1132775_20230604192524646.jpg"/>
-  </programme>
   <programme channel="KRBC3200027ED" start="20230609235748 +0000" stop="20230610014646 +0000">
     <title>🙏 내 손을 잡아 특집</title>
     <desc>비행기 티켓 양도를 위한 ‘김민섭 찾기'의 주인공! 83년생 김민섭&amp;93년생 김민섭 “김민섭 씨를 찾습니다, 비행기 왕복 항공권을 드립니다.” ‘김민섭 찾기'로 수많은 사람에게 감동과 희망을 안겨준 민섭즈 등장! 민섭을 찾는 과정에서 겪은 어려움부터 놀라웠던 ‘연대'의 힘까지! 양도받은 티켓으로 여행을 다녀온 민섭의 여행 뒷이야기는?  생일 파티가 홍대 ‘3대 명절'이 된 ‘경록절'의 주인공! 크라잉넛 베이시스트 한경록 해피 경록절 15년째 이어져 오는 ‘캡틴락' 한경록의 성대한 생일잔치! 코로나19에도 멈추지 않고 노래하며 ‘마포 르네상스'를 주도한 이유는? 대한민국 펑크록의 역사! 크라잉넛의 흥나는 라이브 공연 대.공.개!  갓 입학한 1학년 후배들에게 전하는 학교생활 꿀팁! 9살 권혜정&amp;김도현&amp;윤수임 ‘줄넘기 잘하는 법', ‘화장실 이용법', ‘글씨 잘 쓰는 법' 등 학교생활 꿀팁 대방출한 2학년 찐 선배들! “한국인은 김치가 국룰(?)이지~” 솔직 발랄 어린이들의 ‘빵' 터지는 9살 인생토크!  동물과 인간의 공존을 꿈꾸는 한국 자연과학계의 대부! 생태학자 최재천 교수님 40년간 개미를 연구한 개미 박사님이 들려주는 &lt;개미와 베짱이&gt; 팩트체크! ‘돌고래 제돌이 방류'와 ‘호주제 폐지' 그리고 ‘코로나19'까지 사회적 문제를 고민하는 생태학자의 시선은?</desc>
@@ -2596,15 +2560,15 @@
     <desc>한국인의 말과 행동 속에 숨겨진 심리를 찾아내는 사회심리학자 허태균 한국인의 한국인에 의한 한국인을 위한 심리를 연구하는 사회심리학자! “뭐 먹을 거야?” “내가 쏠게” 단 두 마디로 한국인 심리 파악 완료?! 한국 사회 속 갈등의 원인과 해결방안까지! 한국인의 심리를 통해 찾아본다!  인생을 담은 힙합으로 찐 스웨그를 보여주는 ‘순창 할미넴' 박향자&amp;김영자&amp;백성자 힙합이 젊은이들만의 문화라는 편견을 깨준 순창의 할머니 힙합 크루! 평균연령 70세 이상! 논 갈고 밭 매던 할머니들이 힙합에 입문하게 된 사연은? 드롭 더 비트! 각자의 인생을 가사에 녹여낸 할미넴 3인방의 개성 넘치는 힙합 무대까지!  하버드부터 월가 입성까지! ‘상상을 현실로 이뤄내는' 28년차 월가 애널리스트 신순규 피아노 미국 유학길을 떠났다 하버드, 프린스턴, MIT, 유펜 모두 합격한 사연은? 28년차 월가의 애널리스트가 가장 중요하게 여기는 건 다름 아닌 베이글?! 영화 속에서만 보던 월가의 실상부터 큰 자기와 ‘호형호제'하게 된 사연까지 공개!  투애니원의 깜짝 재결합을 선보이며 ‘코첼라' 무대를 찢어버린 가수 씨엘 ☆7년 만에 뭉친 투애니원의 깜짝 ‘코첼라' 무대를 성사시킨 주인공 등장☆ 극비였던 코첼라 무대 뒷이야기부터 태양 결혼식에서의 웃지 못할 후일담 공개! ‘님아 제발 그 말은 하지 마오!' 씨엘을 경악하게 만든 비밀의 말은 과연 무엇?!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/51/KR_VC_CTI_KRQT161013A_B120180515_D155_1152980_20230604192803329.jpg"/>
   </programme>
+  <programme channel="KRBC3200027ED" start="20230610053258 +0000" stop="20230610071922 +0000">
+    <title>👭 두 사람 특집</title>
+    <desc>77일간 남미 여행으로 ‘절친'이 된 이명희&amp;조헌주 모녀 서먹한 모녀, 거친 남미 여행 후 더 애틋해지다! 브라질 공항에서 붙잡히고(?) 호텔에서 쫓겨날 뻔한 이유는? 우당탕탕 여행 속 ‘강남스타일'로 애국심 불태운 사연까지!  한국에서 사제가 된 인도 출신 쌍둥이 형제! 제임스&amp;하비에르 신부님 세상 가장 낮은 곳으로 향한 인도 출신 쌍둥이 형제! 머나먼 타국, 한국에서 신부가 된 그날 이야기부터 "공부가 제일 쉬웠어요^~^“ 모국어를 잃어버린 ‘언어 천재' 두 신부님의 한국어 공부법 공개!  축구장에서 특별한 인연이 된 두 사람! 축구선수 김선민&amp;김원식 의식을 잃은 동료에게 망설임 없이 달려가 ‘골든타임'을 사수한 ‘생명의 은인' 동갑내기 미드필더 듀오!  냉정한 프로의 세계! K리그2의 비하인드 이야기!  15년 차 국내 최장수 여성 듀오! 다비치 이해리&amp;강민경 이젠 눈빛만 봐도 통하는 사이! 완벽 노부부 케미를 보여준 노래 잘 하는 개그 듀오가 말하는 롱런 비결은? 신곡 ‘팡파레' 방송 첫 무대부터 믿고 듣는 하모니 ‘갓비치'의 미니 콘서트 OPEN!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/37/KR_VC_CTI_KRQT161013A_B120180515_D156_1169220_20230604192804070.jpg"/>
+  </programme>
   <channel id="KRBC3200025QG">
     <display-name>tvN 꽃보다 할배 리턴즈</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20230426T013708SQUARE.png_20230426013709.png"/>
   </channel>
-  <programme channel="KRBC3200025QG" start="20230609221949 +0000" stop="20230609233943 +0000">
-    <title>꽃보다 할배 리턴즈 9회</title>
-    <desc>끝날 때 까지 끝난 게 아니다! 본편보다 더~ 재밌는 &lt;꽃보다 할배&gt; 감독판!! 한국에서 다시 만난 할벤저스와 서지니! 여전한 건건표 농담에 웃음꽃 활짝~~ 함께했던 여행 추억에 잠기는데~ 알차도 너~무 알찬 &lt;꽃할배 미 방송분&gt; 대 공개!!! 통일의 상징~ 베를린 포츠담 광장에서 한반도의 통일을 염원하는, ‘통일정'을 보고! 거~대한 프라하 성 속에 펼쳐진, ‘황금소로'도 거닐고! 블타바 강을 가르는 ‘카렐교 보트트립'을 완전 정복하는 할배들! 그리고! 알짜배기 ‘모차르트 생가' 관람과 빈에서 펼쳐진 근형, 일섭, 용건의 ‘3인3색 자유여행'까지!!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/69/KR_VC_CTI_KRQT161013A_B120189838_D9_237893_20230428014815743.jpg"/>
-  </programme>
   <programme channel="KRBC3200025QG" start="20230609233943 +0000" stop="20230610011933 +0000">
     <title>꽃보다 할배 리턴즈 1회</title>
     <desc>평균나이 78.8세! 할벤저스와 짐꾼 서지니, 동유럽 가다!  3년 만에 돌아온 &lt;꽃보다 할배 리턴즈&gt; 꽃할배 6년차 짐꾼지니에게 찾아온 변화! 노련미, 그리고 노안... 짠내폭발 서지니를 위해 젊은 피 긴급수혈에 나선 제작진! 새 막내를 영입할 생각에 서지니의 보조개는 깊어져만 가는데~ 박서준? 한지민? 최지우? 써니? 댓츠 노노! 이제 갓~ 70살 넘은 막둥이 김용건 합류!(feat. 막내가 73세) 쉴 새 없는 농담과 무한 체력, 긍정미로  분위기 UP♡ 할배들 기분도 UP♡ 더욱 막강해진 H5와 함께 떠날 첫 여행지는?!  평화와 화합의 상징 ‘독일 ？ 베를린' 도착하자마자 시작된 할배들의 습관성 3단 분리에 첫 숙소 찾아가기부터 이미 혼돈의 카오스~! 프로 짐꾼 서진, 미어캣 모드를 발동시켜 보지만... 과연, 할배들과 서진은 첫 숙소를 잘 찾아갈 수 있을까? 가까스로 도착한 숙소에서 할배들을 무장해제 시킨 귀여운 새 친구들의 정체와 함께 해서 웃음이 끊이질 않는 첫 날밤 까지!</desc>
@@ -2625,22 +2589,15 @@
     <desc>프라하에서의 둘째 날! 본격적인 프라하 관광 [▶START◀] ‘건건이가 왜 그럴까?' 슈퍼무한긍정 용건, 오늘은 ‘건무룩' 모드?! 이 모든 건 TOO MUCH 택시비 때문?! 과연, 택시 안에서는 무슨 일이?! 프라하 여행은, 딱! 두 가지만 기억하세요!!! &lt;세계에서 가장 큰 성 ‘프라하 성'&gt; &lt;프라하에서 가장 오래된 다리 ‘카렐교'&gt; 프라하 성 찍고~! 카렐교 찍고~! 서지니의 알짜배기 투어에 할배들은 대만족♡ 여기서 끝이 아니다!! &lt;삼시세끼&gt; &lt;윤식당&gt;에서 갈고 닦은 요리왕 서지니! 한식 진수성찬으로 할배들 심장 폭격?! 그리고... 갑자기 벌어진 할배들의 수다 배틀?! ‘수다 빼면 시체' 김용건 vs ‘마이웨이 토커' 이순재 과연, BEST 투머치 토커의 주인공은 누구?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/10/KR_VC_CTI_KRQT161013A_B120189838_D4_237878_20230428014802457.jpg"/>
   </programme>
+  <programme channel="KRBC3200025QG" start="20230610060837 +0000" stop="20230610074945 +0000">
+    <title>꽃보다 할배 리턴즈 5회</title>
+    <desc>Welcome to ‘체스키 크룸로프'! 아름다운 동화마을에 꽃할배가 떴다! 프라하 숙소 사태 데자뷰? 다른 건물에 위치한 두 숙소! 과연 짐꾼지니의 해결 방법은? '로맨스 감성 뿜뿜' 체스키 크룸로프! '이발사의 다리'부터 체스키 전망이 한 눈에 보이는 '체스키 성'까지! 체스키, 할배들의 '인생 여행지' 등극? 체코를 떠나 오스트리아로 간 할벤저스! 잘츠부르크 '미라벨 정원' 도착! 오스트리아에서 펼쳐질 아름다운 여정, 기대해주세요</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/65/KR_VC_CTI_KRQT161013A_B120189838_D5_237881_20230428014800755.jpg"/>
+  </programme>
   <channel id="KRBC2000010X">
     <display-name>MBC 거침없이 하이킥</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20230222T043327SQUARE.png_20230222043328.png"/>
   </channel>
-  <programme channel="KRBC2000010X" start="20230609231059 +0000" stop="20230609234230 +0000">
-    <title>거침없이 하이킥, 133회</title>
-    <sub-title>이순재상 시상식 / 준하 믿고 주식투자하는 신지와 민정</sub-title>
-    <desc>좋은 생각이 떠오른 듯 갑자기 사람들을 불러 모아 공식 발표를 하겠다는 순재. 순재 는 식구들과 객식구들을 대상으로 일주일 동안 집안에서 가장 타의 모범이 될 만한 생활을 한 사람에게 이순재상을 수여하겠다고 하는데... 한편, 준하는 커피숍에서 우연히 민정과 신지를 만나게 된다. 신지는 자신의 친구가 주식으로 돈 좀 벌었다며 준하에게 이번에 받은 계약금을 맡길테니 왕창 불려달라 고 한다. 결국 준하는 신지 돈 뿐만 아니라 민정의 돈까지 맡아서 관리해주기로 하는 데...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/29/KR_VC_CTI_USQT620324A_KRBC2000010X_SAMSUNG_20230610_06_507497D4_20230609183812672.jpg"/>
-  </programme>
-  <programme channel="KRBC2000010X" start="20230609234230 +0000" stop="20230610001344 +0000">
-    <title>거침없이 하이킥, 134회</title>
-    <sub-title>인터넷기사에 실린 이형사와 신지 로맨스 / 소리내지 않고 싸우는 민호와 ...</sub-title>
-    <desc>범이에게서 신지가 애인이 없다는 이야기를 들은 이형사는 곧바로 신지를 찾아간 다. 이형사가 저녁 한 번만 같이 먹자고 졸라대자 신지는 알겠다고 하며 곁에 있는 민정이와 함께 가겠다고 하는데... 한편, 민호는 200일 기념 선물로 유미에게 줄 쿠키를 손수 만든다. 하지만 민호가 잠시 자리를 비운 사이 윤호가 그 쿠키를 다 먹어버리는데...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/47/KR_VC_CTI_USQT620324A_KRBC2000010X_SAMSUNG_20230610_07_8729B4FE_20230609183813003.jpg"/>
-  </programme>
   <programme channel="KRBC2000010X" start="20230610001344 +0000" stop="20230610004437 +0000">
     <title>거침없이 하이킥, 135회</title>
     <sub-title>오토바이 사고로 병원에 입원하는 민용 / 민호 복수 위해 승현 찾아 다니는...</sub-title>
@@ -2707,25 +2664,22 @@
     <desc>준하는 사무실에서 준이가 마우스로 가리키는 봉원 전기를 보며 안 그래도 사려던 참이었다고 봉원 전기를 매수한다. 집으로 돌아온 준하는 준이가 또 다시 마우스를 만지작거리자 세봉 전자를 팔지 말지 고민된다며 준이에게 물어보는데... 한편, 민정은 민용에게 커플링을 하면 안되냐고 조심스럽게 묻는다. 민용은 그게 무 슨 의미가 있냐며 어차피 학교에서 끼지도 못할 것 아니냐고 하는데...</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/17/KR_VC_CTI_USQT620324A_KRBC2000010X_SAMSUNG_20230610_18_04787835_20230609183959259.jpg"/>
   </programme>
+  <programme channel="KRBC2000010X" start="20230610055808 +0000" stop="20230610062904 +0000">
+    <title>거침없이 하이킥, 146회</title>
+    <sub-title>이순재의 썰렁유머 / 유미 아빠사건-목격자 이윤호</sub-title>
+    <desc>순재는 해미가 민용에게 엿을 주며 엿 먹으라고 농담하는 것을 듣고는 엿을 막 치며 엿 쳐 먹으라고 농담을 한다. 재미가 들린 순재는 사람들 앞에서 계속해서 농담을 하 지만 사람들의 반응은 썰렁하기만 한데... 한편, 유미 아빠가 죽었다는 사실을 알게 된 민호와 범이는 유미에게 윤호가 그날 총 을 들고 도망가던 남자를 목격했다며 범인의 얼굴을 알 수도 있을 것 같다는 내용의 이메일을 보낸다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/31/KR_VC_CTI_USQT620324A_KRBC2000010X_SAMSUNG_20230610_19_C71116DC_20230609183241850.jpg"/>
+  </programme>
+  <programme channel="KRBC2000010X" start="20230610062904 +0000" stop="20230610070043 +0000">
+    <title>거침없이 하이킥, 147회</title>
+    <sub-title>해미 생일날 탈진으로 쓰러진 준하 / 민용 반대하는 민정 가족들</sub-title>
+    <desc>해미의 생일을 맞이해 준하와 민호, 윤호는 이벤트를 준비한다. 투덜대는 민호와 윤 호에게 준하는 생일날 이런 거라도 하나 때우고 나야 좀 잠잠해진다며 세금 낸다고 생각하고 협조하라고 말한다. 그런데! 준하의 그 말을 해미가 듣고 마는데... 한편, 민정은 집으로 불려가 엄마에게 안 좋은 소리를 듣는다. 집 앞에서 기다리고 있던 민용과 만난 민정은 자신의 엄마가 민용을 은근히 좋아한다며 거짓말을 하는 데...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/84/KR_VC_CTI_USQT620324A_KRBC2000010X_SAMSUNG_20230610_20_ABFF23E3_20230609183744818.jpg"/>
+  </programme>
   <channel id="KRBB4200004RA">
     <display-name>SBS 순풍산부인과</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200004RA_20230412T004734SQUARE.png_20230412004735.png"/>
   </channel>
-  <programme channel="KRBB4200004RA" start="20230609232122 +0000" stop="20230609234639 +0000">
-    <title>순풍산부인과 332회</title>
-    <desc>변함없이 혼자 빵을 꾸역꾸역 먹고 있는 영란이 얄미운 김간호사는 영란의 등 뒤에 포스트 잇을 붙이는 장난을 친다. 화가 난 영란은 김간호사에게 복수할 일념으로 김간호사의 등에 글 쓴 천을 실로 꼬매 버린다. 이에 빨끈한 김간호사는 다시 복수를 계획하고 둘 사이의 복수는 끝없이 계속된다. 태란은 세미나에 간다고 하고선 찬우와 드라이브를 가고, 혜교는 도서관에서 공부한다고 하고선 래원과 디스코텍에 간다. 태란은 믿으면서 혜교를 내심 의심하고 있던 지명에게 술취한 래원이 전화를 걸고 장난인 줄 알고 웃고있던 혜교는 사태가 장난이 아님을 알고 당황한다. 지명은 노발대발 화를 내고 혜교는 금족령이 내린다. 노심초사하던 혜교는 지명과 용녀가 집을 비운다는 말에 환호성을 지른다. 아무도 없을 꺼라는 생각에 혜교는 래원을 집에 부르고 찬우도 우연찮게 집 안에 들어오게 된다. 이 때, 지명이 들이닥치고 둘은 숨느라 정신이 없다.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/04/KR_VC_CTI_USQT620324A_KRBB4200004RA_402224626_20230609183606526.jpg"/>
-  </programme>
-  <programme channel="KRBB4200004RA" start="20230609234639 +0000" stop="20230609234707 +0000">
-    <title>다음 방송 '순풍산부인과'</title>
-    <desc>다음 방송 '순풍산부인과'</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/38/KR_VC_CTI_USQT620324A_KRBB4200004RA_460219272_20230609183936364.jpg"/>
-  </programme>
-  <programme channel="KRBB4200004RA" start="20230609234707 +0000" stop="20230610001021 +0000">
-    <title>순풍산부인과 333회</title>
-    <desc>지명이 프랑스에 티켓이 하나 더 남아서 한 사람이 더 갈 수 있게 되었다고 하자 미선과 태란, 혜교의 티켓에 대한 경쟁은 다시 불타 오른다. 지명이 미선을 지목하자 미선은 의기양양하지만 혜교와 태란은 이에 굴복하지 않고 미선에게 정당하게 다시 경쟁할 것을 요구한다. 어림없다며 아랑곳 하지 않는 미선을 집요하게 쫓아다니며 괴롭히는 태란과 혜교. 결국 정당하게 다시 경쟁할 것을 서약하는 각서까지 쓰도록 미선에게 강요하고, 괴롭힘에 못이긴 미선은 각서를 쓰고만다. 오중의 담당피디인 김피디가 오중에게 글도 못쓴다며 네가 작가냐고 심하게 몰아부치자 오중은 극심한 스트레스에 시달리고, 오중의 상태가 심각함을 느낀 찬우는 오중의 스파링 파트너가 되어서라도 사태를 진정시키기 위해 스스로 오중의 희생양이 될 것을 자처하고 나선다. 오중이 화가 날 때마다 찬우는 두들겨 맞는다.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/27/KR_VC_CTI_USQT620324A_KRBB4200004RA_402224605_20230609183618432.jpg"/>
-  </programme>
   <programme channel="KRBB4200004RA" start="20230610001021 +0000" stop="20230610003911 +0000">
     <title>순풍산부인과 334회</title>
     <desc>지명이 용녀와 미선을 데리고 프랑스로 떠나고 영규는 지명의 명을 하달 받은 자부심으로 지명이 없는 동안 집안을 잘 이끌어보겠다고 결심한다. 영규는 혜교와 태란에게 지명이 없는 동안 밥도 당번제로 하고 귀가 시간도 제한하겠다며 협조를 부탁하지만 태란과 혜교는 이미 영규의 통제를 벗어난 상태이고 혼자서는 사태를 수습할 수 없음을 자각한 영규는 우울해진다. 이때, 태란은 영규에게 새로운 제안을 하고 영규는 태란의 말에 귀가 솔깃해진다.</desc>
@@ -2796,20 +2750,20 @@
     <desc>용녀는 지명이 번번히 다른 약속 때문에 자신과의 약속을 깨자 화가 난다. 때마침 지명이 낮잠을 자고있는 것을 발견하고는 지명의 귀에 귀걸이를 끼어놓는다. 귀걸이 때문에 망신을 당한 지명은 용녀가 잠자는 사이, 용녀의 얼굴에 바보점을 그려 용녀를 망신준다. 운동을 끝내고 카페에 들어간 찬우는 싫다는 오중을 끌고 옆 테이블의 여자들과 합석을 하게된다. 하지만 어떻게든 관심을 끌려는 찬우와는 달리 여자들의 관심은 오중에게만 쏠리고 찬우는 인기없는 자신에 자괴감을 빠진다. 집에 돌아오던 찬우와 오중은 인기탤런트가 옆집으로 이사온 것을 알게되고 도도한 그 여자에게 물건 빌리기로 접근을 시도한다. 하지만 번번히 실패하는 찬우와 달리 오중은 옆집 여자에게 쉽게 물건을 빌려오자 찬우는 비법을 알고 싶어한다.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/88/KR_VC_CTI_USQT620324A_KRBB4200004RA_402222683_20230609183223704.jpg"/>
   </programme>
+  <programme channel="KRBB4200004RA" start="20230610054807 +0000" stop="20230610061440 +0000">
+    <title>순풍산부인과 348회</title>
+    <desc>영규의 카드값이 사십만원이나 나오자 화가 난 미선은 인봉과 말다툼하고 혼자 가구를 보던 김간호사와 만난다. 카페에서 술을 먹던 김간호사와 미선은 취기가 오르자 서로 인봉과 영규에게 쌓였던 불만을 애기하고 그렇게 친해진 둘은 취중에 여행 약속까지 한다. 돈까지 걸고 약속시간까지 정한 김간호사와 미선은 다음 날이 되자 이러지도 못하고 저러지도 못하고 어색한 둘만의 여행에 망설인다. 결국 예정대로 여행을 하게된 둘은 어색함 때문에 어찌 할 바를 모른다. 미달은 영원히 충성하리라 믿었던 태란이 자신에게 짜증을 내자 그 동안 자신의 충성심에 대한 회의가 인다. 그런 괴로움에 갈등하던 미달에게 혜교의 친절한 손길이 다가오고 감동을 받은 미달은 태란 보라는 듯이 혜교에게 충성을 다짐한다. 하지만 혜교에게 충성하기 위해 넘어야 할 힘든 고비 때문에 고난을 겪는다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/02/KR_VC_CTI_USQT620324A_KRBB4200004RA_402223626_20230609183919652.jpg"/>
+  </programme>
+  <programme channel="KRBB4200004RA" start="20230610061440 +0000" stop="20230610063952 +0000">
+    <title>순풍산부인과 349회</title>
+    <desc>미달은 휼륭한 딱지 실력으로 세미나의 딱지를 모조리 다 따버린다. 화가 난 세미나는 할아버지를 데리고 와서 미달의 딱지를 다 따고 이에 발끈한 미달은 지명에게 세미나의 할아버지와 맞서 딱지를 다 따줄 것을 부탁한다. 하지만 얼결에 끌려나온 지명은 세미나 할아버지의 적수가 되지 못하고 세미나의 할아버지가 슬슬 약을 올리자 지명은 세미나의 할아버지를 이기려 하다가 팔까지 빠진다. 미선은 재범엄마의 권유로 아르바이트 삼아 야쿠르트 배달을 하게되고 새벽같이 일어난 미선은 아파트로 배달을 갔다가 너무나 멋진 남자를 보고 가슴이 설렌다. 그런 설렌 마음은 미선을 차차 변화시킨다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/19/KR_VC_CTI_USQT620324A_KRBB4200004RA_402223645_20230609183120640.jpg"/>
+  </programme>
   <channel id="KRBC200005H6">
     <display-name>MBC 지붕뚫고 하이킥</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20220824T102033SQUARE.png_20220824102033.png"/>
   </channel>
-  <programme channel="KRBC200005H6" start="20230609232239 +0000" stop="20230609234607 +0000">
-    <title>지붕뚫고 하이킥, 72회</title>
-    <desc>&lt;72회 내용&gt; 순재는 보석, 지훈(최다니엘), 준혁(윤시윤)을 데리고 남자들끼리 여행을 떠나기로 한다. 하지만 출발부터 사고를 치는 어리버리 보석 때문에 여행길이 순탄치만은 않다. 어느날 자옥 조카라며 김범이 한옥 집을 찾는다. 정음과 인나는 꽃보다 눈부신 연하남 범의 미소에 흠뻑 빠지고 만다.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/58/KR_VC_CTI_USQT620324A_KRBC200005H6_SAMSUNG_20230610_08_789D2360_20230609183804993.jpg"/>
-  </programme>
-  <programme channel="KRBC200005H6" start="20230609234607 +0000" stop="20230610001011 +0000">
-    <title>지붕뚫고 하이킥, 73회</title>
-    <desc>&lt;73회 내용&gt; 대단한 소유욕에 특히 신애 것이라면 무조건 뺏고 보는 해리(진지희) 때문에 신애의 수난은 계속 된다. 이에 준혁(윤시윤)은 해리의 '다 내꺼야 병'을 고칠 작전을 세운다. 검사를 받으려고 병원에 들른 자옥은 친절하고 카리스마 넘치는 지훈(최다니엘)을 호감 있게 본다. 멋진 남자 지훈에게 여자친구가 없다는 사실을 알게 된 자옥은 지훈에게 참한 아가씨를 소개시켜주겠다고 나선다.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/24/KR_VC_CTI_USQT620324A_KRBC200005H6_SAMSUNG_20230610_09_9213E96E_20230609183958978.jpg"/>
-  </programme>
   <programme channel="KRBC200005H6" start="20230610001011 +0000" stop="20230610003502 +0000">
     <title>지붕뚫고 하이킥, 74회</title>
     <desc>&lt;74회 내용&gt; 세경은 지금의 조건과는 비교도 안 될 만큼의 좋은 조건 앞에 마음이 흔들리고 결국 순재의 집을 떠나기로 결심한다. 자옥은 관리하기 힘들다는 이유로 한옥집을 팔기로 결심 한다. 집을 내놓자마자 사겠다는 사람이 나타나고 한옥집 개털들인 정음 줄리엔 광수 인나는 당장 갈 곳 없이 한 겨울에 길바닥에 나앉을 위기에 처한다.</desc>
@@ -2875,20 +2829,25 @@
     <desc>&lt;65회 내용&gt; 어느 날 문득 그동안 세경 누나가 내 팬티를 빨고 있었다는 엄청난 사실을 깨달은 준혁(윤시윤)은 충격을 받고 전전긍긍한다. 수영장에 간 정음과 인나는 줄리엔의 벗은 몸에 열광을 하며 줄리엔에게 배형을 배우는 등 즐거운 시간을 갖는다.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/83/KR_VC_CTI_USQT620324A_KRBC200005H6_SAMSUNG_20230610_22_88CEFAE1_20230609184014433.jpg"/>
   </programme>
+  <programme channel="KRBC200005H6" start="20230610053536 +0000" stop="20230610060347 +0000">
+    <title>지붕뚫고 하이킥, 66회</title>
+    <desc>&lt;66회 내용&gt; 세상에 둘도 없이 서로를 끔찍하게 아끼는 세경과 신애지만 크게 다투고 서로에게 냉랭해진다. 엉뚱한 상황, 엉뚱한 장소에서 마주치게 된 지훈(최다니엘)과 정음 두 사람은 이런 마주침이 어이없기만 하다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/09/KR_VC_CTI_USQT620324A_KRBC200005H6_SAMSUNG_20230610_23_C2D93629_20230609183313809.jpg"/>
+  </programme>
+  <programme channel="KRBC200005H6" start="20230610060347 +0000" stop="20230610062850 +0000">
+    <title>지붕뚫고 하이킥, 67회</title>
+    <desc>&lt;67회 내용&gt; 만나면 늘 아웅다웅하는 자옥과 현경이 무슨 일인지, 뜻을 모아 힘을 합치기로 한다. 어느 날, 세경 앞에 나타난 임기사는 첫눈에 반했다며 세경에게 적극적 구애를 한다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/49/KR_VC_CTI_USQT620324A_KRBC200005H6_SAMSUNG_20230610_24_2847A033_20230609183504617.jpg"/>
+  </programme>
+  <programme channel="KRBC200005H6" start="20230610062850 +0000" stop="20230610065351 +0000">
+    <title>지붕뚫고 하이킥, 68회</title>
+    <desc>&lt;68회 내용&gt; 순재는 일본 얘기만 나오면 신나는 보석이 못마땅하다. 기말고사를 앞두고 현경에게 무시를 당한 준혁(윤시윤)은 공부에 대한 의욕이 활활 불타오른다. 스승 정음은 준혁의 타오르는 학구열에 감격한다.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/68/KR_VC_CTI_USQT620324A_KRBC200005H6_SAMSUNG_20230610_25_9CF5C62E_20230609183831184.jpg"/>
+  </programme>
   <channel id="KRBC40000010R">
     <display-name>바바요 오늘부터 운동뚱</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20221109T013403SQUARE.png_20221109013404.png"/>
   </channel>
-  <programme channel="KRBC40000010R" start="20230609230631 +0000" stop="20230609233629 +0000">
-    <title>시켜서 한다 오늘부터 운동뚱 16회</title>
-    <desc>양신이 뚱신 만들어줄게! 민경장군 등번호의 비밀ㅋㅋㅋ 차기 홈런왕 등장이오 다들 길을 비켜라 비켜!! 민대호? 타격 실력 호달달~ 역시 그 스승에 그 제자다…감탄 (Babayo 34,35회)</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/97/KR_VC_CTI_KRPBA3501QY_KRBC40000010R_b0cc74bb96a4d4df3496dfd47dd097cfe099_20230609183825145.jpg"/>
-  </programme>
-  <programme channel="KRBC40000010R" start="20230609233629 +0000" stop="20230610002115 +0000">
-    <title>시켜서 한다 오늘부터 운동뚱 17회</title>
-    <desc>뚱신과 양신 코 납작하게 누르러 마해영과 박기량이 떴다! 제1회 운동뚱배 스크린야구 대결. 4번타자 2루수 김민경! 타율은? 사회인야구 첫 출전 맞아…? 민경장군 고척돔 가즈아! (Babayo 36,37회)</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/57/KR_VC_CTI_KRPBA3501QY_KRBC40000010R_b0cc74bbf0b476e1ba6f02b1446ede18792c_20230609183712618.jpg"/>
-  </programme>
   <programme channel="KRBC40000010R" start="20230610002115 +0000" stop="20230610005913 +0000">
     <title>시켜서 한다 오늘부터 운동뚱 18회</title>
     <desc>선수촌 먹방 때문에 참는다 feat. 진천선수촌! 민경장군 진천 국가대표 선수촌 입성!! 먹으러 왔냐고요? YES! 운동하고 먹고! 이번 종목은 무엇..? 철인 2종 남았네~ 자전거왕 민복동! 안양천 한복판에서 모세의 기적이 일어났다 (Babayo 38,39회)</desc>
@@ -2939,15 +2898,20 @@
     <desc>운동뚱에 몰래온 손님 은하캠핑 은하와 헬멧동생 떴다!! 잘못 건드리면 혼꾸녕 난다. 누나가 둘인데...점점 더 무서워져요 (Babayo 59,60회)</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/56/KR_VC_CTI_KRPBA3501QY_KRBC40000010R_b0cc74bb0b6d457a97a39e5afe0ea1e26f63_20230609183824550.jpg"/>
   </programme>
+  <programme channel="KRBC40000010R" start="20230610054047 +0000" stop="20230610061240 +0000">
+    <title>시켜서 한다 오늘부터 운동뚱 28회</title>
+    <desc>크라브마가 평가전 3명 한꺼번에 다 덤벼!! 이름에 스포츠만 있으면 된다며!! 악법도 법이고 위선도 선이면 스포츠 마사지도 스포츠지 (Babayo 61,62회)</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/63/KR_VC_CTI_KRPBA3501QY_KRBC40000010R_b0cc74bbd8b1b5344ace74284031e8577d6d_20230609183712399.jpg"/>
+  </programme>
+  <programme channel="KRBC40000010R" start="20230610061240 +0000" stop="20230610064536 +0000">
+    <title>시켜서 한다 오늘부터 운동뚱 29회</title>
+    <desc>백발백중!! 그 어려운걸 자꾸 해냅니다. 악법도 법이고 근접, 원거리 다 되는 민경장군 (Babayo 63,64회)</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/36/KR_VC_CTI_KRPBA3501QY_KRBC40000010R_b0cc74bbda1576d8e6b7cbfb9bb740f69080_20230609183921659.jpg"/>
+  </programme>
   <channel id="KRBC4000002ME">
     <display-name>iHQ 돈쭐내러 왔습니다</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000002ME_20221214T020643SQUARE.png_20221214020644.png"/>
   </channel>
-  <programme channel="KRBC4000002ME" start="20230609224618 +0000" stop="20230610000004 +0000">
-    <title>돈쭐내러 왔습니다 시즌1 15화</title>
-    <desc>먹피아 조직에게 의문의 도전장이 날아왔다! 당당하게 먹요원들에게 도전한 그녀들의 정체는? 꽥꽥~ 겨울 보양식의 대명사 오리고깃집에서 펼쳐지는 먹.존.심 사수 대결 결과는?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/26/KR_VC_CTI_KRPBA3501QY_KRBC4000002ME_b0cc74bbf30efb254e4f54f5df1f74e20607_20230609183348252.jpg"/>
-  </programme>
   <programme channel="KRBC4000002ME" start="20230610000004 +0000" stop="20230610011355 +0000">
     <title>돈쭐내러 왔습니다 시즌1 16화</title>
     <desc>목동 먹자골목 돼지고기집에 먹피아 조직이 떴다! 스페셜 먹요원 밥굽남&amp;유노와 함께하는 고깃집 100인분 격파기! 40대 두 형제 엉엉 울린 목동 돼지고기집의 사연은?</desc>
@@ -2973,15 +2937,15 @@
     <desc>K-소울 푸드 끝판왕 김치찌개 집에 먹피아 출동! 훈훈 육군 중위가 돈쭐을 신청은 사연은? 돈쭐 최초 사장님과의 먹방 대결, 근데 밀린다…? 이 승부의 결과는!?"</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/01/KR_VC_CTI_KRPBA3501QY_KRBC4000002ME_b0cc74bb000eb32f9af11e2ed154e7f1ea17_20230609183554762.jpg"/>
   </programme>
+  <programme channel="KRBC4000002ME" start="20230610061023 +0000" stop="20230610072431 +0000">
+    <title>돈쭐내러 왔습니다 시즌1 22화</title>
+    <desc>드디어 돈쭐에 등장한 별미 중의 별미! 낙지! 그런데… 먹요원들에게 도전장이 날아왔다?! 먹피아 요원 자리를 건 낙지 먹방 한 판 승부! 과연 먹요원들은 도전자들과의 승부를 이겨내고 돈쭐 미션에 성공할 수 있을까</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/38/KR_VC_CTI_KRPBA3501QY_KRBC4000002ME_b0cc74bb517b0093e6a17a9c3eeb3bc717bf_20230609183604612.jpg"/>
+  </programme>
   <channel id="KRBC4100005N5">
     <display-name>E채널 노는 언니</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20230111T005154SQUARE.png_20230111005155.png"/>
   </channel>
-  <programme channel="KRBC4100005N5" start="20230609224540 +0000" stop="20230610002018 +0000">
-    <title>노는 언니 13회</title>
-    <desc>- 연남동 맛집 ‘노는 언니동' 그 마지막 이야기 - 포차 개업 이후 지금까지 이런 손님은 없었다...! 설명이 따로 필요 없는! 한국 여자 핸드볼 간판선수 김온아 왼손잡이 공격수! 라이트 윙 국내 TOP 클래스 김선화의 깜짝 방문! 단체 구기 종목 44년만에 노메달 잊을 수 없는 경기로 남은 2016 리우 올림픽... 그리고 잊을 수 없는 악플은? 우리 생애 최악의 순간으로 남아버린 그 날의 이야기 大공개! ♡패피들의 성지! 패션 핫 플레이스에 떴다~ 노는 언니! 운동만 하느라 몰랐어요~ 패션의 ‘패'자도 몰랐던 패.알.못 언니들의 화보 도전기?! ‘진부함은 가라! 패션이란 바로 이런 것‘ 부기 빼기부터 스타일링 포즈 워킹까지 특급 강습해줄 구원자! 여전한 TOP 모델 이소라의 등장! 드디어 찾아온 화보 촬영의 시간 #벼락치기는_해도_해도_어려워 이소라의 특급 강습에도 불구하고 여전히 헤매는 언니들! 결국... 내 멋대로 화보 촬영에 돌입하는데... 할리퀸에서 처키로... 자스민에서 배추벌레로?! 무슨일이...? 내 멋대로~ 각자 갈 길 가는 언니들의 화보 도전기!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/83/KR_VC_CTI_KRPBA3501QY_KRBC4100005N5_2a6ae6290062c0439911b0968c3c677fbc83_20230609183930262.jpg"/>
-  </programme>
   <programme channel="KRBC4100005N5" start="20230610002018 +0000" stop="20230610015154 +0000">
     <title>노는 언니 15회</title>
     <desc>교복 졸업한(?) 노는 언니들의 본격 성지술례 타임! 효원 어머님이 직접 준비해 오신 300년 역사를 자랑하는 경주의 전통 법주와 임금님 수라상 못지않은 진수성찬 메뉴들까지! ‘이게 술이야? 약이지?!' 먹을수록 건강해지는 행복 밥상 클리어하고 떠난 야식 맛집은? 야식 먹기 위해 도착한 곳...부산?? 찬 바람 불 땐 여윽시~ 가리비구이지! 가리비 한 점 먹고~ 부산 소주 한 잔 먹고~ 하하 호호 웃다가 알딸딸해지면 조개탕 국물로 입가심~ ‘내 첫술 경험은 맥주 1000cc 원샷.....' 취함과 해장을 반복하며 듣는 언니들의 꿀잼 토크 大공개! 다음 날 아침! 현역선수 효원이를 위해 아침 운동에 나선 언니들~ 서핑의 메카! 송정해수욕장에서 펼쳐진 비치발리볼 대결? 유미기린 vs 세리 현희 효원 민정! 4대1 빅 매치!! 자신만만했던 유미 기린이 세리표 불꽃 서브에 당황한 사연은? 자자~ 몸도 풀었겠다! 날도 좋은데 요트투어나 떠나볼까~ 시원한 바람 맞으며 달리는 요트 위에서 갬성 사진 찍고 낚시까지~ ‘엇 피 났다...' ‘잡혔다!!' ‘예쁘고 뚱뚱한 물고기다!' 낚시 하나에 울고 웃는 언니들의 리얼 요트 낚시! 결말은?</desc>
@@ -3006,11 +2970,6 @@
     <display-name>E채널 토요일은 밥이 좋아</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20230111T005213SQUARE.png_20230111005213.png"/>
   </channel>
-  <programme channel="KRBC4100008Z6" start="20230609215233 +0000" stop="20230609234359 +0000">
-    <title>토요일은 밥이 좋아 5회</title>
-    <desc>서퍼들의 도시! 떠오르는 핫 플레이스, 강원도 양양!오늘도 ‘토밥즈'의 먹컨디션 이상 無!양양 8味 생각에 한껏 신나 무아지경 댄스파티가 열리고 마는데~춤사위가 예사롭지 않은 사연이 춤바람 난 사연은?!댄스파티도 잠시... 곧바로 먹계획 세우기에 돌입한 ‘토밥즈'!쩝쩝박사들이 양양 8味 중 가장 먼저 선택한 음식은?! 양양 대표 토속음식! 얼큰하고 진~한 국물이 일품인 30년 전통의 뚜거리탕! 웨이팅은 기본! 떠오르는 양양 핫 플레이스로 토밥즈를 홀려버린 마성의 수제버거! 양양의 발리, 오션뷰의 끝.판.왕! 해산물X로제 떡볶이와 함께하는 해변 감성 카페!‘토밥좋아' 사상 최초! 한우 양보 사태 발생?! 선홍빛 마블링의 한우까지 포기하며 ‘토밥즈'가 사수하려고 한 양양 자연산 송이까지!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/53/KR_VC_CTI_KRPBA3501QY_KRBC4100008Z6_2a6ae6294ceedc71d6f2c5a19b4c19ac22d5_20230609183722739.jpg"/>
-  </programme>
   <programme channel="KRBC4100008Z6" start="20230609234359 +0000" stop="20230610011505 +0000">
     <title>토요일은 밥이 좋아 6회</title>
     <desc>쉴 틈 없이 위大하게 채워간 ‘먹 커리어'에도 불구하고,“토밥즈는 아직 배고프다!”반.박.불.가! 달려야 할 이유가 남은 멤버들!그래서일까, 달려도~ 달려도~ 감당하기 힘든 ‘토밥즈'의 식비!다음 8味를 위해서 복식호흡이 유일한 운동이었던 바위산 기루가 나섰다!기루와 막내즈 진혁X히밥이 함께하는 러닝 타임!막내즈의 모닝 러닝으로 맛볼 수 있게 된 양양 8味는?자연산 활어와 시원한 배 한통의 환상 조합! 쫀득X새콤X시원함의 결정체, 자연산 물회! 입 짧은 명수도 한 번 맛본 뒤, 끊임없이 흡입하게 만든 중독성 끝판왕 닭강정!60년 전통! 100% 순 메밀만을 사용해 씹을수록 고소하고 부드러운 메밀국수!맛을 본 순간 대게와 사랑에 빠질 수밖에 없는 살이 꽉~찬 마성의 대게찜까지~!!!</desc>
@@ -3031,16 +2990,15 @@
     <desc>역대급 라인업! ‘NEW 토밥즈' 주엽X종민과 함께 한 첫 여행지는 인천광역시 강화군!서해바다 향 가득~ 개운한 국물의 꽃게탕부터~ 냉면의 신세계! 마성의 황해도식 냉면과 육향X육즙이 팡! 팡! 터지는 약쑥한우까지!맛.잘.알의 도시 강화군을 한껏 즐기고 있는 ‘토밥즈'! 쌍힙 먹메이트의 탄생으로 더 큰 식비난에 봉착한 멤버들...누군가는 뛰어야 한다! 뛰어야 할 한사람을 정하기 위한 게임 개시! 이름하여, 토밥즈 배 ‘나만 아니면 돼! 러닝 복불복 게임'!양보없는 배틀 속, 식비의 무게를 짊어질 주인공은 누구...?열심히 뛰었으니, 맛있게 다음 味를 즐기는 것이 ‘토밥즈'의 룰!“아침부터 밤 12시까지 먹어! 이 사람들 뭐야?!”‘NEW토밥즈' 종민의 감탄X놀람을 불러일으킨 강화 7味의 다음 주인공은?강화도 대표 향토 음식! 돼지고기와 새우젓의 환상적인 만남! 젓국갈비부터~블로거들이 인정한 강화 3대 족발! 참숯에 구워 불향 가득한 숯불구이 바비큐 족발과오픈과 동시에 만석! 단골들도 줄서서 먹는 37년 전통 이북식 만둣국!현지인들의 숨겨진 찐 맛집! 살이 통통한 국내산 병어로 만든 시원X칼칼 병어찜까지!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/33/KR_VC_CTI_KRPBA3501QY_KRBC4100008Z6_2a6ae629d9d113963c7e1b6f462622f0750a_20230609183723288.jpg"/>
   </programme>
+  <programme channel="KRBC4100008Z6" start="20230610062129 +0000" stop="20230610081325 +0000">
+    <title>토요일은 밥이 좋아 7회</title>
+    <desc>서울에서 차로 한 시간 컷! 경기도 화성시!  “화성에 뭐가 있더라...?” 걱정은 잠시 넣어두셔도 좋습니다^_^ 불안한 눈빛으로 바라보던 ‘토밥즈'의 걱정 싹~ 날려줄 화성 7味는 과연?   바삭한 ‘부먹' 스타일의 탕수육과 옛날 방식 그대로 만드는 짜장X짬뽕이 일품인 중화요리 전문점! 취향 따라 마음껏 골라 담을 수 있는 겨울 간식의 백화점! 100년 역사의 ‘발안만세시장'!54년 전통! 매일 새벽 직접 만드는 탱글한 묵을 즐길 수 있는 감칠맛의 끝판왕, 묵밥집!눅진~한 곱이 한가득 들어있는 특곱창과 부추와 과일을 갈아 넣어 美친 비주얼 뽐내는 대창까지! 크리스마스에도 멈추지 않고 계속되는 침.샘.유.발 먹방! 거기에, ‘토밥산타'가 주는 깜짝 선물 언박싱과 ‘토밥즈'의 명품(?) 하모니 현장 大공개!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/26/KR_VC_CTI_KRPBA3501QY_KRBC4100008Z6_2a6ae629cac6fdd856f8ee916847ef6d17b0_20230609183613591.jpg"/>
+  </programme>
   <channel id="KRBC4000005EP">
     <display-name>KBS Joy 연애의 참견</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000005EP_20230419T005744SQUARE.png_20230419005745.png"/>
   </channel>
-  <programme channel="KRBC4000005EP" start="20230609223446 +0000" stop="20230609234928 +0000">
-    <title>연애의 참견 2</title>
-    <sub-title>72화</sub-title>
-    <desc>힘들게 인터넷 쇼핑몰을 운영하는 고민남의 여친.월세, 관리비, 핸드폰 요금까지 밀리는 그녀가 안쓰러워 돈을 빌려줬는데여친이 제일 먼저 달려간 곳은 백화점...?!도무지 이해되지 않는 여친의 소비 패턴!그래도 사랑하니까... 있는 돈 없는 돈 탈탈 털어 도와줬지만,그녀의 낭비벽은 점점 심해지기만 할 뿐이고...!게다가 고민남에게 숨겨왔던 여친의 수상쩍은 인연의 정체!이 연애, 계속 GO 해도 되는 걸까?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/72/KR_VC_CTI_KRPBA3501QY_KRBC4000005EP_001c6a445203122ea009f7332498e8ccfd2c_20230609183716446.jpg"/>
-  </programme>
   <programme channel="KRBC4000005EP" start="20230609234928 +0000" stop="20230610010810 +0000">
     <title>연애의 참견 3</title>
     <sub-title>1화</sub-title>
@@ -3071,16 +3029,16 @@
     <desc>술 먹고 우연히 연락해서 술로 가까워진 고민녀와 남친!술~술~ 풀릴 줄만 알았던 둘의 연애였는데,뜻밖에 만난 연애 복병도 역시... 술이다?!술만 먹으면 멍멍이가 되는 남친!길바닥에 드러눕고, 도로 위로 마구 뛰어다니고...취하면 인사불성이 돼서 끌려가는 단골 경찰서까지 생긴 상황!쓸데없이 다이내믹한 남친의 주사 때문에 지쳐버린 고민녀...술 좀 줄이라고 애걸복걸해도 소용없던 와중고민녀의 한계치를 넘어선 최.악.의! 주사까지 선보인 남친!술만 먹으면 사람이기를 포기하는 이 남자, 계속 만나도 될까?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/51/KR_VC_CTI_KRPBA3501QY_KRBC4000005EP_001c6a448d25d75fd2ceb7c5e264b459ee47_20230609183130937.jpg"/>
   </programme>
+  <programme channel="KRBC4000005EP" start="20230610061105 +0000" stop="20230610072844 +0000">
+    <title>연애의 참견 3</title>
+    <sub-title>6화</sub-title>
+    <desc>쓰레기 콜렉터'가 별명인 여자에게 푹~ 빠진 ‘착한 남자' 고민남!나쁜 남자들에게 지친 그녀와 꿈만 같은 연애를 시작했는데...고민남의 사랑은 24시간 불타오르는데… 그녀는 미지근~하다?!결국, 차가운 이별 통보를 받고 좌절하는 고민남!그러나! 끝난 것 같던 연애에도 희망은 남아있었다?!새로운 남친과 곧 헤어질 것 같다며,자신의 인생에 딱! 맞는 남자는 고민남뿐이라는 그녀!곧 돌아오겠다는 그녀의 말에 고민남은 한없이 그녀를 기다리지만...그녀는 돌아올 듯~ 말 듯 고민남을 애태우기만 한다.도돌이표 같은 이 상황, 희망을 품고 기다려도 될까?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/55/KR_VC_CTI_KRPBA3501QY_KRBC4000005EP_001c6a44bd12ab1c81a4998e49bd8ac234ee_20230609183131668.jpg"/>
+  </programme>
   <channel id="KRBC3200009M7">
     <display-name>KBS Joy 무엇이든 물어보살</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200009M7_20230426T013618SQUARE.png_20230426013619.png"/>
   </channel>
-  <programme channel="KRBC3200009M7" start="20230609224418 +0000" stop="20230609235903 +0000">
-    <title>무엇이든 물어보살</title>
-    <sub-title>23화</sub-title>
-    <desc>전 재산 들고 세계여행! 부모님께 어떻게 말하죠?3년간 세계 일주를 떠난다는 5개월 차 신혼부부,멀쩡한 직장 때려치고 보살 캐슬로 바로 달려온당돌한 부부가 부모님에게 전하는 통보(?) 영상!엄마로 빙의한 콩콩보살의 솔루션은?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/05/62/KR_VC_CTI_KRPBA3501QY_KRBC3200009M7_001c6a44b3dda270dd9b3861130a9908ac0b_20230609183324833.jpg"/>
-  </programme>
   <programme channel="KRBC3200009M7" start="20230609235903 +0000" stop="20230610011158 +0000">
     <title>무엇이든 물어보살</title>
     <sub-title>24화</sub-title>
@@ -3110,6 +3068,12 @@
     <sub-title>29화</sub-title>
     <desc>칙칙한 보살집을 환~하게 비춰준‘나마스떼 보살' 배우 이소연의 등장!장거리 연애... 우리 사랑 지킬 수 있을까요?ㅜㅜ영국에서 꽃피운 ♥ 미남미녀 국제커플남자 친구는 대학 진학, 취업까지!여자 친구와 함께 할 수 있는 영국보단 한국에서 생활을 하고 싶은 마음!하지만, 장거리 연애가 두려운 여자 친구가 걱정이라는데...이들의 고민을 한방에 해결해 준 물어보살의 해결책은?!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/32/KR_VC_CTI_KRPBA3501QY_KRBC3200009M7_001c6a4477715a1808a538fdeae0da6dec2e_20230609183900024.jpg"/>
+  </programme>
+  <programme channel="KRBC3200009M7" start="20230610054948 +0000" stop="20230610070729 +0000">
+    <title>무엇이든 물어보살</title>
+    <sub-title>30화</sub-title>
+    <desc>30번 넘게 헤어진 우리... 계속 사귀어도 될까요?1년 연애 동안 헤어진 것만 벌써 30번?!애정 표현에도 돌아오는 건 ㅇㅇ 단답과 차가운 말뿐!각양각색의 이유에도 헤어지지 못하는 그녀에게보살들이 던진 확신에 찬 한마디는?!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/20/KR_VC_CTI_KRPBA3501QY_KRBC3200009M7_001c6a441e3dfce427c3f8f014d485972f8d_20230609183323973.jpg"/>
   </programme>
   <channel id="KRBC3500019CD">
     <display-name>MBN 속풀이쇼 동치미</display-name>
@@ -3169,6 +3133,11 @@
     <desc>[아형✪하이라이트] (본격 르세라핌 혜자 방송) 너네가 뭘 좋아할지 몰라서 발레리나부터 사춘기 K학생(?)까지 준비했어ღ #아는형님 #하이라이트 #르세라핌 📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/jtbcbros 📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r 〈아는 형님〉은 매주 토요일 저녁 8시 50분 본.방.사.수!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/81/KR_VC_CTI_USQT620324A_KRBC5000019FB_jtbc_episode_FP00041666_20230609183150127.jpg"/>
   </programme>
+  <programme channel="KRBC5000019FB" start="20230610060846 +0000" stop="20230610065135 +0000">
+    <title>큐브 이사 서00 방구 논란?! | 🥊킹요일</title>
+    <desc>제9킹. 엔터 명가 ＜큐브엔터테인먼트＞ 자고로 엔터인들은 여기 저기 거기 전부를 신경 써야 하노라.. 회사x아티스트x팬 3단 눈치에 둘러싸인 큐브 직원들의 고충은? 00:00 킹요일을 치러가자!!🥊 02:05 요즘 연습생 필수 덕목 02:19 신인개발팀 피셜) 기획사별 프리패스상 02:52 연습생 캐스팅 스팟은 어디? 04:49 지망생 주목) 큐브는 지금 오디션 중👀 09:48 SM l JYP l 하이브 l 큐브💃기획사별 춤선 비교 10:30 큐브 엔터 사내이사! 서은광 등장 11:37 은광 이사님의 업무는? 13:28 서은광, 이럴 때 매니저 눈치 준다(?) 14:27 은광 TMI (1) 차 안에선 자유롭게 ^^ 14:59 은광 TMI (2) 그루밍 왁싱족✨ 15:20 매니저 vs 아이돌 눈치 현장 직관 18:20 매니저 뒷골 섬뜩하게 하는 순간은? 밥벌이 s트레스 날리는 강력한 펀치 한 방! ＜킹요일＞ 🥊 매주 월요일 저녁 6시 공개 🥊 좋댓구알하면 스트레스 풀림 *지나친 비방 및 인신공격성 댓글은 관리자에 의해 삭제될 수 있습니다. #킹요일 #이은지 #서은광 #비투비 #BTOB #인기급상승</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/34/KR_VC_CTI_USQT620324A_KRBC5000019FB_jtbc_episode_FP00041667_20230609184020877.jpg"/>
+  </programme>
   <channel id="KRBC50000218R">
     <display-name>KPOP 잼</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC50000218R_20230426T013705SQUARE.png_20230426013706.png"/>
@@ -3203,16 +3172,15 @@
     <desc>[하이라이트] 얘들아 큰일이야, 나 성악에서 청량감을 느껴버렸다..🌊 그 김에 팬텀에서 몰디브 한 잔? #팬텀싱어4 #하이라이트 #크로스오버 🎙️TIME LINE🎙️ 00:00 이한범 - Ich Liebe Dich 03:10 서영택 - Non, je ne regrette rien 05:37 안민수 - 인생이란 08:40 안혜찬 - Mattinata 10:47 정승원 - Prelude 13:37 김성현 - Dein ist mein ganzes Herz 16:58 림팍 - Torna a surriento 〈팬텀싱어4〉 금요일 저녁 8시 50분 방송 📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/jtbc4singer4 📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/36/KR_VC_CTI_USQT620324A_KRBC50000218R_jtbc_episode_FP00040819_20230609183935752.jpg"/>
   </programme>
+  <programme channel="KRBC50000218R" start="20230610062226 +0000" stop="20230610082052 +0000">
+    <title>팬텀싱어 4 🎭 1화 다시보기</title>
+    <desc>새로운 시작! 역대 우승자들에게 남은 〈팬텀싱어〉의 의미 #팬텀싱어4 #팬텀싱어 #우승자 📌 공홈에서 리플레이 : https://tv.jtbc.co.kr/jtbc4singer4 📌 #티빙에서스트리밍 : https://tving.onelink.me/xHqC/1vihef6r</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/24/KR_VC_CTI_USQT620324A_KRBC50000218R_jtbc_episode_FP00040820_20230609183930043.jpg"/>
+  </programme>
   <channel id="KRBC3200011N3">
     <display-name>빌리어즈TV 레전드</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20230308T013144SQUARE.png_20230308013145.png"/>
   </channel>
-  <programme channel="KRBC3200011N3" start="20230609225325 +0000" stop="20230609233943 +0000">
-    <title>[하이라이트] 2016 구리 세계3쿠션 월드컵</title>
-    <sub-title> 야스퍼스, 쩐 꾸옛 찌엔  선수 출전</sub-title>
-    <desc>결승전 하이라이트 - 야스퍼스, 뷰리, 쩐 꾸옛 찌엔 선수 등 유명선수들이 펼치는 화려한 경기 [2016 구리 세계3쿠션 월드컵]</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/55/KR_VC_CTI_KRPBA3501QY_KRBC3200011N3_009f347cfaf5dd244a252e01649b50e17ca7_20230609183550868.jpg"/>
-  </programme>
   <programme channel="KRBC3200011N3" start="20230609233943 +0000" stop="20230610005505 +0000">
     <title>[하이라이트] 2016 후루가다 세계3쿠션 월드컵</title>
     <sub-title>김행직 브롬달 사이그너 선수 출전</sub-title>
@@ -3242,15 +3210,16 @@
     <desc>예선전 (PQ) - 루벤 레가즈피 vs 강상구 [2016 라볼르 세계3쿠션 월드컵]</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/91/KR_VC_CTI_KRPBA3501QY_KRBC3200011N3_009f347c47059bdc67bc095ab655740729cf_20230609183536486.jpg"/>
   </programme>
+  <programme channel="KRBC3200011N3" start="20230610055255 +0000" stop="20230610064409 +0000">
+    <title>[2016 라볼르 세계 3쿠션 월드컵] 예선</title>
+    <sub-title>장 르베르숑 v 최완영</sub-title>
+    <desc>예선전 (PQ) - 장 르베르숑 vs 최완영 [2016 라볼르 세계3쿠션 월드컵]</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/14/KR_VC_CTI_KRPBA3501QY_KRBC3200011N3_009f347c951d207986f66e1389e1d18d6e5e_20230609183906071.jpg"/>
+  </programme>
   <channel id="KRBC5000018O9">
     <display-name>JTBC 골프</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png"/>
   </channel>
-  <programme channel="KRBC5000018O9" start="20230609232241 +0000" stop="20230610001744 +0000">
-    <title>라이브레슨70 1523회</title>
-    <desc>[1523회] 류가형, 정지철 - 정타 치는 거리 유지법, 지면 반력 보다 체중 이동</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/26/KR_VC_CTI_USQT620324A_KRBC5000018O9_jtbc_episode_FP00040279_20230609183618479.jpg"/>
-  </programme>
   <programme channel="KRBC5000018O9" start="20230610001744 +0000" stop="20230610011153 +0000">
     <title>라이브레슨70 1524회</title>
     <desc>[1524회] 서희경, 김도훈 - 프로의 생각 :임팩트 타이밍&amp;템포 ,경사지 아이언샷 노하우</desc>
@@ -3281,15 +3250,15 @@
     <desc>[1519회] 김도훈, 고경민 - 차이를 알면 우드가 쉽다, 팔 쓰임 핵심 두 가지</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/23/KR_VC_CTI_USQT620324A_KRBC5000018O9_jtbc_episode_FP00040285_20230609183619072.jpg"/>
   </programme>
+  <programme channel="KRBC5000018O9" start="20230610054403 +0000" stop="20230610063950 +0000">
+    <title>라이브레슨70 1520회</title>
+    <desc>[1520회] 장은비, 장재식 - 골프에서 가장 중요한 힘 빼기, 스코어 지키는 필드 응급처방</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/88/KR_VC_CTI_USQT620324A_KRBC5000018O9_jtbc_episode_FP00040286_20230609183246071.jpg"/>
+  </programme>
   <channel id="KRBC3500017PO">
     <display-name>MBN 나는 자연인이다</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20230524T004343SQUARE.png_20230524004344.png"/>
   </channel>
-  <programme channel="KRBC3500017PO" start="20230609223208 +0000" stop="20230609233842 +0000">
-    <title>나는 자연인이다 280회</title>
-    <desc>그래도 행복한 인생이여! 자연인 이해철</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/27/KR_VC_CTI_KRPBA3501QY_KRBC3500017PO_b0d7dbe222f142040cf46c179cef5c5c4f6a_20230609183708529.jpg"/>
-  </programme>
   <programme channel="KRBC3500017PO" start="20230609233842 +0000" stop="20230610004501 +0000">
     <title>나는 자연인이다 281회</title>
     <desc>도인의 반전 생활! 자연인 신대식</desc>
@@ -3320,15 +3289,15 @@
     <desc>백발 사나이, 꿈나무를 심다! 자연인 김기덕</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/44/KR_VC_CTI_KRPBA3501QY_KRBC3500017PO_b0d7dbe26fe5d28e84ea79f44d7427d64756_20230609183551937.jpg"/>
   </programme>
+  <programme channel="KRBC3500017PO" start="20230610061623 +0000" stop="20230610072242 +0000">
+    <title>나는 자연인이다 287회</title>
+    <desc>산골 터프가이의 순정! 자연인 김완섭</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/00/77/KR_VC_CTI_KRPBA3501QY_KRBC3500017PO_b0d7dbe2a1bf43738c4bd247f2a90512116c_20230609183709405.jpg"/>
+  </programme>
   <channel id="KRBC3500013VH">
     <display-name>TV CHOSUN 스타다큐 마이웨이</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20230524T004316SQUARE.png_20230524004317.png"/>
   </channel>
-  <programme channel="KRBC3500013VH" start="20230609225635 +0000" stop="20230610000758 +0000">
-    <title>스타다큐 마이웨이 287회</title>
-    <desc>84 LA올림픽 농구스타 김영희의 마이웨이가 공개된다.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/07/83/KR_VC_CTI_KRPBA3501QY_KRBC3500013VH_2fcf44380d297c27c0ecb3fe66f79ef4a1f1_20230609183817010.jpg"/>
-  </programme>
   <programme channel="KRBC3500013VH" start="20230610000758 +0000" stop="20230610012506 +0000">
     <title>스타다큐 마이웨이 288회</title>
     <desc>80년대 하이틴 스타 이연수의 마이웨이가 공개된다.</desc>
@@ -3358,12 +3327,6 @@
     <display-name>SBS TV 동물농장</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000769_20230208T092104SQUARE.png_20230208092105.png"/>
   </channel>
-  <programme channel="KRBB420000769" start="20230609223344 +0000" stop="20230609234408 +0000">
-    <title>TV 동물농장 1106회</title>
-    <sub-title>쇼 미 더 머니! 돈 집착犬 ‘라떼'</sub-title>
-    <desc>▶ 쇼 미 더 머니! 돈 집착犬 ‘라떼'주머니 속 숨은 돈까지 찾아내는 Money 집착견 라떼의 숨겨진 속사정은?가지고 논 장난감 정리는 물론 심부름까지 척척! 완벽한 모범견 ‘라떼'!! 남다른 친화력으로 제작진에게 다가가 얼굴을 파묻고 애교를 부리나... 싶던 그때!! 제작진 점퍼 주머니에서 5만 원권 지폐를 찾아 물고 도망가 버리는 녀석! 처음부터 지폐를 노린 애교였던 걸까... 돈을 물고 도망가서 절대 뺏기지 않겠다며 고집을 부려대니... 결국 무릎까지 꿇은 제작진, 라떼에게 사정을 해보지만 통하지 않고...보호자 효원씨의 간곡한 부탁과 간식의 유혹에도 한번 문 돈은 절대 놓치지 않는다는 듯 요리조리 도망까지!! 심지어 강제로 돈을 뺏으려 하자 이빨을 드러내며 성질까지 부리는데...! 쇼 미 더 머니를 외치며 돈에 집착하는 ‘라떼'의 속마음은 무엇일까?▶ 누난 내 돼지니까!미모의 꽃돼지 누나 ‘라면'이를 향한 일편단심 직진 연하남 ‘국수'의 일방통행 로맨스!낭만 가득한 겨울 바다가 펼쳐진 강릉의 한 라면집! 완벽한 D라인에 위풍당당한 풍채까지~! 완벽한 미모에 깨발랄한 성격까지 겸비한 꽃돼지 ‘라면'!! 그런 라면이의 뒤를 졸졸 따라다니는 작고 아담한 ‘국수'! 라면이 누나가 가는 곳이라면 어디든 함께 한다는 국수! 코까지 들이밀며 적극적인 애정 공세를 펼쳐보지만... 자신보다 한참 작은 국수가 남자로 보이지 않는 건지... 녀석의 구애가 귀찮은 라면이는 요리조리 도망치기 바쁘고 급기야 그만하라며 혼내기까지! 오로지 먹을 생각뿐인 라면이와 오로지 라면이 누나 생각뿐인 연하남 국수의 엇갈린 사랑!! 과연 국수의 일방통행 로맨스는 쌍방통행이 될 수 있을 것인지!! 직진 연하남 ‘국수'의 첫사랑 그 결말은?▶ 걷지 말고 뛰어라! 말라뮤트 大가족!!왕크니까 왕귀엽다를 몸소 실천 중인 말라뮤트 대가족의 우당탕탕! 제주 일상 대공개!!함께 사는 반려견들 때문에 발바닥 한번 편안히 땅에 붙이기 힘들다는데! 커다란 덩치를 가진 녀석들이 무려 5마리! 게다가... 줄줄이 소시지처럼 줄지어 나오는 꼬물이들이 무려 여섯!! 11마리의 말라뮤트 대가족과 함께 지내고 있다는 운주 씨네! 식탐 넘치는 꼬물이들 식사 시간엔 1견 1박스가 필수!! 형, 누나들 밥까지 뺏어먹겠다 달려드는 통에 정신이 없는데... 전쟁 같던 식사가 끝난 후엔 한 마리씩 차례대로 산책까지 시키고 있다고... 하지만, 산책 시작과 동시에 로켓처럼 발사되며 산책을 당하기 시작하는 운주 씨... 그 와중에 걸려온 남편의 다급한 전화 한 통...!! 녀석들이 탈출했다는 것! 과연 탈출한 녀석들을 무사 검거할 수...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/55/KR_VC_CTI_USQT620324A_KRBB420000769_464039327_20230609183242807.jpg"/>
-  </programme>
   <programme channel="KRBB420000769" start="20230609234408 +0000" stop="20230610005315 +0000">
     <title>TV 동물농장 1107회</title>
     <sub-title>야생동물 카페에 남은 동물들을 구조하라!</sub-title>
@@ -3404,12 +3367,6 @@
     <display-name>SBS 순간포착 세상에 이런일이</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200013L5_20230208T092113SQUARE.png_20230208092115.png"/>
   </channel>
-  <programme channel="KRBB4200013L5" start="20230609230605 +0000" stop="20230610000302 +0000">
-    <title>순간포착 세상에 이런 일이 631회</title>
-    <sub-title>이 청소하는 찌르레기</sub-title>
-    <desc>[스티커버스] 대전광역시온 세계의 스티커야 다 나에게로 붙어라!처음보는 스티커는 그냥 지나칠 수 없다~ 스티커 전문 털이범의 정체는?[이 청소하는 찌르레기] 경상북도 안동부르면 날아오는 이쑤시개가 있다?!‘손님들의 이를 청소해주는' 살아있는 이쑤시개 ‘밝음이'![십자수 아저씨] 부산광역시한 땀 한 땀 다소곳하게 앉아 십자수를 하는 남자가 있다?!앉으나 서나 실과 바늘을 놓지 않는, 경상도 아저씨의 못 말리는 십자수 사랑![시각장애 농부] 경상북도 영주무거운 지게를 짊어지고도 가파른 산길을 성큼성큼~앞이 전혀 보이지 않지만 모든 일을 척척! 일등 농사꾼 우재규씨.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/70/KR_VC_CTI_USQT620324A_KRBB4200013L5_402191966_20230609183652579.jpg"/>
-  </programme>
   <programme channel="KRBB4200013L5" start="20230610000302 +0000" stop="20230610010113 +0000">
     <title>순간포착 세상에 이런 일이 632회</title>
     <sub-title>성냥개비 모형 아저씨</sub-title>
@@ -3446,16 +3403,16 @@
     <desc>[우뚝 솟은 무덤의 비밀] 울산광역시하늘로 우뚝 솟은 텐트 모양을 한 집이 있다!?1m 70cm의 삼각형, 오각형 모양으로 쌓아올린 이 집의 정체는?[심장박동 소리 들리는 휴대폰] 충청남도 연기군‘쿵덕쿵덕' 아침부터 저녁까지 들려오는 정체불명의 괴이한 소리!휴대폰에서 쉴 새 없이 들려오는 심장박동 소리의 정체는?[솔방울 공예] 경기도 군포시코트에서 하이힐까지 이제 패션의 완성은 솔방울이다.버려진 솔방울의 마법 같은 변신! 아저씨만의 특별한 솔방울 하우스를 소개합니다.[콩국 한 그릇 부부] 대구광역시매일 새벽 2시, 포장마차에서 콩 국 한 그릇을 나눠먹는 부부가 있다?!콩국보다 더 뜨거운 아내 사랑, 이윤강 할아버지를 만나봅니다.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/41/KR_VC_CTI_USQT620324A_KRBB4200013L5_402204716_20230609183140979.jpg"/>
   </programme>
+  <programme channel="KRBB4200013L5" start="20230610054801 +0000" stop="20230610064516 +0000">
+    <title>순간포착 세상에 이런 일이 638회</title>
+    <sub-title>얼굴에 피어싱 130개 한 남자</sub-title>
+    <desc>[얼굴에 피어싱 130개 한 남자]수많은 사람들이 북적이는 번화가에 시선을 확~ 사로잡는 한 남자가 떴다!한 남자의 얼굴을 가득 메운 형형색색의 구슬의 정체는?[위 2개를 가진 사나이] 서울특별시위 때문이야~ 위 때문이야~ 남다른 위 때문이야~~~고기 12인분은 먹어야 간에 기별이 오는 남자의 정체는?![씨앗의 미학] 경기도 고양시한 남자의 손을 거치면 아이들을 웃게 하는 그림동화로 변신한다?남들에게 버려지고 밟혀지는 하찮은 씨앗을 작품으로 재탄생 시키는 남자![별난 자전거 효자] 충청남도 금산군한 시골마을을 발칵 뒤집어 놓은 오토바이를 연상케 하는 자전거가 있다?양 옆의 바퀴에 바람개비까지, 세상에서 하나뿐인 자전거의 정체는?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/03/36/KR_VC_CTI_USQT620324A_KRBB4200013L5_402207008_20230609183934324.jpg"/>
+  </programme>
   <channel id="KRBB4200016TZ">
     <display-name>SBS 스페셜</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200016TZ_20230208T092116SQUARE.png_20230208092117.png"/>
   </channel>
-  <programme channel="KRBB4200016TZ" start="20230609231806 +0000" stop="20230610001150 +0000">
-    <title>역사전쟁</title>
-    <sub-title>2부 역사의 역설(逆說) 220회</sub-title>
-    <desc>한일병탄 100년 특집 [역사전쟁] - 2부 역사의 역설(逆說)“한반도는 일본의 조공국이다.”지난 1300년간의 일본이 자행한 침탈의 역사는 이 말을 대변한다. 신공황후의 전설로부터 시작된 실체 없는 역사의 왜곡. 그리고 임진왜란과 한일병탄에 이르기까지. 그들은 왜 이토록 끈질긴 ‘역설(逆說)의 역사'를 만들어내는 것일까?▶ 천황제의 ‘발명'▶ 8인의 천황▶ 천황의 실체▶ 묵계(默契)</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/83/KR_VC_CTI_USQT620324A_KRBB4200016TZ_402365072_20230609184012330.jpg"/>
-  </programme>
   <programme channel="KRBB4200016TZ" start="20230610001150 +0000" stop="20230610010258 +0000">
     <title>옥수수의 습격</title>
     <sub-title>1부 잃어버린 풀의 기억 224회</sub-title>
@@ -3492,16 +3449,16 @@
     <desc>가정의 달 특집 3부작 가족의 페르소나 - 2부 어머니의 봄날은 어디로 갔나...?2부 어머니의 봄날은 어디로 갔나...?사회적으로 활발한 전문 여성이 가정에 발을 들이는 순간 구시대의 가면을 쓰고 수동적인 조선시대 어머니로 변한다. 가족 내에서 무언의 압박이라도 받는 것처럼 그 여성은 자신이 아닌 타인을 위해 끊임없이 생각하고 행동한다. 한 평생을 그렇게 살던 그 여성은 어느 날 문득 지쳐가는 자신을 발견한다. ‘어머니란 이름으로 살아가는 일이 왜 이렇게 어렵고, 외롭고 힘겨운 건지..' 그리고 생각한다. ‘지금 내가 느끼는 외로움, 이 고통은 어디서부터 비롯된 걸까?' 겉으로 행복해 보이는 그녀의 허무와 후회는 어디에서 오는 걸까...■ 주요내용▶ 환갑도 넘지 않은 젊은 나이에 ‘치매' 판정을 받은 어머니.▶김영옥, 사미자, 이주실, 선우용여, 정영숙대한민국 대표 어머니 연기자 5인방이 들려주는 “어머니의 삶이란...”▶19세기에 갇혀버린 어머니▶어머니의 봄날은 어디로 갔나...</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/11/KR_VC_CTI_USQT620324A_KRBB4200016TZ_402330051_20230609184011485.jpg"/>
   </programme>
+  <programme channel="KRBB4200016TZ" start="20230610053918 +0000" stop="20230610063426 +0000">
+    <title>가족의 페르소나</title>
+    <sub-title>3부 자식, 가시방석 위의 캥거루 210회</sub-title>
+    <desc>가정의 달 특집 3부작 가족의 페르소나 - 3부 자식, 가시방석 위의 캥거루3부 자식, 가시방석 위의 캥거루보수적이고 가부장적인 가치관 속에 살아온 부모들은 마치 자식을 자신의 분신인 양 여기며 애지중지 혹은 쥐락펴락하며 키워왔다. 그렇게 부모들은 모름지기 내 자식은 내가 원하는 대로, 내 의지대로 키워도 된다는 자식에 대한 강한 권위와 애착이 있었다. 어디 그 뿐 인가. 요람에서 무덤까지 모든 것을 완벽하게 뒷받침해줄 것만 같았던 부모의 무한 책임과 헌신 속에 자식들은 성장했다.그렇게 19세기적인 가치관 속에 양육된 지금 자식들 모습은 과연 어떠한가. 스스로 자립할 시기를 맞았음에도 여전히 주머니 속에 웅크린 채 세상 밖으로 나올 생각이 없는 아기 캥거루처럼 부모에게 의지해 살아간다. 홀로서는 법을 잊은 채 성인이 되어서까지 부모로부터 연결된 심리적 탯줄을 끊지 못하고 살아가는 자식들. 가족의 페르소나 3부는 부모의 그늘 속으로 아직도 파고들려고만 하는, 혹은 뒤늦게 세상 밖으로 힘겨운 걸음마를 내딛으며 난관을 겪고 있는 우리 시대 자식들의 이야기이다.■ 주요내용▶ 아직도 곁을 맴돌며 엄마를 떠날 수 없는 마흔의 딸, 진진연씨(40세)▶ 이제 더 이상 품안의 자식이고 싶지만은 않아요▶ 살아도 함께 살고, 죽어도 함께 죽자?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/19/KR_VC_CTI_USQT620324A_KRBB4200016TZ_402331760_20230609183715170.jpg"/>
+  </programme>
   <channel id="KRBB4200017HA">
     <display-name>SBS 그것이 알고싶다</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200017HA_20230208T092106SQUARE.png_20230208092107.png"/>
   </channel>
-  <programme channel="KRBB4200017HA" start="20230609231318 +0000" stop="20230610002425 +0000">
-    <title>그것이 알고싶다 1227회</title>
-    <sub-title>‘사라진 아이들'과 ‘비밀의 섬' - 선감학원의 진실</sub-title>
-    <desc>“애기 울음소리 같은, 그런 소리들이 자꾸 앵앵거려가지고 ... 그 자리에 그냥 주저앉아서 울었어요”-무속인2017년 어느 날, 한 무속인이 경기도 안산의 명산에서 기도를 드리고 난 뒤, 차를 타고 해변의 한 섬마을을 지나치다가 갑자기 마음이 불안해지며 귀에 어린아이들의 울음소리가 들리기 시작했다고 한다. 이상한 체험을 한 무속인은 아이들의 울음소리가 들리는 지역을 자세히 알아보기 시작했는데.. 대체 그 섬은 어디였을까, 그리고 울음소리의 정체는 과연 무엇이었을까?# 선감도가 삼킨 아이들섬의 이름은 선감도(仙甘島). 이곳에는 1942년 일제 강점기부터 1982년까지 ‘선감학원'이라는 소년 수용시설이 있었는데, 이곳에서 소위 ‘부랑아' 즉, 고아나 걸식아동을 구호한다는 본래의 목적과 달리 참혹한 인권유린이 벌어졌다는 것이다.“일하는 양이 적고 동작이 느리다면서 이제 머리통도 치고 조인트도 까고”“새우젓에 구더기가 이렇게 간다고요. 그걸 우리는 먹었어요”“밤마다 성폭행을 당해야 했어요”-선감학원 피해생존자들‘선감학원'에 온 아이들의 2/3는 부모나 연고가 있는 아이들이었다. 그들은 길에서 막무가내로 경찰이나 공무원들에 의해 ‘수집'되었다. 선감학원에 입소한 후, 가족이 있다고 말하면 무자비한 구타가 이어졌다. 매일같이 이어지는 폭력과 굶주림을 견디다 못해, 상당수의 아이들이 섬 밖으로 탈출을 시도하다 갯벌과 바다에 빠져 목숨을 잃었다. # 4,691명의 아이들, 죽었는지 살았는지 알 수 없다? ‘아동 삼청교육대'라 불리는 선감학원의 운영주체는 국가였다. 경기도가 보관하고 있는 4,691명의 선감학원 원아대장 기록에 의하면 선감학원에서 사망한 아동은 24명. 그러나 피해생존자들은 실제로 사망한 아동의 수는 그보다 훨씬 더 많을 거라고 말한다. 2017년, 전문가들이 GPR(지하탐지레이터) 탐사를 통해 선감도의 한 공동묘지에 묻혀있는 유골들을 조사한 결과, 매장된 시신은 150구 이상으로 추정됐다. 하지만 지금도 여전히 진상규명과 유해 발굴은 숙제로 남아있다.# 선감학원에서 형제복지원으로 – 숨겨진 일제의 그늘제작진은 피해생존자들을 만나 인터뷰를 하던 중 놀라운 사실을 알게 되는데, ‘선감학원'에 수용됐던 피해생존자 중 성인이 된 이후 ‘형제복지원'으로, ‘삼청교육대'로 다시 끌려간 사람들이 있다는 것이다. 그들은 왜 또다시 끌려가야만 했던 걸까? 아이들을 강제로 수용시켜 쓸 만한 인적자원으로 개조하려던 일제의 계획은 해방 이후 군사정권에 그대로 대물림돼 각종 인권유린 시설을 탄생시켰다. 형제복지원, 서산개척단, 삼청교육대 등 수많은 인권유린시설의 뿌리...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/44/KR_VC_CTI_USQT620324A_KRBB4200017HA_450694038_20230609183715529.jpg"/>
-  </programme>
   <programme channel="KRBB4200017HA" start="20230610002425 +0000" stop="20230610013240 +0000">
     <title>그것이 알고싶다 1228회</title>
     <sub-title>나는 아내를 죽이지 않았습니다 - 무기수 장 씨의 16년</sub-title>
@@ -3532,16 +3489,16 @@
     <desc># 꽃바구니를 든 살인범, 그리고.. 지난 2014년 9월, 한 여성의 집에 꽃바구니를 들고 방문해 해당 여성은 물론 그녀의 어머니와 중학생 딸까지 무참히 살해했던 남자. 김 씨는 연인관계였던 여성이 자신을 무시하는 말을 해 우발적으로 살인을 했다고 주장했다. 그러나 두 시간 만에 세 사람을 차례로 살해한 김 씨에 대해 재판부는 이례적으로 ‘처음 살인을 저지르는 사람이라고 믿기 어려울 정도로 침착성, 대담성, 잔혹성이 느껴진다'고 지적하기도 했다. 그로부터 6년이 지난 뒤 제작진에게 걸려온 한 통의 전화. 제보자는 몇 년을 망설이다 이제야 ‘꽃바구니를 든 살인범'에 대한 의혹을 고백할 용기가 생겼다고 했다. 당시 그의 범행은 첫 살인으로 알려졌지만, 그가 저지른 것으로 의심되는 살인사건이 또 있다는 충격적인 제보! 그를 둘러싼 의혹은 과연 무엇일까? # 유일한 증거, 담배꽁초얘는 큰 범죄를 숨기기 위해서 작은 범죄를 하고 들어온 거다물론 성폭력도 큰 범죄지만, 그 느낌을 나는 강력하게 받았고- 제보자 인터뷰 中 - 14년 전, 제주의 한 교도소에서 처음 김 씨를 만났다는 제보자. 김 씨는 2006년 3월 한 대학 여자기숙사에 침입해 성범죄를 저질러 징역을 살게 됐다는데. 범행 이후 자신이 누군지 알리는 메모를 현장에 남기는가 하면 경찰서에 스스로 찾아가 자수하는 등 일부러 자신의 신분을 노출하는 행동을 했다는 김 씨. 제보자는 그의 이런 행동이 어딘가 석연치 않아 보였다고 했다. 제보자가 품었던 의혹은 김 씨가 성범죄를 벌이기 한 달여 전인 2006년 2월에 발생한 제주시 노형동 소재 원룸 방화 살인사건의 유력한 용의자로 부각되며 확신으로 바뀌었다고 했다. 사건이 발생한 205호 원룸에서 발견된 유일한 증거, 담배꽁초에서 김 씨의 DNA가 발견된 것! 하지만 사건은 예상치 못한 국면을 맞게 됐다. # 억울한 기억 VS 살인의 추억 김 씨와 그의 가족은 사건 발생 당일 감식에선 아무런 증거가 발견되지 않았는데 사흘 뒤 진행된 현장 감식에서 김 씨의 타액이 묻은 담배꽁초가 발견된 것을 문제 삼았다. 경찰이 김 씨를 범인으로 몰아가기 위해 담배꽁초를 현장에 가져다 두고 증거를 조작했다는 것. 당시 경찰이 김 씨를 기소 의견으로 송치했지만 검찰이 담배꽁초의 증거력을 문제 삼으며 증거불충분 불기소 처분을 내린 것이 그 반증이라는 것. 의혹을 풀기 위해 당시 수사를 담당했던 경찰과 검찰 관계자를 접촉했지만 당사자들은 모두 묵묵부답인 상황. 취재가 난항에 빠진 상황에 제작진은 원룸 방화 살인사건의 경찰 의견서와 검찰 불기소 결정서를 기적적으로 입수할 수 있었는데. 총 13장의 ...</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/23/KR_VC_CTI_USQT620324A_KRBB4200017HA_451312352_20230609183347374.jpg"/>
   </programme>
+  <programme channel="KRBB4200017HA" start="20230610062219 +0000" stop="20230610073135 +0000">
+    <title>그것이 알고싶다 1233회</title>
+    <sub-title>수상한 동행 - 그리고 사라진 변호사</sub-title>
+    <desc># 실종 16년, 그는 지금 어디에 있나2004년 7월 29일 퇴근 이후 지금까지 실종 상태인 이종운 변호사. 그의 행방을 찾기 위해 여태 모아온 자료만 수천 장. 가족들이 나서 전국 방방곡곡을 헤맸음에도 그 어떤 흔적도, 단서도 발견되지 않은 채 16년이라는 긴 세월이 흘렀다. 2005년 방송 이후 사건을 재추적하던 &lt;그것이 알고 싶다&gt; 제작진은 어쩌면 사건 해결의 실마리가 될 한 장의 사진을 발견한다. 퇴근 직후인 저녁 7시 9분, 남산1호터널 요금소를 빠져나가는 찰나의 차량 CCTV 기록. 이종운 변호사와 매우 유사한 모습을 한 조수석의 인물과 그를 태우고 함께 터널을 빠져나간 의문의 운전자. 흐릿한 사진 속에서 그의 마지막 행적을 찾을 수 있을까?# 가출인가, 실종인가실종 전 이종운 변호사는 두 달 남짓 남은 결혼 준비에 한창이었다. 로펌에서 인정받는 3년 차 변호사이자 이미 혼인신고까지 마친 그가 갑작스레 잠적할 이유가 없지 않냐며 주변인들은 입을 모았다. 그러나 약혼녀 최 씨는 뜻밖의 이야기를 꺼냈다. 그동안 이 변호사가 무리하게 혼수를 요구해 갈등을 빚었으며 자신과의 결혼을 회피해 왔다는 것. 즉, 실종이 아닌 가출이란 주장이었다. 얼마 후 최 씨의 말처럼 이 변호사로부터 ‘다른 여자가 생겼다'라는 전화와 팩스가 도착했고, 소재가 파악되자 사건은 단순 가출로 내사 종결된다. 그렇게 젊은 변호사의 일탈로 마무리될 줄 알았던 이 사건은, 실종 두 달 만에 약혼녀의 수상한 행적이 드러나며 새로운 국면을 맞는다.# 의문 속에 가려진 진실결혼 준비 내내 이종운 변호사로부터 무리한 금전적 요구를 받았다는 약혼녀 최 씨. 확인 결과, 그녀의 말과는 반대로 실종 직전까지 돈은 보내왔던 건 오히려 이종운 변호사 쪽이었다. 심지어 이 변호사가 실종된 직후 이틀에 걸쳐 그의 신용카드를 사용, 거금의 쇼핑을 했다는 사실도 밝혀졌다.	“역할 대행. 이런 걸로 연락이 온 거예요. 남편 역할을 좀 해 달라.”그뿐만이 아니었다. 최 씨는 이 변호사가 행방불명된 후 그를 사칭해 줄 사람을 수소문했다. 그리고 시작된 그녀의 이해하기 힘든 행동들은, 모두의 예상을 넘어서는 것들이었는데…. 결혼까지 약속한 애인이 사라진 지 두 달도 지나지 않은 시점에서, 그녀가 이렇게 무모한 일들을 벌여야만 했던 이유는 과연 무엇이었을까.# 남겨진 마지막 단서를 해석하다	“그 여자밖에 없어요, 사실은. 분명히 그 여자거든요.”실종 1년이 채 지나지 않았을 무렵, 이종운 변호사의 행방을 좇던 가족들은 그의 마지막 모습이 담긴 남산1호터널 요금소 CCTV를 찾아냈다. 가족들은 CCTV 속 운전자가 ...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/55/KR_VC_CTI_USQT620324A_KRBB4200017HA_451430429_20230609184016038.jpg"/>
+  </programme>
   <channel id="KRBB4200018FT">
     <display-name>SBS 생활의 달인</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20230208T092111SQUARE.png_20230208092112.png"/>
   </channel>
-  <programme channel="KRBB4200018FT" start="20230609232102 +0000" stop="20230610001744 +0000">
-    <title>생활의 달인 299회</title>
-    <sub-title>파라솔의 달인</sub-title>
-    <desc>1. 해운대 파라솔의 달인남녀노소 누구에게나 사랑받는 해운대! 이곳에 뜨거운 햇볕에서 피서객을 보호해 주는 유일한 휴식 공간 파라솔 설치의 달인이 있다는데? 경력27년의 김영배(46세)달인! 해운대 파라솔 아저씨 하면 모르는 사람이 없을 정도라고~ 그 실력을 증명하듯 어느새 다른 팀 파라솔 설치 속도와 차이가 벌어지는데~! 같은 일을 하는 사람들도 열 개 이상하면 기진맥진 하다는 파라솔 꽂기! 그에 반면 우리의 달인! 지칠 줄 을 모르고 일에만 몰두하고 있는데~ 끝이 뾰족한 철봉 기구를 목표물에 정확히 조준한 뒤~! 비스듬히 단번에 세게 꽂아주는 게 달인만의 봉 꽂기 노하우! 150개가 넘는 파라솔을 순식간에 꽂은 빠른 스피드의 달인! 이뿐만이 아니다!? 설치가 있으면 정리도 있는 법~! 순식간에 정리하는 놀라운 기술까지! 무더위를 날려버릴 시원한 해운대 바다에서 달인의 파라솔 작업 현장을 공개합니다~! 2. 비어캔 치킨의 달인치킨이 맥주에 취했다?! 치킨이라고 다 같은 치킨이 아니다! 이색 닭 요리계의 뉴 페이스!  비어캔 치킨!! 일반 닭들과 다르게 양 날개를 뒤로 꼬고 앉은 모양이 심상치 않다?! 특수 제작된 비어캔 그릇 위에 닭을 한 번에 탁!탁! 꽂는 기술에 눈을 떼지 못하는데~ 오늘의 달인, 최병구(45세/경력 1년)달인 발견! 가운데 빈 공간에 맥주를 부은 다음 닭을 꽂고 손놀림으로 앉아 있는 닭의 포즈를 만드는 게 비어캔 치킨만의 포인트! 또 다른 한 쪽에선 화려한 불 쇼가 펼쳐지는데~ 코앞에서 펼쳐지는 어마어마한 불꽃! 이 요리만의 또 다른 묘미라고~! 닭 속에 퍼진 은은한 맥주 향에 반하고~ 화끈한 불 맛에 또 한 번 반하는 이색 닭요리의 세계! 지금 바로 시작 합니다~! 3. 외줄 바다 청소의 달인여름하면 떠오르는 곳 바다! 바닷가를 찾는 수많은 사람들 가운데 공중을 날아다니는 한 남자가 있다? 이색놀이기구의 안전요원을 담당하고 있다는 이광호(21세)달인! 이색놀이기구 안전장치를 채워주고 기구를 태워주는 달인! 하지만 달인의 진가는 다른 곳에서 나온다는데~ 한손에 긴 채를 들고 빠르게 바닷가 위를 날아가 버리는 달인! 들고 간 채로 바닷가에 떨어진 물체를 휙~! 건져 올리는가 싶더니? 또다시 다른 물건도 휙~! 건져 올린다! 순식간에 손님들이 빠뜨린 물건을 건져 올린 달인! 물위의 물건을 건져내기 위해 아슬아슬 줄타기 한 달인만의 노하우!  놀이기구를 타느라 빠뜨린 물건을 건져 올리기 위해 구안한 달인의 아이디어라는데~ 손님의 안전과 즐거움을 위해서 몸을 아끼지 않는 이광호 달인! 시원한 바닷가 위를 날아다니는 달인의 기상천외한 모습을 만나보...</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/68/KR_VC_CTI_USQT620324A_KRBB4200018FT_402243010_20230609183944881.jpg"/>
-  </programme>
   <programme channel="KRBB4200018FT" start="20230610001744 +0000" stop="20230610011403 +0000">
     <title>생활의 달인 301회</title>
     <sub-title>칼국수의 달인</sub-title>
@@ -3578,15 +3535,16 @@
     <desc>1. 김치 우동의 달인찬바람 부는 요즘 마음까지 헛헛할 때 생각나는 건? 뜨끈한 국물!!시큼한 김치를 올려 한소끔 끓여내 칼칼한 맛이 일품인 김치우동 한 그릇이면 올 겨울도 든든하다는데- 바로 이 얼큰 시원~한 김치우동에도 달인이 있다?! 그 주인공은 바로 김인석(65세/경력 30년) 달인! 면발 한 가닥에서 국물 한 방울까지 장인정신을 담아내는 달인은 우동에 관한 거라면 사소한 것 하나 그냥 지나치는 법이 없다는데~ 그런 달인의 눈빛 하나, 숨소리조차 허투루 넘기지 않는 이는 달인의 수제자이자 사위인 박성진(33세/경력 9년) 씨! 깔끔한 국물 맛을 내기위해 면발의 물기 한 방울까지 털어내는 그의 현란한 손놀림 역시 예사롭지 않은데~ 달인의 열정만큼이나 따뜻한 우동가게로 여러분을 초대합니다~!  2. 폐차의 달인고급 승용차와 추돌해도 마음 내키는 대로 운전하고 보는 막무가내 운전자! 더구나 1억을 호가하는 고급 승용차를 단 1초의 망설임도 없이 망치로 사정없이 내리치는데! 수상한 남자를 쫓아간 제작진. 그곳에는 다양한 종류의 자동차들이 돌탑처럼 쌓여있었는데~ 이 진기한 풍경을 연출한 주인공은 이구형(41세 /경력 21년)씨. 장소가 협소한 폐차장의 공간을 넓게 사용하기 위해 고안한 방법이라는데- 더구나 전국각지에서 수명이 다한 자동차들이 모이는 이곳에는 사연 없는 차가 없다보니 믿기 힘든 기이한 현상이 종종 일어난다고! 그러다 보니 한 달에 한 번씩은 고사를 지내야 맘이 편안하다는 달인! 그의 달콤 살벌한 폐차장을 소개한다.  3. 도전 최강 달인 - 찐빵온 국민이 좋아하는 겨울철 대표 간식 찐빵! 그 최강 달인을 가린다. 엄지손가락을 쓱싹 밀면 뚝뚝 떨어진 찐빵 반죽을 순식간에 찐빵을 빚었던 251회 신상은 달인. 그리고 안고를 넣고 주름잡기 기술로 빠른 스피드를 선보였던 227회 길재국 달인이 다시 만났다. 찐빵계의 두 거장의 만남! 바로 이들에게 당당히 도전장을 내민 이가 있으니~ 경력 35년의 장호덕(52세) 도전자! 이들 세 사람이 총 3라운드의 대결을 통해 가리는 찐빵 최강자는 과연 누가 될 것인가? 그 세기의 대결! 지금 시작합니다.  4. 족구의 달인철통 보안이 생명인 반도체 회사에 아주 특별한 달인이 있다는데~ 이름만 부르면 반사적으로 발이 올라가는 이 남자! 바로 족구에 미쳐(?) 행복하다는 박준규(28세 /경력 4년) 되시겠다~ 장소불문! 무방비한 상태에서 갑자기 날아오는 물건을 보면 반사적으로 발로 차 기술을 선보이는 달인. 캔이면 캔, 종이류면 종이류 분리수거함대로 쓰레기를 챙겨 넣는 정확성까지 발휘하는데...</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/72/KR_VC_CTI_USQT620324A_KRBB4200018FT_402257826_20230609183949800.jpg"/>
   </programme>
+  <programme channel="KRBB4200018FT" start="20230610061715 +0000" stop="20230610071428 +0000">
+    <title>생활의 달인 307회</title>
+    <sub-title>도전! 최강달인 - 탕수육</sub-title>
+    <desc>1. 도전! 최강달인 - 탕수육중화요리의 꽃, 탕수육! 탕수육의 최강자를 가리기 위해 이색 탕수육의 대가들이 한자리에 모였다!! 화려한 팬 돌리기 기술의 소유자~ 탕수육계의 대부!! 경력 47년의 곡금초(60세) 달인! 대결장 들어오는 풍채부터가 남다른데~ 그가 선택한 오늘의 탕수육 재료! 대결장을 놀라게 한 팔딱거리는 이것은?! 이에 맞설 두 번째 달인! 중식 칼잡이 달인, 경력 33년의 박재천(47세) 달인! 칼과 손이 하나처럼 움직이는 달인의 칼솜씨~ 기술이면 기술! 맛이면 맛! 오늘 그가 선보일 이색 탕수육은??! 탕수육 최강 대결에 내가 빠질 수 없다! 28년 동안 탕수육만을 생각해왔다는 전영승 달인(48세)! 칼 4개로 고기를 다지는 손놀림이 예사롭지 않은데~ 그가 들고 온 오늘의 재료는~ 최고급 안심!! 최고의 고기로 최고의 자리를 차지하겠다!! 세 달인의 숨 막히는 대결현장!! 각기 다른 노하우로 만들어낸 화려한 이색 탕수육의 세계!! 뜨거운 현장을 지금 공개 합니다!!  2. 야구공의 달인베이징 올림픽 금메달!! WBC준우승에 이어, 600만 관중시대를 연 한국프로야구! 그 짜릿하고 박진감 넘치는 야구 경기 속에도 숨은 달인이 있다는데~ 프로야구선수보다 야구공을 더 많이 만지는 사람!!~ 바로 경력 10년의 이미영(40세) 달인!! 야구공의 기본 형태를 잡은 뒤, 가죽을 촘촘하게 꿰매는 것이 달인의 주 업무! 일정한 간격으로 양손 휘젓기를 얼마나 했을까? 금세 국가대표 투수들이 쓰는 최고의 야구공이 탄생하는데!! 한 치의 오차 없이 작은 구멍에 바늘을 쏙쏙 넣는 것은 기본이요~ 지휘를 하듯 절도 있는 손놀림으로 착착 바느질을 하는 야구공계의 마에스트로 이미영 달인! 이렇게 매일같이 야구공을 만든 지 10년! 그러나 아직 한 번도 야구 경기를 본 적이 없다는 달인의 비하인드 스토리부터~ 국민스포츠 프로야구의 1등 공신! 달인의 놀라운 야구공 제작과정까지 전격 공개!! 3. 보온 도시락 달인대한민국 최대 규모를 자랑하는 전남 광양의 한 제철소~!! 정사각형 모양의 일반 도시락가방 5배 크기의 배달 가방을 들고 곳곳을 누비는 한 사람이 있었으니~! 날쌘돌이 유대연(26세) 달인 되겠다! 부서마다 각각 정해진 시간이 달라 제 때에 맞추려면 바삐 움직일 수밖에 없다는데~ 바쁘게 뛰어다니던 달인! 갑자기 어디론가 향하는데? 달인의 진정한 모습은 이곳에서 시작된다~!! 배달을 끝내고 급식소에 들어서자마자 씻어놓은 밥통을 작업대 위로 빠르게 올려놓는 달인~!! 이 뿐 만이 아니다! 세 개의 도시락 통을 한꺼번에 집은 뒤 한 개씩 보온도시락 통 안으로 빠르게 나...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/09/KR_VC_CTI_USQT620324A_KRBB4200018FT_402260023_20230609183741667.jpg"/>
+  </programme>
   <channel id="KRBC3500018J9">
     <display-name>MBN 휴먼다큐 사노라면</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20230208T092059SQUARE.png_20230208092100.png"/>
   </channel>
-  <programme channel="KRBC3500018J9" start="20230609224935 +0000" stop="20230609235540 +0000">
-    <title>휴먼다큐 사노라면 314회</title>
-    <desc>충청남도 서천 시골 마을에는 귀촌 후 뒤늦게 만난 8살 터울 인생 친구 최광진(65) 씨와 나영국(57) 씨가 있다. 인생 황혼기에 만나 함께라서 행복하다는 두 남자.하지만 허당 형님에게 쏟아지는 아우의 잔소리에 조금씩 관계가 틀어지기 시작하는데... 사소한 서운함이 흔들어놓은 두 남자의 우정은 과연 다시 제자리를 찾을 수 있을까?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/31/KR_VC_CTI_KRPBA3501QY_KRBC3500018J9_b0d7dbe2e080ccbfde11ef8a7efbbcfbe1bc_20230609183709734.jpg"/>
-  </programme>
   <programme channel="KRBC3500018J9" start="20230609235540 +0000" stop="20230610010134 +0000">
     <title>휴먼다큐 사노라면 316회</title>
     <desc>경북 경주, 봄소식을 알리려 미나리 가족이 떴다!요즘은 미나리 수확으로 바쁜 시기. 그러나 아들 박정욱(34) 씨의 마음은 콩밭에 가있다?! 100년 가업 미나리는 뒷전이고 다른 사업 챙기는데 열을 올리는 아들 때문에, 하루도 쉴 틈이 없는 엄마 김말순(63) 씨.결국 엄마 말순 씨는 파업을 선언하는데... 과연 모자는 전쟁을 끝내고 따뜻한 봄을 맞이할 수 있을까?</desc>
@@ -3617,6 +3575,11 @@
     <desc>천생 농사꾼 아버지와 소신 있는 늦깎이 농부 아들!힘들고 어려운 무농약을 고집하는 아들!부도님도 꺾을 수 없는 아들의 황소고집?!아버지와 아들의 농사 전쟁의 결과는?</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/67/KR_VC_CTI_KRPBA3501QY_KRBC3500018J9_b0d7dbe23747a15ccc7735c28e7188b3b578_20230609183552829.jpg"/>
   </programme>
+  <programme channel="KRBC3500018J9" start="20230610062026 +0000" stop="20230610072558 +0000">
+    <title>휴먼다큐 사노라면 299회</title>
+    <desc>한평생 남편 몰래 일 벌이는 아내와 이를 용납할 수 없는 남편의 팽팽한 신경전!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/67/KR_VC_CTI_KRPBA3501QY_KRBC3500018J9_b0d7dbe2a50933dbd5c16da8724bfe2d4afc_20230609183123398.jpg"/>
+  </programme>
   <channel id="KRAH1801500A">
     <display-name>현대홈쇼핑</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20230322T010920SQUARE.png_20230322010921.png"/>
@@ -3636,25 +3599,15 @@
     <desc></desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/56/KR_VC_CTI_KRQY182085A_202306103005_20230609180056994.jpg"/>
   </programme>
+  <programme channel="KRAH1801500A" start="20230610060000 +0000" stop="20230610071000 +0000">
+    <title>종합(미분류)</title>
+    <desc></desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/92/KR_VC_CTI_KRQY182085A_202306103006_20230609180057338.jpg"/>
+  </programme>
   <channel id="KRBC3200010XJ">
     <display-name>우리의식탁</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200010XJ_20220824T112711SQUARE.png_20220824112712.png"/>
   </channel>
-  <programme channel="KRBC3200010XJ" start="20230609231708 +0000" stop="20230609233747 +0000">
-    <title>오붓한 밥상 23</title>
-    <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의 식탁입니다. [콩나물요리 3가지, 달걀지단김밥과 달걀김밥]</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/37/KR_VC_CTI_KRPBA3501QY_KRBC3200010XJ_009f347cedc69a87a79be56873916898c0d1_20230609183654616.jpg"/>
-  </programme>
-  <programme channel="KRBC3200010XJ" start="20230609233747 +0000" stop="20230609235828 +0000">
-    <title>오붓한 밥상 5</title>
-    <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의 식탁입니다. [부대찌개, 불고기비빔밥, 잡채]</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/70/KR_VC_CTI_KRPBA3501QY_KRBC3200010XJ_009f347cf2a7ea897a7774ec39b98c071c61_20230609183152833.jpg"/>
-  </programme>
-  <programme channel="KRBC3200010XJ" start="20230609235828 +0000" stop="20230610001539 +0000">
-    <title>오붓한 밥상 6</title>
-    <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의 식탁입니다. [아보카도명란비빔밥, 장조림과 장조림버터비빔밥, 양배추깻잎피클]</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/89/KR_VC_CTI_KRPBA3501QY_KRBC3200010XJ_009f347c75d5e3c51988f28b7ac20ade3bb0_20230609183902468.jpg"/>
-  </programme>
   <programme channel="KRBC3200010XJ" start="20230610001539 +0000" stop="20230610003358 +0000">
     <title>오붓한 밥상 7</title>
     <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의 식탁입니다. [감자고로케, 오징어순대, 가츠동(돈가스덮밥)]</desc>
@@ -3740,15 +3693,30 @@
     <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의 식탁입니다. [콩나물요리 3가지, 달걀지단김밥과 달걀김밥]</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/37/KR_VC_CTI_KRPBA3501QY_KRBC3200010XJ_009f347cedc69a87a79be56873916898c0d1_20230609183654616.jpg"/>
   </programme>
+  <programme channel="KRBC3200010XJ" start="20230610053123 +0000" stop="20230610055143 +0000">
+    <title>오붓한 밥상 24</title>
+    <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의 식탁입니다. [냉메밀, 불고기 토마토 샐러드, 리코타치즈, 차돌박이초밥, 초계탕]</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/10/KR_VC_CTI_KRPBA3501QY_KRBC3200010XJ_009f347ce09a05f2e1f3bfa6dcaeaac6608d_20230609183107188.jpg"/>
+  </programme>
+  <programme channel="KRBC3200010XJ" start="20230610055143 +0000" stop="20230610060906 +0000">
+    <title>오붓한 밥상 25</title>
+    <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의 식탁입니다. [스테이크 샐러드, 굴튀김과 타르타르소스, 삼색나물, 명란솥밥]</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/35/KR_VC_CTI_KRPBA3501QY_KRBC3200010XJ_009f347ca8814488dacc6b51521fedbbe057_20230609183654179.jpg"/>
+  </programme>
+  <programme channel="KRBC3200010XJ" start="20230610060906 +0000" stop="20230610062725 +0000">
+    <title>오붓한 밥상 7</title>
+    <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의 식탁입니다. [감자고로케, 오징어순대, 가츠동(돈가스덮밥)]</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/94/KR_VC_CTI_KRPBA3501QY_KRBC3200010XJ_009f347c6ef21e6a5d3125e6c361aaa9e8bb_20230609183152270.jpg"/>
+  </programme>
+  <programme channel="KRBC3200010XJ" start="20230610062725 +0000" stop="20230610064440 +0000">
+    <title>오붓한 밥상 8</title>
+    <desc>행복한 식탁을 꿈꾸는 우리들의 이야기, 우리의 식탁입니다. [어묵전골(오뎅탕), 김치비빔국수, 치즈 닭갈비]</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/71/KR_VC_CTI_KRPBA3501QY_KRBC3200010XJ_009f347cc9d8ddec0470304e02f113edea8d_20230609183326185.jpg"/>
+  </programme>
   <channel id="KRAH4602000A">
     <display-name>현대홈쇼핑+Shop</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20230322T010922SQUARE.png_20230322010923.png"/>
   </channel>
-  <programme channel="KRAH4602000A" start="20230609224000 +0000" stop="20230609234000 +0000">
-    <title>주방</title>
-    <desc></desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/56/KR_VC_CTI_KRQY462106A_202306105004_20230609180034049.jpg"/>
-  </programme>
   <programme channel="KRAH4602000A" start="20230609234000 +0000" stop="20230610004000 +0000">
     <title>렌탈</title>
     <desc></desc>
@@ -3774,35 +3742,20 @@
     <desc></desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/05/10/KR_VC_CTI_KRQY462106A_202306105009_20230609175947333.jpg"/>
   </programme>
-  <programme channel="KRAH4602000A" start="20230610044000 +0000" stop="20230610053959 +0000">
+  <programme channel="KRAH4602000A" start="20230610044000 +0000" stop="20230610054000 +0000">
     <title>보석</title>
     <desc></desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/54/KR_VC_CTI_KRQY462106A_202306105010_20230609180027047.jpg"/>
+  </programme>
+  <programme channel="KRAH4602000A" start="20230610054000 +0000" stop="20230610063959 +0000">
+    <title>대형가전</title>
+    <desc></desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/76/KR_VC_CTI_KRQY462106A_202306105011_20230609175947614.jpg"/>
   </programme>
   <channel id="KRBD2000001BN">
     <display-name>뽀요TV</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2000001BN_20230524T004403SQUARE.png_20230524004404.png"/>
   </channel>
-  <programme channel="KRBD2000001BN" start="20230609231609 +0000" stop="20230609233713 +0000">
-    <title>뽀롱뽀롱 뽀로로 4기 6회 &lt;나도 스케이트를 잘 탈 수 있어&gt;</title>
-    <desc>에디만 스케이트를 제대로 타지 못해 친구들 앞에서 망신당하고 맙니다. 고민하던 에디는 결국 자동으로 움직이는 스케이트를 발명하는데…</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/50/KR_VC_CTI_USQT620324A_781bff23e5f68ecf834abb499bb57eee_20230609183351342.jpg"/>
-  </programme>
-  <programme channel="KRBD2000001BN" start="20230609233713 +0000" stop="20230609234748 +0000">
-    <title>띠띠뽀 탐구생활 4회 &lt;가장 친절한 기차는 누구?&gt;</title>
-    <desc>4회 &lt;가장 친절한 기차는 누구?&gt; 띠띠뽀 인기 캐릭터 친구들이 총출동했어요! 애니메이션 속 주인공들의 친구 소개로 더 재미있게 만나보세요.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/62/KR_VC_CTI_USQT620324A_fb5ca592838a9059ed792ef768557b5b_20230609184019655.jpg"/>
-  </programme>
-  <programme channel="KRBD2000001BN" start="20230609234748 +0000" stop="20230610000015 +0000">
-    <title>띠띠뽀 탐구생활 5회 &lt;가장 깨끗한 기차는 누구?&gt;</title>
-    <desc>5회 &lt;가장 깨끗한 기차는 누구?&gt; 띠띠뽀 인기 캐릭터 친구들이 총출동했어요! 애니메이션 속 주인공들의 친구 소개로 더 재미있게 만나보세요.</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/54/KR_VC_CTI_USQT620324A_1d81fdbaa89304a81db512f3388aad3c_20230609183549036.jpg"/>
-  </programme>
-  <programme channel="KRBD2000001BN" start="20230610000015 +0000" stop="20230610001558 +0000">
-    <title>꼬마버스 타요 1기 5회 &lt;어둠이 무서워요&gt;</title>
-    <desc>라니는 로기가 꾸며낸 전설의 자동차 이야기를 듣고 겁을 먹게 됩니다. 어두운 것이 무서워진 라니는 운행중에 깜깜한 터널에서 뒤따라오던 빅을 전설의 자동차로 오해하게 되는데…</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/05/08/KR_VC_CTI_USQT620324A_00936958b3ffb5ff843a57b94f2a3dc4_20230609183548848.jpg"/>
-  </programme>
   <programme channel="KRBD2000001BN" start="20230610001558 +0000" stop="20230610003341 +0000">
     <title>꼬마버스 타요 1기 6회 &lt;고마워요, 씨투!&gt;</title>
     <desc>꼬마버스들이 운행을 잘하고 있나 걱정이 된 씨투는 하루 종일 꼬마버스들을 따라다니며 돕는데요. 힘들었지만 꼬마버스들의 감사 인사에 기분이 좋아집니다.</desc>
@@ -3868,25 +3821,25 @@
     <desc>5회 &lt;불이야!&gt; 테마로 만나는 타요와 친구들의 이야기!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/43/KR_VC_CTI_USQT620324A_cfb7e31e2e95c56738995340493282a5_20230609183455180.jpg"/>
   </programme>
+  <programme channel="KRBD2000001BN" start="20230610054218 +0000" stop="20230610060105 +0000">
+    <title>뽀로로 인기동요 5회</title>
+    <desc>뽀로로와 함께 인기 동요를 듣고 신나게 따라 불러 보아요.</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/06/KR_VC_CTI_USQT620324A_2ce5d098877a72fd6b6acc3eea75cdd3_20230609183210921.jpg"/>
+  </programme>
+  <programme channel="KRBD2000001BN" start="20230610060105 +0000" stop="20230610062554 +0000">
+    <title>뽀로로 베이비 잉글리쉬 3회</title>
+    <desc>반복 학습과 즐거운 노래로 영어를 가장 쉽고 재미있게 배울 수 있어요!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/41/KR_VC_CTI_USQT620324A_6dc2ff9feff46337cf69fcdf38703d31_20230609183211300.jpg"/>
+  </programme>
+  <programme channel="KRBD2000001BN" start="20230610062554 +0000" stop="20230610070007 +0000">
+    <title>뽀요와 함께하는 율동교실 5회</title>
+    <desc>즐거운 동요를 율동과 함께 하면 더욱더 신이 나요! 뽀로로랑 타요랑 두 팔을 흔들흔들, 엉덩이를 씰룩씰룩 흔들어봐요~!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/05/KR_VC_CTI_USQT620324A_0b9248a4f362ace924c65de4019105bf_20230609183210406.jpg"/>
+  </programme>
   <channel id="KRBC32000126M">
     <display-name>ch.핑크퐁</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20221026T003451SQUARE.png_20221026003452.png"/>
   </channel>
-  <programme channel="KRBC32000126M" start="20230609231551 +0000" stop="20230609233825 +0000">
-    <title>가정의 달 스페셜 동요&amp;체조</title>
-    <desc>어린이 여러분! 우리는 모두 제각기 특별한 존재예요! 모두 세상에 단 하나밖에 없는 존재랍니다. 핑크퐁 아기상어 올리와 함께 가정의달 우리의 소중한 꿈과 가족에 대하여 노래해요!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/51/KR_VC_CTI_KRPBA3501QY_KRBC32000126M_4085de1c464700086a423bed1c86563096ff_20230609183553948.jpg"/>
-  </programme>
-  <programme channel="KRBC32000126M" start="20230609233825 +0000" stop="20230610000045 +0000">
-    <title>핑크퐁과 아기상어의 댄스 어드벤처 Ep1</title>
-    <desc>함께 신나는 댄스를 하다보면 몸도 튼튼! 키도 쑥쑥! 기분도 최고~!지금부터 핑크퐁과 아기상어와 함께 신나는 댄스 여행을 떠나볼까요?</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/64/KR_VC_CTI_KRPBA3501QY_KRBC32000126M_009f347c5330d89e99a932886ff2b30e0b9f_20230609183808037.jpg"/>
-  </programme>
-  <programme channel="KRBC32000126M" start="20230610000045 +0000" stop="20230610002627 +0000">
-    <title>핑크퐁 생활 습관 Ep3</title>
-    <desc>언제 어디서나 핑크퐁과 함께라면 멋진 어린이가 될 수 있어요! 우리 함께 건강한 마음과 행동을 핑크퐁 생활습관으로 배워봐요!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/08/50/KR_VC_CTI_KRPBA3501QY_KRBC32000126M_4085de1c22314dcd05498d67a4f778de2197_20230609183553508.jpg"/>
-  </programme>
   <programme channel="KRBC32000126M" start="20230610002627 +0000" stop="20230610005740 +0000">
     <title>핑크퐁 직업 동요</title>
     <desc>어른이 되면 뭐가 되고 싶나요? 힘을 합쳐 범인을 잡는 탐정들과, 모두가 잠들면 등장하는 밤의 영웅들! 용감한 소방관, 멋진 우주비행사까지 모두 우리 주위의 이웃들이랍니다. 핑크퐁과 함께 마을을 돌아다니며 다양한 직업을 만나 봐요!</desc>
@@ -3947,20 +3900,20 @@
     <desc>깊고 깊은 바닷속엔 누가누가 살고 있을까요? 무시무시한 바다의 사냥꾼 상어, 알록달록 예쁜 산호 친구들까지! 핑크퐁 바다 동물 동요과 함께 신비로운 바다 세상으로 떠나볼까요? 핑크퐁과 그림놀이 해요! 핑크퐁 동요에 맞춰 바다 동물 그림을 슥슥 그려봐요. 따라하다보면 어느새 완성!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/90/KR_VC_CTI_KRPBA3501QY_KRBC32000126M_009f347c3cff4326828bd831f41ae16f26db_20230609183806938.jpg"/>
   </programme>
+  <programme channel="KRBC32000126M" start="20230610054524 +0000" stop="20230610061813 +0000">
+    <title>아기상어 색깔 동요</title>
+    <desc>아기상어와 함께 신나는 노래로 색깔을 배워봐요! 알록달록 멋진 색깔이 가득한 바닷속에서는 어떤 이야기가 펼쳐질까요? 바닷속 친구들과 함께 신나게 노래하고 춤춰요!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/55/KR_VC_CTI_KRPBA3501QY_KRBC32000126M_4085de1c43a54a5ce379ab7f58cb82f228d2_20230609183700857.jpg"/>
+  </programme>
+  <programme channel="KRBC32000126M" start="20230610061813 +0000" stop="20230610063610 +0000">
+    <title>핑크퐁 아기상어 탐험대</title>
+    <desc>신비한 미지의 세계 우주로 떠날까요? 다양한 동물들을 만나러 정글로 갈까요? 잠수함을 타고 바닷속을 갈 수도 있고, 해적선을 타고 보물을 찾으러 갈 수도 있어요. 우리 함께 신나는 탐험 여행 떠나요!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/06/62/KR_VC_CTI_KRPBA3501QY_KRBC32000126M_4085de1c4c6115f7a53f730922f75ce85f9e_20230609183333267.jpg"/>
+  </programme>
   <channel id="KRBC800013YF">
     <display-name>투니버스 흔한남매의 안흔한일기3</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800013YF_20230426T013734SQUARE.png_20230426013734.png"/>
   </channel>
-  <programme channel="KRBC800013YF" start="20230609232015 +0000" stop="20230609234637 +0000">
-    <title>5회: 흔한남매의 새로운 가족이 생기다? 엄지와의 첫 만남! / 강아지 집 만들기 대결! 과연 엄지의 선택은?</title>
-    <desc>흔한남매에게 새로운 가족이 생겼다?!너무너무 귀여운 엄지와 흔한남매의 첫만남!엄지가 푹 쉴 수 있는 집을 만들어라!우당탕탕 강아지 집 만들기 대결!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/22/KR_VC_CTI_KRQT161013A_B120211271_D5_764007_20230511053134737.jpg"/>
-  </programme>
-  <programme channel="KRBC800013YF" start="20230609234637 +0000" stop="20230610001238 +0000">
-    <title>6회: 흔한남매가 어른이 된다면? 어른이라서 안 좋을 때! / 초 간단 치즈 감자호떡 만들기!</title>
-    <desc>어른이 되고 싶다고 생각하고 잠이 든 으뜸이와 에이미!자고 일어나니 어른이 됐다?!어른이 되면 뭐든 재미있을 줄 알았는데...어른이라서 안 좋은 순간이 있다구?!흔한남매의 초 간단 치즈 감자호떡 만들기!흔한남매와 함께 맛있는 감자호떡 만들어볼까?!</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/37/KR_VC_CTI_KRQT161013A_B120211271_D6_772549_20230511053340087.jpg"/>
-  </programme>
   <programme channel="KRBC800013YF" start="20230610001238 +0000" stop="20230610003924 +0000">
     <title>7회: 에이미의 명령대로 하는 원격 아바타 소개팅하다 / 시험 망쳤을 때 엄마에게 안 혼나는 꿀팁!</title>
     <desc>민철의 친구 노을을 소개받게 된 으뜸!에이미의 도움을 받으며 노을을 만나게 되는데..에이미의 조언이 어딘가 이상하다..?!과연 으뜸이는 여자친구를 사귈 수 있을까..?행복은 성적순이 아니잖아요~!시험을 망친 흔한남매!엄마에게 안혼나는 방법이 있다고?!과연 으뜸과 에이미의 방법은?</desc>
@@ -4026,20 +3979,20 @@
     <desc>자는 사이에, 서로의 얼굴에 몰래 낙서한 으뜸과 에이미! 복수를 다짐하고, 때를 노리던 그때 흔한남매의 눈에 들어온 서로의 방?! 얼굴대신 방을 꾸며주기 시작하는데... 흔한남매도 예상치 못한 반전?!갖고싶던 롱보드를 드디어 갖게 된 흔한남매!롱보드 탈 때 이런 사람 꼭 있다! 에이미와 으뜸이가 보여주는 롱보드 타는 유형!</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/04/56/KR_VC_CTI_KRQT161013A_B120211271_D19_882623_20230511053217544.jpg"/>
   </programme>
+  <programme channel="KRBC800013YF" start="20230610055435 +0000" stop="20230610061352 +0000">
+    <title>20회: 충격! 와플 기계에 온갖 음식을 넣어봤더니?</title>
+    <desc>중고거래에서 실수로 게임칩을 와플기계와 바꿔버린 흔한남매!실수를 만회하기 위해 와플기계에 온갖 음식을 넣어보는데...</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/56/KR_VC_CTI_KRQT161013A_B120211271_D20_890951_20230511053223351.jpg"/>
+  </programme>
+  <programme channel="KRBC800013YF" start="20230610061352 +0000" stop="20230610064210 +0000">
+    <title>2회: 잘생겨서 안 좋을 때! / 이런 음악 학원이 있다고? 음악교실 놀이</title>
+    <desc>잘생겨서 안 좋을 때가 있다고?!갑자기 잘생겨진(?) 으뜸이!잘생겨서 힘든 순간은 과연 언제일까?!흔한남매의 기상천외 음악교실 놀이!진짜 이런 음악 학원이 있을까...?</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/03/81/KR_VC_CTI_KRQT161013A_B120211271_D2_740371_20230511053336883.jpg"/>
+  </programme>
   <channel id="KRBC3200005SH">
     <display-name>게임 연구소</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20220824T112716SQUARE.png_20220824112717.png"/>
   </channel>
-  <programme channel="KRBC3200005SH" start="20230609231138 +0000" stop="20230609233155 +0000">
-    <title>2020 LWT INVITATIONAL DAY1 하이라이트</title>
-    <desc>[LWT 초청전] 4강 풀리그 천상계 여성 플레이어 개막전 첫 경기인만큼 어떤 경기들을 보여줄지가 기대됩니다. (하이라이트)</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/44/KR_VC_CTI_KRPBA3501QY_KRBC3200005SH_4085de1cc4df18604d3ada23cc31bf2bb4b2_20230609183756715.jpg"/>
-  </programme>
-  <programme channel="KRBC3200005SH" start="20230609233155 +0000" stop="20230609234147 +0000">
-    <title>[제 1회 고교챌린지] Trailer(앰비션) / 예선전 TOP5</title>
-    <desc>해설자로 앰비션이 나올꺼라고? 고교챌린지 시작과 함께 예선전 TOP5를 소개합니다</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/73/KR_VC_CTI_KRPBA3501QY_KRBC3200005SH_4085de1c79b57813bf638e291a0c3491473c_20230609183526832.jpg"/>
-  </programme>
   <programme channel="KRBC3200005SH" start="20230609234147 +0000" stop="20230610004513 +0000">
     <title>[제 1회 고교챌린지] 본선 16강 1경기 원곡고 VS 백영고</title>
     <desc>전반적으로 거를 타선이 없는 경기 본선 16강 1경기 원곡고 VS 백영고</desc>
@@ -4139,15 +4092,15 @@
     <desc>선 아르헨티나의 부에노스아이레스에서 왕가위 감독은 0도의 땅을 찾는다. 동쪽도 서쪽도 아니고, 낮도 밤도 없으며, 춥지도 덥지도 않은 그곳. 제로 디그리의 땅에서 철저한 이방인이 되어 영화를 찍는 동안의 우여곡절이 녹아 있다. 생각처럼 풀리지 않는 촬영과 자꾸만 미루어지는 일정, 스태프와 배우들의 고뇌 영화에서 담지 않은 뒷이야기들.</desc>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/02/12/KR_VC_CTI_KRPBA3501QY_KRBC3200004D1_4085de1c5d30084e4f50ca5b93f4b87861b9_20230609183646002.jpg"/>
   </programme>
+  <programme channel="KRBC3200004D1" start="20230610054138 +0000" stop="20230610071828 +0000">
+    <title>작전명 D-Day</title>
+    <desc>노르망디 상륙작전의 숨겨진 이름, 작전명 D-Day! 브래들리 장군, 러더 중령, 롬멜 상사, 라이틀 소령은 제 2중대를 이끌고 노르망디 상륙 작전에 돌입하기에 이르는데...! 1944년 6월 6일, 그날의 영웅을 확인하라!</desc>
+    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/09/97/KR_VC_CTI_KRPBA3501QY_KRBC3200004D1_4085de1c5f6b36119bd1136c0a75ac4adac7_20230609183540228.jpg"/>
+  </programme>
   <channel id="KRBC5000020AF">
     <display-name>JTBC 주크박스</display-name>
     <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20230426T013700SQUARE.png_20230426013701.png"/>
   </channel>
-  <programme channel="KRBC5000020AF" start="20230609225351 +0000" stop="20230610001252 +0000">
-    <title>노래방에서 부르기 딱 좋은 노래 모음</title>
-    <desc>00:01​ ｜야다 - 이미 슬픈 사랑 04:06​ ｜izi - 응급실 07:57 ｜바이브(윤민수) - 다시 와주라 12:23 ｜버즈(민경훈) - 남자를 몰라 16:13 ｜임재범 - 고해 19:01 ｜케이윌 - 그립고 그립고 그립다</desc>
-    <icon src="https://tvpnlogopus.samsungcloud.tv/platform/image/contents/vc/00/01/54/KR_VC_CTI_USQT620324A_KRBC5000020AF_jtbc_episode_FP00041847_20230609184021474.jpg"/>
-  </programme>
   <programme channel="KRBC5000020AF" start="20230610001252 +0000" stop="20230610004516 +0000">
     <title>페스티벌에서 한 번 쯤은 봤을 라이브 미친 가수들 모음</title>
     <desc>슈가맨 : 씨야 / 쇼맨 : 적재 / 편곡 : 적재 / 스트링 편곡 : 추대관 원곡과 달리 적재만의 가사 해석과 악기 편성으로 재탄생한 '2020 사랑의 인사'♬</desc>
